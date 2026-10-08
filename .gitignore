@@ -1,0 +1,28 @@
+# Dependências
+node_modules/
+package-lock.json
+
+# Builds e Artifacts do Astro
+.astro/
+dist/
+
+# Variáveis de Ambiente
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.env.*.local
+
+# Arquivos de Sistema e IDE
+.DS_Store
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+.vercel
+.env*

@@ -1,0 +1,96 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map(post => ({
+    params: { slug: post.slug },
+    props: { post },
+  }));
+}
+
+export const prerender = true;
+
+const { post } = Astro.props;
+const { Content } = await post.render();
+
+// Pegar outras dicas para a sidebar (excluindo a atual, limitando a 3)
+const allPosts = await getCollection('blog');
+const outrasDicas = allPosts
+  .filter(p => p.slug !== post.slug)
+  .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime())
+  .slice(0, 3);
+---
+
+<Layout title={post.data.title} description={post.data.description}>
+  
+  <section class="py-24 md:py-32 bg-gray-50 min-h-screen">
+    <div class="container mx-auto px-6 md:px-12 max-w-7xl">
+      
+      <!-- Cabeçalho do Post -->
+      <header class="mb-16 text-center max-w-4xl mx-auto">
+        <p class="text-secondary font-black mb-4 uppercase tracking-wider text-sm hover:scale-105 transition-transform inline-block">
+          {post.data.publishDate.toLocaleDateString('pt-BR', { year: 'numeric', month: 'long', day: 'numeric' })}
+        </p>
+        <h1 class="text-4xl sm:text-5xl md:text-6xl font-black text-gray-900 mb-6 tracking-tighter leading-tight">
+          {post.data.title}
+        </h1>
+        <p class="text-base text-gray-600 leading-relaxed">
+          {post.data.description}
+        </p>
+      </header>
+
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-12">
+        
+        <!-- Conteúdo Principal -->
+        <div class="lg:col-span-8 bg-white p-10 md:p-16 rounded-2xl shadow-xl shadow-gray-200/50 border border-gray-100 hover:-translate-y-1 transition-all cursor-default">
+          <article class="prose prose prose-gray max-w-none">
+            <Content />
+          </article>
+        </div>
+
+        <!-- Sidebar / Barra Lateral -->
+        <aside class="lg:col-span-4 space-y-12">
+          
+          <!-- Card Orçamento Sticky (Fundo Amarelo) -->
+          <div class="bg-primary rounded-3xl p-8 text-center shadow-xl border border-yellow-300 sticky top-28">
+            <span class="text-[11px] font-black uppercase tracking-widest text-gray-900/80 mb-3 block">
+              Orçamento sem compromisso
+            </span>
+            <h3 class="text-xl md:text-2xl font-black text-gray-900 leading-tight mb-6">
+              Interessado neste serviço?
+            </h3>
+
+            <div class="space-y-4 mb-8">
+              <a 
+                href="https://wa.me/5511943758880?text=Olá! Vim pelo blog e gostaria de um orçamento."
+                target="_blank"
+                rel="noopener noreferrer"
+                class="flex items-center justify-center gap-2 w-full py-4 px-6 rounded-xl bg-gray-900 hover:bg-black text-white font-black text-base transition-all shadow-md hover:scale-105 active:scale-95"
+              >
+                <svg class="w-5 h-5 fill-current text-primary" viewBox="0 0 24 24"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-.999 3.648 3.742-.981z"/></svg>
+                Pedir no WhatsApp
+              </a>
+
+              <a 
+                href="tel:+5511943758880"
+                class="flex items-center justify-center gap-2 w-full py-4 px-6 rounded-xl bg-white hover:bg-gray-100 text-gray-900 font-bold text-base transition-all border border-gray-200 shadow-sm hover:scale-105 active:scale-95"
+              >
+                📞 Ligar Agora
+              </a>
+            </div>
+
+            <p class="text-xs text-gray-900 font-medium mb-1">Dúvidas? Fale com um especialista.</p>
+            <a href="tel:+5511943758880" class="text-lg font-black text-gray-900 hover:underline block">
+              (11) 94375-8880
+            </a>
+          </div>
+
+
+        </aside>
+
+      </div>
+    </div>
+  </section>
+</Layout>

@@ -1,0 +1,273 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const servicos = await getCollection('servicos');
+  return servicos.map(servico => ({
+    params: { slug: servico.slug },
+    props: { servico },
+  }));
+}
+
+export const prerender = true;
+
+const { servico } = Astro.props;
+const { Content } = await servico.render();
+const pageTitle = servico.data.seoTitle || `Aluguel de ${servico.data.title} em Guarulhos - SP | Preço`;
+---
+
+<Layout title={pageTitle} description={servico.data.description}>
+  <!-- 1. Hero do Serviço (Fundo Branco) -->
+  <section class="pt-36 pb-20 bg-white border-b border-gray-100 text-center relative overflow-hidden">
+    <div class="container mx-auto px-6 md:px-12 relative z-10 max-w-4xl flex flex-col items-center">
+      
+      <!-- Tag Pill -->
+      <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-yellow-100 border border-yellow-300 text-gray-900 text-xs font-black uppercase tracking-wider mb-6">
+        Serviço Especializado
+      </div>
+
+      <!-- Título Principal -->
+      <h1 class="text-4xl sm:text-5xl md:text-6xl font-black text-gray-900 tracking-tight leading-tight mb-6">
+        {servico.data.title}
+      </h1>
+
+      <!-- Subtítulo -->
+      <p class="text-base md:text-lg text-gray-600 leading-relaxed mb-8 max-w-2xl mx-auto">
+        {servico.data.description}
+      </p>
+
+      <!-- Botões de Ação Centralizados -->
+      <div class="flex flex-col sm:flex-row items-center justify-center gap-4 w-full sm:w-auto">
+        <a 
+          href={`https://wa.me/5511943758880?text=Olá! Gostaria de alugar a ${servico.data.title}`}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="w-full sm:w-auto px-8 py-4 rounded-xl bg-primary hover:bg-yellow-400 text-gray-900 font-black text-base transition-all shadow-lg text-center hover:scale-105 active:scale-95 flex items-center justify-center gap-2"
+        >
+          <svg class="w-5 h-5 fill-current" viewBox="0 0 24 24"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-.999 3.648 3.742-.981z"/></svg>
+          Chamar no WhatsApp
+        </a>
+        <a 
+          href="#especificacoes"
+          class="w-full sm:w-auto px-8 py-4 rounded-xl bg-white hover:bg-gray-100 text-gray-900 font-bold text-base transition-all border border-gray-300 shadow-sm text-center hover:scale-105 active:scale-95"
+        >
+          Ver Especificações
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- 2. Área Conteúdo + Sidebar Sticky -->
+  <section class="py-20 bg-white">
+    <div class="container mx-auto px-6 md:px-12 max-w-6xl">
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
+        
+        <!-- Coluna da Esquerda (Conteúdo Principal) -->
+        <div class="lg:col-span-8 space-y-12">
+          
+          <!-- Bloco Especificações Técnicas (Conforme a imagem) -->
+          {servico.data.specs && (
+            <div id="especificacoes" class="scroll-mt-36">
+              <h2 class="text-2xl md:text-3xl font-black text-gray-900 mb-6 tracking-tight">Especificações Técnicas</h2>
+              
+              <div class="bg-[#F8F9FA] rounded-[28px] p-8 md:p-10 border border-gray-200/70 shadow-sm">
+                <div class="grid grid-cols-2 sm:grid-cols-3 gap-y-8 gap-x-6">
+                  {servico.data.specs.altura && (
+                    <div>
+                      <span class="text-[11px] md:text-[12px] font-semibold text-gray-400 uppercase tracking-widest block mb-1">Altura</span>
+                      <span class="text-lg sm:text-xl font-bold text-gray-900">{servico.data.specs.altura}</span>
+                    </div>
+                  )}
+
+                  {servico.data.specs.largura && (
+                    <div>
+                      <span class="text-[11px] md:text-[12px] font-semibold text-gray-400 uppercase tracking-widest block mb-1">Largura</span>
+                      <span class="text-lg sm:text-xl font-bold text-gray-900">{servico.data.specs.largura}</span>
+                    </div>
+                  )}
+
+                  {servico.data.specs.comprimento && (
+                    <div>
+                      <span class="text-[11px] md:text-[12px] font-semibold text-gray-400 uppercase tracking-widest block mb-1">Comprimento</span>
+                      <span class="text-lg sm:text-xl font-bold text-gray-900">{servico.data.specs.comprimento}</span>
+                    </div>
+                  )}
+
+                  {servico.data.specs.volume && (
+                    <div>
+                      <span class="text-[11px] md:text-[12px] font-semibold text-gray-400 uppercase tracking-widest block mb-1">Volume</span>
+                      <span class="text-lg sm:text-xl font-bold text-gray-900">{servico.data.specs.volume}</span>
+                    </div>
+                  )}
+
+                  {servico.data.specs.pesoSuportado && (
+                    <div>
+                      <span class="text-[11px] md:text-[12px] font-semibold text-gray-400 uppercase tracking-widest block mb-1">Peso Suportado</span>
+                      <span class="text-lg sm:text-xl font-bold text-gray-900">{servico.data.specs.pesoSuportado}</span>
+                    </div>
+                  )}
+
+                  {servico.data.specs.quantidade && (
+                    <div>
+                      <span class="text-[11px] md:text-[12px] font-semibold text-gray-400 uppercase tracking-widest block mb-1">Quantidade</span>
+                      <span class="text-lg sm:text-xl font-bold text-gray-900">{servico.data.specs.quantidade}</span>
+                    </div>
+                  )}
+                </div>
+              </div>
+            </div>
+          )}
+
+          <!-- Texto em Markdown enviado pelo cliente -->
+          <article class="prose prose-lg max-w-none prose-headings:font-black prose-headings:text-gray-900 prose-h2:text-2xl prose-h2:mt-8 prose-h2:mb-4 prose-p:text-gray-600 prose-p:leading-relaxed prose-li:text-gray-600">
+            <Content />
+          </article>
+
+          <!-- Card Benefícios e Aplicações -->
+          <div class="bg-[#F8F9FA] rounded-[28px] p-8 md:p-10 border border-gray-200/70 shadow-sm">
+            <h3 class="text-2xl font-black text-gray-900 mb-8 tracking-tight">Benefícios e Aplicações</h3>
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-8">
+              <div class="flex items-start gap-4">
+                <div class="w-8 h-8 rounded-lg bg-primary/20 text-gray-900 flex items-center justify-center font-bold shrink-0 mt-0.5">✓</div>
+                <div>
+                  <h4 class="font-bold text-gray-900 mb-1">Praticidade</h4>
+                  <p class="text-sm text-gray-600 leading-relaxed">Equipamento pronto para facilitar o carregamento e não atrapalhar o tráfego da rua.</p>
+                </div>
+              </div>
+
+              <div class="flex items-start gap-4">
+                <div class="w-8 h-8 rounded-lg bg-primary/20 text-gray-900 flex items-center justify-center font-bold shrink-0 mt-0.5">✓</div>
+                <div>
+                  <h4 class="font-bold text-gray-900 mb-1">Agilidade</h4>
+                  <p class="text-sm text-gray-600 leading-relaxed">Logística inteligente para entrega rápida e troca imediata quando a caçamba encher.</p>
+                </div>
+              </div>
+
+              <div class="flex items-start gap-4">
+                <div class="w-8 h-8 rounded-lg bg-primary/20 text-gray-900 flex items-center justify-center font-bold shrink-0 mt-0.5">✓</div>
+                <div>
+                  <h4 class="font-bold text-gray-900 mb-1">Conformidade</h4>
+                  <p class="text-sm text-gray-600 leading-relaxed">Pintura e faixas refletivas de alta visibilidade e facilidade de fiscalização da obra.</p>
+                </div>
+              </div>
+
+              <div class="flex items-start gap-4">
+                <div class="w-8 h-8 rounded-lg bg-primary/20 text-gray-900 flex items-center justify-center font-bold shrink-0 mt-0.5">✓</div>
+                <div>
+                  <h4 class="font-bold text-gray-900 mb-1">Sustentabilidade</h4>
+                  <p class="text-sm text-gray-600 leading-relaxed">Garantia de que 100% dos resíduos vão para a destinação correta e são reciclados.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- FAQ Accordion (Perguntas Frequentes) -->
+          <div class="space-y-6 pt-4">
+            <h3 class="text-2xl font-black text-gray-900 tracking-tight mb-6">Perguntas Frequentes</h3>
+            
+            <div class="space-y-4">
+              <details class="group bg-white rounded-2xl border border-gray-200 p-6 [&_summary::-webkit-details-marker]:hidden transition-all duration-300 shadow-sm">
+                <summary class="flex items-center justify-between font-bold text-gray-900 cursor-pointer text-base md:text-lg">
+                  <span>Como escolher a caçamba ideal para minha obra?</span>
+                  <span class="transition duration-300 group-open:-rotate-180 text-gray-400">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                  </span>
+                </summary>
+                <p class="mt-4 text-sm text-gray-600 leading-relaxed">
+                  A escolha depende do tipo e volume de entulho gerado. Nossos consultores calculam o tamanho exato no WhatsApp para você economizar.
+                </p>
+              </details>
+
+              <details class="group bg-white rounded-2xl border border-gray-200 p-6 [&_summary::-webkit-details-marker]:hidden transition-all duration-300 shadow-sm">
+                <summary class="flex items-center justify-between font-bold text-gray-900 cursor-pointer text-base md:text-lg">
+                  <span>O que não posso descartar na caçamba?</span>
+                  <span class="transition duration-300 group-open:-rotate-180 text-gray-400">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                  </span>
+                </summary>
+                <p class="mt-4 text-sm text-gray-600 leading-relaxed">
+                  É proibido descartar lixo orgânico doméstico, resíduos químicos, latas de tinta líquida, óleos, baterias, pneus e resíduos médicos.
+                </p>
+              </details>
+
+              <details class="group bg-white rounded-2xl border border-gray-200 p-6 [&_summary::-webkit-details-marker]:hidden transition-all duration-300 shadow-sm">
+                <summary class="flex items-center justify-between font-bold text-gray-900 cursor-pointer text-base md:text-lg">
+                  <span>Quanto tempo a caçamba pode ficar na rua?</span>
+                  <span class="transition duration-300 group-open:-rotate-180 text-gray-400">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                  </span>
+                </summary>
+                <p class="mt-4 text-sm text-gray-600 leading-relaxed">
+                  O período de locação padrão varia de 3 a 5 dias úteis, conforme as normas e a legislação de trânsito de Guarulhos.
+                </p>
+              </details>
+
+              <details class="group bg-white rounded-2xl border border-gray-200 p-6 [&_summary::-webkit-details-marker]:hidden transition-all duration-300 shadow-sm">
+                <summary class="flex items-center justify-between font-bold text-gray-900 cursor-pointer text-base md:text-lg">
+                  <span>Preciso de autorização da prefeitura para colocar na rua?</span>
+                  <span class="transition duration-300 group-open:-rotate-180 text-gray-400">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                  </span>
+                </summary>
+                <p class="mt-4 text-sm text-gray-600 leading-relaxed">
+                  Nossa empresa é 100% licenciada pela Prefeitura de Guarulhos. Nós cuidamos do estacionamento regularizado e seguro da caçamba.
+                </p>
+              </details>
+
+              <details class="group bg-white rounded-2xl border border-gray-200 p-6 [&_summary::-webkit-details-marker]:hidden transition-all duration-300 shadow-sm">
+                <summary class="flex items-center justify-between font-bold text-gray-900 cursor-pointer text-base md:text-lg">
+                  <span>O que acontece se a caçamba encher antes do prazo?</span>
+                  <span class="transition duration-300 group-open:-rotate-180 text-gray-400">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                  </span>
+                </summary>
+                <p class="mt-4 text-sm text-gray-600 leading-relaxed">
+                  Basta nos enviar uma mensagem no WhatsApp. Agendamos a troca imediata da caçamba cheia por uma vazia para sua obra não parar.
+                </p>
+              </details>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Coluna da Direita: Card Orçamento Sticky (Fundo Amarelo) -->
+        <div class="lg:col-span-4 sticky top-28">
+          <div class="bg-primary rounded-3xl p-8 text-center shadow-xl border border-yellow-300">
+            <span class="text-[11px] font-black uppercase tracking-widest text-gray-900/80 mb-3 block">
+              Orçamento sem compromisso
+            </span>
+            <h3 class="text-xl md:text-2xl font-black text-gray-900 leading-tight mb-6">
+              Interessado neste modelo?
+            </h3>
+
+            <div class="space-y-4 mb-8">
+              <a 
+                href={`https://wa.me/5511943758880?text=Olá! Gostaria de pedir um orçamento para a ${servico.data.title}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="flex items-center justify-center gap-2 w-full py-4 px-6 rounded-xl bg-gray-900 hover:bg-black text-white font-black text-base transition-all shadow-md hover:scale-105 active:scale-95"
+              >
+                <svg class="w-5 h-5 fill-current text-primary" viewBox="0 0 24 24"><path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-.999 3.648 3.742-.981z"/></svg>
+                Pedir no WhatsApp
+              </a>
+
+              <a 
+                href="tel:+5511943758880"
+                class="flex items-center justify-center gap-2 w-full py-4 px-6 rounded-xl bg-white hover:bg-gray-100 text-gray-900 font-bold text-base transition-all border border-gray-200 shadow-sm hover:scale-105 active:scale-95"
+              >
+                📞 Ligar Agora
+              </a>
+            </div>
+
+            <p class="text-xs text-gray-900 font-medium mb-1">Dúvidas? Fale com um especialista.</p>
+            <a href="tel:+5511943758880" class="text-lg font-black text-gray-900 hover:underline block">
+              (11) 94375-8880
+            </a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+</Layout>

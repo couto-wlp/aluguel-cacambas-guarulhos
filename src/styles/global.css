@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    scroll-behavior: smooth;
+  }
+}
+
+/* Header Transparente -> Branco no Scroll */
+.header-transparent.scrolled {
+  background-color: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(12px);
+}
+
+.header-transparent.scrolled .nav-link {
+  color: #4b5563 !important;
+  /* text-gray-600 */
+}
+
+.header-transparent.scrolled .nav-link:hover {
+  color: #FACC15 !important;
+  /* text-primary */
+}
+
+.header-transparent.scrolled .logo-text {
+  color: #1f2937 !important;
+  /* text-secondary */
+}
+
+.header-transparent.scrolled .logo-text:hover {
+  color: #111827 !important;
+  /* text-accent */
+}
+
+.header-transparent.scrolled .mobile-bar {
+  background-color: #1f2937 !important;
+  /* bg-secondary */
+}

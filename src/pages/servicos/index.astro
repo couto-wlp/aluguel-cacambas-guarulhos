@@ -1,0 +1,63 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const servicos = await getCollection('servicos');
+---
+
+<Layout title="Aluguel de Caçambas em Guarulhos - SP | Nossos Serviços">
+  <section class="pt-[120px] pb-24 bg-gray-50 min-h-[80vh]">
+    <div class="container mx-auto px-6 md:px-12 max-w-6xl">
+      <div class="text-center mb-12">
+        <h1 class="text-4xl md:text-5xl font-black text-gray-900 tracking-tight mb-4">
+          Nossos <span class="text-primary">Serviços</span>
+        </h1>
+        <p class="text-base text-gray-600 max-w-2xl mx-auto leading-relaxed">
+          Oferecemos soluções completas em locação de caçambas para obras de todos os portes. Escolha o equipamento ideal para garantir o descarte rápido, seguro e ecologicamente correto do seu entulho.
+        </p>
+      </div>
+      
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12">
+        {servicos.map(servico => (
+          <a href={`/servicos/${servico.slug}`} class="block group">
+            <div class="h-full bg-white p-10 rounded-2xl shadow-lg shadow-gray-200/40 border border-gray-100 group-hover:border-primary/50 group-hover:-translate-y-2 transition-all">
+              {servico.data.image && (
+                <div class="mb-6 h-[201px] flex items-center justify-center">
+                  <img src={servico.data.image} alt={servico.data.title} class="w-full h-full object-contain hover:scale-105 transition-transform duration-300" />
+                </div>
+              )}
+              <h2 class="text-2xl font-black text-gray-900 mb-4 group-hover:text-secondary transition-colors">
+                {servico.data.title}
+              </h2>
+              <p class="text-gray-600 text-base">
+                {servico.data.description}
+              </p>
+              <div class="mt-8 font-bold text-primary flex items-center gap-2 group-hover:text-yellow-500 transition-colors">
+                Saiba Mais <span>&rarr;</span>
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA Section -->
+  <section class="py-24 md:pb-32 bg-white relative overflow-hidden">
+    <div class="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(255,255,255,0.05)_0,transparent_100%)] pointer-events-none"></div>
+    <div class="container mx-auto px-6 md:px-12 relative z-10 text-center">
+      <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-8 tracking-tighter leading-tight">Precisa de uma <span class="text-primary">caçamba?</span></h2>
+      <p class="text-base text-gray-700 mb-12 max-w-2xl mx-auto">
+        Nossos especialistas estão prontos para indicar a caçamba ideal e fechar o melhor orçamento para você.
+      </p>
+      <div class="flex flex-col sm:flex-row items-center justify-center gap-6">
+        <a href="https://wa.me/5511943758880" target="_blank" rel="noopener noreferrer" class="w-full sm:w-auto px-10 py-5 rounded-xl bg-primary hover:bg-yellow-400 text-gray-900 font-black text-base transition-all shadow-lg text-center hover:scale-105 active:scale-95">
+          Conversar no WhatsApp
+        </a>
+        <a href="tel:+5511943758880" class="w-full sm:w-auto px-10 py-5 rounded-xl bg-black hover:bg-gray-800 text-white font-black text-base transition-all shadow-lg text-center hover:scale-105 active:scale-95">
+          Ligar Agora
+        </a>
+      </div>
+    </div>
+  </section>
+</Layout>

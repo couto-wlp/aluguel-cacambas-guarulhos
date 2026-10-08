@@ -1,0 +1,67 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = await getCollection('blog');
+// Ordenar por data mais recente
+posts.sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
+---
+
+<Layout title="Blog de Aluguel de Caçamba em Guarulhos - SP | Dicas">
+  <section class="pt-[120px] pb-24 bg-gray-50 min-h-[80vh]">
+    <div class="container mx-auto px-6 md:px-12 max-w-6xl">
+      <div class="text-center mb-12">
+        <h1 class="text-4xl md:text-5xl font-black text-gray-900 tracking-tight mb-4">
+          Nosso <span class="text-primary">Blog</span>
+        </h1>
+        <p class="text-base text-gray-600 max-w-2xl mx-auto leading-relaxed">
+          Dicas, guias e informações essenciais sobre aluguel de caçambas, legislação ambiental e gestão de resíduos em Guarulhos - SP.
+        </p>
+      </div>
+      
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12">
+        {posts.map(post => (
+          <a href={`/blog/${post.slug}`} class="block group">
+            <div class="h-full bg-white p-8 rounded-2xl shadow-lg shadow-gray-200/40 border border-gray-100 group-hover:border-primary/50 group-hover:-translate-y-2 transition-all flex flex-col overflow-hidden">
+              {post.data.image && (
+                <div class="mb-6 -mx-8 -mt-8 overflow-hidden h-36 bg-gray-100">
+                  <img src={post.data.image} alt={post.data.title} width="400" height="200" loading="lazy" decoding="async" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" />
+                </div>
+              )}
+              <span class="text-sm font-bold text-primary mb-4">
+                {post.data.publishDate.toLocaleDateString('pt-BR', { year: 'numeric', month: 'long', day: 'numeric' })}
+              </span>
+              <h2 class="text-2xl font-black text-gray-900 mb-4 group-hover:text-secondary transition-colors">
+                {post.data.title}
+              </h2>
+              <p class="text-gray-600 text-base flex-grow">
+                {post.data.description}
+              </p>
+              <div class="mt-8 font-bold text-primary flex items-center gap-2 group-hover:text-yellow-500 transition-colors">
+                Ler Artigo <span>&rarr;</span>
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+  <!-- CTA Final -->
+  <section class="py-24 md:pb-32 bg-white relative overflow-hidden">
+    <div class="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(255,255,255,0.05)_0,transparent_100%)] pointer-events-none"></div>
+    <div class="container mx-auto px-6 md:px-12 relative z-10 text-center">
+      <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-8 tracking-tighter leading-tight">Pronto para colocar as dicas em <span class="text-primary">prática?</span></h2>
+      <p class="text-base text-gray-700 mb-12 max-w-2xl mx-auto">
+        Se você precisa de uma caçamba, nossos especialistas estão prontos para te ajudar com o melhor orçamento de Guarulhos.
+      </p>
+      <div class="flex flex-col sm:flex-row items-center justify-center gap-6">
+        <a href="https://wa.me/5511943758880" target="_blank" rel="noopener noreferrer" class="w-full sm:w-auto px-10 py-5 rounded-xl bg-primary hover:bg-yellow-400 text-gray-900 font-black text-base transition-all shadow-lg text-center hover:scale-105 active:scale-95">
+          Conversar no WhatsApp
+        </a>
+        <a href="tel:+5511943758880" class="w-full sm:w-auto px-10 py-5 rounded-xl bg-black hover:bg-gray-800 text-white font-black text-base transition-all shadow-lg text-center hover:scale-105 active:scale-95">
+          Ligar Agora
+        </a>
+      </div>
+    </div>
+  </section>
+</Layout>

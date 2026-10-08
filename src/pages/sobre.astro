@@ -1,0 +1,135 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Sobre Nós | Empresa de Aluguel de Caçambas em Guarulhos">
+  <!-- Hero Sobre -->
+  <section class="pt-[120px] pb-16 bg-white">
+    <div class="container mx-auto px-6 md:px-12 max-w-5xl text-center">
+      <h1 class="text-4xl md:text-5xl font-black text-gray-900 tracking-tight mb-4">
+        Sobre <span class="text-primary">Nós</span>
+      </h1>
+    </div>
+  </section>
+
+  <!-- Sobre a Empresa (Layout de Colunas) -->
+  <section class="pb-24 md:pb-32 bg-white">
+    <div class="container mx-auto px-6 md:px-12 max-w-6xl">
+      <div class="flex flex-col lg:flex-row gap-16 lg:gap-24 items-start">
+        
+        <!-- Coluna da Esquerda (Textos) -->
+        <div class="lg:w-7/12 flex flex-col gap-12">
+          
+          <div>
+            <h3 class="text-[22px] font-black text-gray-900 uppercase tracking-tight mb-5 border-l-[5px] border-primary pl-5 py-1 leading-none">A Nossa História</h3>
+            <p class="text-gray-600 leading-relaxed text-[16px]">
+              Fundada em 2006, temos orgulho de celebrar <span class="font-bold text-gray-900">20 anos de tradição</span> construindo uma história de confiança junto à cidade de Guarulhos. Nascemos com um propósito claro: sermos os maiores especialistas no aluguel de caçambas estacionárias da região. Para atender desde pequenas reformas residenciais até grandes canteiros de obras, oferecemos equipamentos versáteis com capacidades que variam de <span class="font-bold text-gray-900">4 a 12 metros cúbicos</span>.
+            </p>
+          </div>
+
+          <div>
+            <h3 class="text-[22px] font-black text-gray-900 uppercase tracking-tight mb-5 border-l-[5px] border-primary pl-5 py-1 leading-none">Nossa Missão</h3>
+            <p class="text-gray-600 leading-relaxed text-[16px]">
+              Nossa missão diária é facilitar o descarte de entulhos para cada morador e empresa de Guarulhos. Trabalhamos para que esse processo seja feito com absoluta perfeição, agilidade e responsabilidade, mantendo a nossa cidade mais limpa e a sua obra sempre em andamento.
+            </p>
+          </div>
+
+          <div>
+            <h3 class="text-[22px] font-black text-gray-900 uppercase tracking-tight mb-5 border-l-[5px] border-primary pl-5 py-1 leading-none">Estrutura, Frota e Sustentabilidade</h3>
+            <p class="text-gray-600 leading-relaxed text-[16px]">
+              Sabemos que na construção civil não há tempo a perder. Por isso, operamos com uma <span class="font-bold text-gray-900">frota nova e moderna</span>, evitando imprevistos e garantindo segurança total no transporte. Além disso, somos uma empresa <span class="font-bold text-gray-900">100% regularizada pela Prefeitura de Guarulhos</span>. Trabalhar conosco é ter a certeza de que todos os seus resíduos terão a destinação correta e legalizada, preservando o meio ambiente.
+            </p>
+          </div>
+
+          <div>
+            <h3 class="text-[22px] font-black text-gray-900 uppercase tracking-tight mb-5 border-l-[5px] border-primary pl-5 py-1 leading-none">Quem Faz Acontecer (Nossa Equipe)</h3>
+            <p class="text-gray-600 leading-relaxed text-[16px]">
+              O grande segredo da nossa qualidade está nas pessoas. Contamos com <span class="font-bold text-gray-900">motoristas especialistas com mais de 7 anos de experiência</span> no mercado, capacitados para manobrar com precisão e cuidado no seu endereço. Além disso, nossos ajudantes e toda a equipe de atendimento passam por treinamentos rigorosos. Tudo isso para garantir que você seja atendido da melhor forma possível, com segurança e cordialidade do início ao fim.
+            </p>
+          </div>
+
+          <div>
+            <h3 class="text-[22px] font-black text-gray-900 uppercase tracking-tight mb-5 border-l-[5px] border-primary pl-5 py-1 leading-none">Por que escolher a nossa empresa?</h3>
+            <ul class="space-y-4 text-[16px] text-gray-600 leading-relaxed">
+              <li><span class="font-bold text-gray-900">Entrega Expressa em até 2h:</span> A sua obra não pode parar! Garantimos a entrega mais rápida de Guarulhos. Pediu, a caçamba chega ao seu endereço sem enrolação.</li>
+              <li><span class="font-bold text-gray-900">100% Regularizada e Segura:</span> Atuamos em total conformidade com a Prefeitura e órgãos ambientais. Emitimos MTR para a sua segurança jurídica.</li>
+              <li><span class="font-bold text-gray-900">O Melhor Preço da Região:</span> Combinamos um serviço de excelência, valores justos e flexibilidade de pagamento facilitada para o seu bolso.</li>
+            </ul>
+          </div>
+
+        </div>
+
+        <!-- Coluna da Direita (Imagem e Destaques) -->
+        <div class="lg:w-5/12 flex flex-col w-full lg:sticky lg:top-12">
+          
+          <!-- Imagem com Badge -->
+          <div class="relative w-full mb-10">
+            <img src="/images/sobre_nos.webp" width="600" height="450" alt="Nossa Frota" loading="lazy" decoding="async" class="w-full h-auto rounded-[32px] object-cover shadow-2xl shadow-gray-200/60 aspect-[4/3]" />
+            <div class="absolute -bottom-6 -right-4 bg-primary rounded-3xl p-5 shadow-xl shadow-primary/20 w-[140px] text-center transform hover:-translate-y-1 hover:rotate-2 transition-all">
+              <span class="block text-4xl font-black text-gray-900 leading-none mb-1.5">20+</span>
+              <span class="block text-[11px] font-black text-gray-900 uppercase tracking-widest leading-tight">Anos de<br/>Experiência</span>
+            </div>
+          </div>
+
+          <!-- Card de Destaques -->
+          <div class="bg-gray-50 rounded-3xl p-8 border border-gray-100 shadow-xl shadow-gray-200/40 mb-6">
+            <h4 class="text-[13px] font-black text-gray-900 uppercase tracking-widest mb-5">Destaques da Operação</h4>
+            <div class="border-t border-gray-200 mb-6 w-full"></div>
+            
+            <ul class="space-y-5">
+              <li class="flex items-center gap-4">
+                <div class="w-[22px] h-[22px] rounded-full bg-primary flex items-center justify-center shrink-0">
+                  <svg class="w-3.5 h-3.5 text-gray-900" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="3.5"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"></path></svg>
+                </div>
+                <span class="text-[15px] font-bold text-gray-700">100% Frota Própria</span>
+              </li>
+              <li class="flex items-center gap-4">
+                <div class="w-[22px] h-[22px] rounded-full bg-primary flex items-center justify-center shrink-0">
+                  <svg class="w-3.5 h-3.5 text-gray-900" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="3.5"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"></path></svg>
+                </div>
+                <span class="text-[15px] font-bold text-gray-700">Modelos de 4m³ a 12m³</span>
+              </li>
+              <li class="flex items-center gap-4">
+                <div class="w-[22px] h-[22px] rounded-full bg-primary flex items-center justify-center shrink-0">
+                  <svg class="w-3.5 h-3.5 text-gray-900" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="3.5"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"></path></svg>
+                </div>
+                <span class="text-[15px] font-bold text-gray-700">100% Regularizada</span>
+              </li>
+              <li class="flex items-center gap-4">
+                <div class="w-[22px] h-[22px] rounded-full bg-primary flex items-center justify-center shrink-0">
+                  <svg class="w-3.5 h-3.5 text-gray-900" fill="none" stroke="currentColor" viewBox="0 0 24 24" stroke-width="3.5"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"></path></svg>
+                </div>
+                <span class="text-[15px] font-bold text-gray-700">Emissão Oficial de MTR</span>
+              </li>
+            </ul>
+          </div>
+
+          <!-- Botão Fale com Nossa Equipe -->
+          <a href="/contato" class="w-full py-5 rounded-xl bg-primary hover:bg-yellow-400 text-gray-900 font-black text-[17px] transition-all shadow-lg shadow-primary/20 text-center hover:scale-[1.02] active:scale-95">
+            Fale com Nossa Equipe
+          </a>
+
+        </div>
+
+      </div>
+    </div>
+  </section>
+  <!-- CTA Final -->
+  <section class="py-24 md:pb-32 bg-white relative overflow-hidden">
+    <div class="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(255,255,255,0.05)_0,transparent_100%)] pointer-events-none"></div>
+    <div class="container mx-auto px-6 md:px-12 relative z-10 text-center">
+      <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-8 tracking-tighter leading-tight">Pronto para <span class="text-primary">fechar negócio?</span></h2>
+      <p class="text-base text-gray-700 mb-12 max-w-2xl mx-auto">
+        Nossa equipe está preparada para atender a sua obra com agilidade, segurança e o melhor custo-benefício de Guarulhos.
+      </p>
+      <div class="flex flex-col sm:flex-row items-center justify-center gap-6">
+        <a href="https://wa.me/5511943758880" target="_blank" rel="noopener noreferrer" class="w-full sm:w-auto px-10 py-5 rounded-xl bg-primary hover:bg-yellow-400 text-gray-900 font-black text-base transition-all shadow-lg text-center hover:scale-105 active:scale-95">
+          Conversar no WhatsApp
+        </a>
+        <a href="tel:+5511943758880" class="w-full sm:w-auto px-10 py-5 rounded-xl bg-black hover:bg-gray-800 text-white font-black text-base transition-all shadow-lg text-center hover:scale-105 active:scale-95">
+          Ligar Agora
+        </a>
+      </div>
+    </div>
+  </section>
+</Layout>

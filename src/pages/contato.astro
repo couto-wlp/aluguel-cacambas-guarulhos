@@ -1,0 +1,139 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Fale Conosco | Aluguel de Caçamba de Entulho Guarulhos">
+  <section class="pt-[120px] pb-24 bg-gray-50 min-h-[80vh]">
+    <div class="container mx-auto px-6 md:px-12 max-w-6xl">
+      <div class="text-center mb-6">
+        <h1 class="text-4xl md:text-5xl font-black text-gray-900 tracking-tight mb-6">
+          Fale <span class="text-primary">Conosco</span>
+        </h1>
+        <p class="text-base text-gray-600 max-w-2xl mx-auto">
+          Solicite seu orçamento, tire dúvidas sobre descarte ecológico ou acompanhe a entrega da sua caçamba.
+        </p>
+      </div>
+      
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-12">
+        <!-- Coluna de NAP e CTAs Rápidos -->
+        <div class="bg-white p-12 rounded-2xl shadow-xl shadow-gray-200/50 border border-gray-100 flex flex-col justify-between hover:-translate-y-1 transition-all cursor-default">
+          <div>
+            <h2 class="text-3xl font-black text-gray-900 mb-8 tracking-tight">Informações de Contato</h2>
+            
+            <div class="space-y-8 mb-10">
+              <div class="flex items-center gap-5 group">
+                <div class="w-16 h-16 rounded-full bg-primary/10 flex items-center justify-center shrink-0 group-hover:scale-110 transition-transform">
+                  <svg class="w-8 h-8 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
+                </div>
+                <div>
+                  <h3 class="font-bold text-gray-900 text-[17px] group-hover:text-primary transition-colors">Nosso Pátio</h3>
+                  <p class="text-gray-600">Av. Lauro de Gusmão Silveira, 239 - Parque Ind. Jd. São Geraldo<br/>Guarulhos - SP, 07140-010</p>
+                </div>
+              </div>
+              
+              <div class="flex items-center gap-5 group">
+                <div class="w-16 h-16 rounded-full bg-primary/10 flex items-center justify-center shrink-0 group-hover:scale-110 transition-transform">
+                  <svg class="w-8 h-8 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path></svg>
+                </div>
+                <div>
+                  <h3 class="font-bold text-gray-900 text-[17px] group-hover:text-primary transition-colors">Telefones</h3>
+                  <p class="text-gray-600">(11) 94375-8880 (WhatsApp)<br/>(11) 94375-8880 (Fixo)</p>
+                </div>
+              </div>
+
+              <div class="flex items-center gap-5 group">
+                <div class="w-16 h-16 rounded-full bg-primary/10 flex items-center justify-center shrink-0 group-hover:scale-110 transition-transform">
+                  <svg class="w-8 h-8 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+                </div>
+                <div>
+                  <h3 class="font-bold text-gray-900 text-lg group-hover:text-primary transition-colors">E-mail Comercial</h3>
+                  <p class="text-gray-600">contato@cacambasguarulhos.com.br</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <a href="https://wa.me/5511943758880"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="block w-full p-6 sm:p-8 rounded-xl bg-primary hover:bg-yellow-400 text-accent font-black text-base transition-all shadow-lg text-center hover:scale-105 active:scale-95"
+          >
+            Orçamento Expresso no WhatsApp
+          </a>
+        </div>
+
+        <!-- Coluna de Formulário -->
+        <div class="bg-white p-12 rounded-2xl shadow-xl shadow-gray-200/50 border border-gray-100 hover:-translate-y-1 transition-all cursor-default">
+          <h2 class="text-3xl font-black text-gray-900 mb-8 tracking-tight">Envie uma Mensagem</h2>
+          <form class="space-y-6" action="#" method="POST">
+            <div>
+              <label for="nome" class="block text-sm font-bold text-gray-900 mb-2">Nome / Empresa</label>
+              <input type="text" id="nome" class="w-full p-4 rounded-lg bg-gray-50 border border-gray-200 focus:outline-none focus:border-secondary focus:ring-2 focus:ring-secondary/20 transition-all hover:border-gray-300" placeholder="Seu nome completo ou razão social" required />
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+              <div>
+                <label for="telefone" class="block text-sm font-bold text-gray-900 mb-2">Telefone (WhatsApp)</label>
+                <input type="tel" id="telefone" class="w-full p-4 rounded-lg bg-gray-50 border border-gray-200 focus:outline-none focus:border-secondary focus:ring-2 focus:ring-secondary/20 transition-all hover:border-gray-300" placeholder="(11) 94375-8880" required />
+              </div>
+              <div>
+                <label for="cep" class="block text-sm font-bold text-gray-900 mb-2">CEP da Obra</label>
+                <input type="text" id="cep" class="w-full p-4 rounded-lg bg-gray-50 border border-gray-200 focus:outline-none focus:border-secondary focus:ring-2 focus:ring-secondary/20 transition-all hover:border-gray-300" placeholder="00000-000" />
+              </div>
+            </div>
+
+            <div>
+              <label for="mensagem" class="block text-sm font-bold text-gray-900 mb-2">Como podemos ajudar?</label>
+              <textarea id="mensagem" rows="4" class="w-full p-4 rounded-lg bg-gray-50 border border-gray-200 focus:outline-none focus:border-secondary focus:ring-2 focus:ring-secondary/20 transition-all resize-none hover:border-gray-300" placeholder="Detalhes da sua necessidade..." required></textarea>
+            </div>
+            
+            <button type="submit" class="w-full p-6 rounded-xl bg-primary hover:bg-yellow-400 text-gray-900 font-black text-lg transition-all shadow-lg mt-4 hover:scale-105 active:scale-95">
+              Enviar Solicitação de Orçamento
+            </button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Mapa de Localização -->
+  <section class="py-12 bg-gray-50 border-t border-gray-200">
+    <div class="container mx-auto px-6 md:px-12 max-w-6xl">
+      <div class="text-center mb-8">
+        <h2 class="text-3xl font-black text-gray-900 tracking-tight">Onde <span class="text-primary">Estamos</span></h2>
+        <p class="text-gray-600 mt-4 font-medium">Venha nos visitar em nosso pátio operacional.</p>
+      </div>
+      <div class="w-full h-[400px] md:h-[500px] rounded-3xl overflow-hidden shadow-xl shadow-gray-200/50 border border-gray-100 relative group">
+        <iframe 
+          src="https://maps.google.com/maps?q=Av.+Lauro+de+Gusm%C3%A3o+Silveira%2C+239+-+Parque+Industrial+do+Jardim+Sao+Geraldo%2C+Guarulhos+-+SP&t=&z=15&ie=UTF8&iwloc=&output=embed" 
+          width="100%" 
+          height="100%" 
+          style="border:0;" 
+          allowfullscreen="" 
+          loading="lazy" 
+          referrerpolicy="no-referrer-when-downgrade"
+          class="absolute inset-0 w-full h-full grayscale group-hover:grayscale-0 transition-all duration-700">
+        </iframe>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA Final -->
+  <section class="py-24 md:pb-32 bg-white relative overflow-hidden">
+    <div class="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(255,255,255,0.05)_0,transparent_100%)] pointer-events-none"></div>
+    <div class="container mx-auto px-6 md:px-12 relative z-10 text-center">
+      <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-8 tracking-tighter leading-tight">Ainda com <span class="text-primary">dúvidas?</span></h2>
+      <p class="text-base text-gray-700 mb-12 max-w-2xl mx-auto">
+        Nossa equipe de especialistas responde em poucos minutos no WhatsApp. Clique abaixo e resolva agora mesmo!
+      </p>
+      <div class="flex flex-col sm:flex-row items-center justify-center gap-6">
+        <a href="https://wa.me/5511943758880" target="_blank" rel="noopener noreferrer" class="w-full sm:w-auto px-10 py-5 rounded-xl bg-primary hover:bg-yellow-400 text-gray-900 font-black text-base transition-all shadow-lg text-center hover:scale-105 active:scale-95">
+          Conversar no WhatsApp
+        </a>
+        <a href="tel:+5511943758880" class="w-full sm:w-auto px-10 py-5 rounded-xl bg-black hover:bg-gray-800 text-white font-black text-base transition-all shadow-lg text-center hover:scale-105 active:scale-95">
+          Ligar Agora
+        </a>
+      </div>
+    </div>
+  </section>
+</Layout>

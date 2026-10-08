@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Fundo Amarelo (Logo) -->
+  <rect x="0" y="0" width="100" height="100" rx="28" ry="28" fill="#FACC15" />
+  
+  <!-- Caçamba (Preta) -->
+  <g fill="#000000">
+    <!-- Borda superior (Rim) -->
+    <rect x="18" y="32" width="64" height="12" rx="6" />
+    
+    <!-- Corpo da caçamba -->
+    <path d="M 26 42 L 74 42 L 66 71 C 65 74 62 76 59 76 L 41 76 C 38 76 35 74 34 71 Z" />
+  </g>
+  
+  <!-- Recortes (Frestas amareladas para dar detalhe) -->
+  <g fill="#FACC15">
+    <!-- Fresta Esquerda -->
+    <polygon points="37,44 40,44 42,60" />
+    <!-- Fresta Direita -->
+    <polygon points="63,44 60,44 58,60" />
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+---
+import { SITE_CONFIG } from '../data/config';
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": SITE_CONFIG.siteName,
+  "image": `${SITE_CONFIG.siteUrl}/og-image.jpg`,
+  "@id": SITE_CONFIG.siteUrl,
+  "url": SITE_CONFIG.siteUrl,
+  "telephone": SITE_CONFIG.phones.landline,
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": SITE_CONFIG.address.streetAddress,
+    "addressLocality": SITE_CONFIG.address.addressLocality,
+    "addressRegion": SITE_CONFIG.address.addressRegion,
+    "postalCode": SITE_CONFIG.address.postalCode,
+    "addressCountry": SITE_CONFIG.address.addressCountry
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -23.472, // Exemplo genérico para Guarulhos Central
+    "longitude": -46.527
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "opens": "07:00",
+    "closes": "18:00"
+  },
+  "priceRange": "$$"
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />
