@@ -1,29 +1,196 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import { SITE_CONFIG } from '../data/config';
 ---
 
-<Layout title="Termos de Uso e Locação | Caçambas de Entulho Guarulhos">
-  <section class="pt-[120px] pb-24 md:py-32 bg-gray-50 min-h-[80vh]">
-    <div class="container mx-auto px-6 md:px-12 max-w-4xl">
-      <h1 class="text-4xl sm:text-5xl font-black text-gray-900 mb-16 text-center">
+<Layout 
+  title="Termos de Uso e Serviço | Caçambas Guarulhos"
+  description="Leia os Termos de Uso e Serviço do Caçambas Guarulhos. Saiba mais sobre licença de uso, isenções, limitações de responsabilidade e regras de atendimento."
+>
+  <!-- Hero Section -->
+  <section class="pt-[130px] pb-12 bg-white border-b border-gray-100">
+    <div class="container mx-auto px-6 md:px-12 max-w-4xl text-center">
+      <!-- Breadcrumb -->
+      <nav class="flex items-center justify-center gap-2 text-sm text-gray-500 mb-6" aria-label="Breadcrumb">
+        <a href="/" class="hover:text-primary transition-colors">Início</a>
+        <span>/</span>
+        <span class="text-gray-900 font-semibold">Termos de Uso</span>
+      </nav>
+
+      <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-secondary/10 border border-secondary/20 text-secondary text-xs font-bold uppercase tracking-wider mb-5">
+        <svg class="w-4 h-4 text-secondary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+        </svg>
+        Condições Gerais de Serviço
+      </div>
+
+      <h1 class="text-3xl sm:text-4xl md:text-5xl font-black text-gray-900 tracking-tight mb-4">
         Termos de <span class="text-secondary">Uso</span>
       </h1>
-      
-      <div class="bg-white p-12 rounded-2xl shadow-xl shadow-gray-200/50 border border-gray-100">
-        <div class="space-y-6 text-gray-600 text-base leading-relaxed">
-          <p>
-            Ao acessar ao site <strong>Caçambas Guarulhos</strong>, concorda em cumprir estes termos de serviço, todas as leis e regulamentos aplicáveis ​​e concorda que é responsável pelo cumprimento de todas as leis locais aplicáveis.
-          </p>
-          <p>
-            O uso dos nossos serviços de locação de caçamba está sujeito às normas da Prefeitura Municipal de Guarulhos e órgãos ambientais da Grande São Paulo, sendo o locatário responsável por garantir que o material descartado esteja de acordo com as leis locais.
-          </p>
-          <p>
-            Os materiais não permitidos para descarte incluem, mas não se limitam a: lixo doméstico, produtos químicos, pneus, tintas e amianto. O descarte de materiais não autorizados pode acarretar multas repassadas ao contratante.
-          </p>
-          <p>
-            O prazo padrão de locação é informado no momento do orçamento e a retirada pode ser solicitada a qualquer momento dentro desse período.
-          </p>
+      <p class="text-base sm:text-lg text-gray-600 max-w-2xl mx-auto">
+        Conheça as regras, condições e diretrizes de utilização dos canais digitais e serviços do Caçambas Guarulhos.
+      </p>
+    </div>
+  </section>
+
+  <!-- Content Section -->
+  <section class="py-16 md:py-20 bg-gray-50">
+    <div class="container mx-auto px-6 md:px-12 max-w-4xl">
+      <div class="bg-white p-8 sm:p-12 md:p-16 rounded-2xl shadow-xl shadow-gray-200/50 border border-gray-100 space-y-12">
+        
+        <!-- 1. Termos -->
+        <div>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">
+            1. Termos
+          </h2>
+          <div class="space-y-4 text-gray-700 leading-relaxed text-[16px]">
+            <p>
+              Ao acessar ao site <strong>Caçambas Guarulhos</strong>, concorda em cumprir estes termos de serviço, todas as leis e regulamentos aplicáveis e concorda que é responsável pelo cumprimento de todas as leis locais aplicáveis. Se você não concordar com algum desses termos, está proibido de usar ou acessar este site. Os materiais contidos neste site são protegidos pelas leis de direitos autorais e marcas comerciais aplicáveis.
+            </p>
+          </div>
         </div>
+
+        <hr class="border-gray-100" />
+
+        <!-- 2. Uso de Licença -->
+        <div>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">
+            2. Uso de Licença
+          </h2>
+          <div class="space-y-4 text-gray-700 leading-relaxed text-[16px]">
+            <p>
+              É concedida permissão para baixar temporariamente uma cópia dos materiais (informações ou software) no site <strong>Caçambas Guarulhos</strong>, apenas para visualização transitória pessoal e não comercial. Esta é a concessão de uma licença, não uma transferência de título e, sob esta licença, você não pode:
+            </p>
+            
+            <ul class="space-y-2.5 my-4 pl-2">
+              <li class="flex items-start gap-3">
+                <span class="w-1.5 h-1.5 rounded-full bg-primary mt-2.5 flex-shrink-0"></span>
+                <span>Modificar ou copiar os materiais;</span>
+              </li>
+              <li class="flex items-start gap-3">
+                <span class="w-1.5 h-1.5 rounded-full bg-primary mt-2.5 flex-shrink-0"></span>
+                <span>Usar os materiais para qualquer finalidade comercial ou para exibição pública (comercial ou não comercial);</span>
+              </li>
+              <li class="flex items-start gap-3">
+                <span class="w-1.5 h-1.5 rounded-full bg-primary mt-2.5 flex-shrink-0"></span>
+                <span>Tentar descompilar ou fazer engenharia reversa de qualquer software contido no site Caçambas Guarulhos;</span>
+              </li>
+              <li class="flex items-start gap-3">
+                <span class="w-1.5 h-1.5 rounded-full bg-primary mt-2.5 flex-shrink-0"></span>
+                <span>Remover quaisquer direitos autorais ou outras notações de propriedade dos materiais; ou</span>
+              </li>
+              <li class="flex items-start gap-3">
+                <span class="w-1.5 h-1.5 rounded-full bg-primary mt-2.5 flex-shrink-0"></span>
+                <span>Transferir os materiais para outra pessoa ou 'espelhar' os materiais em qualquer outro servidor.</span>
+              </li>
+            </ul>
+
+            <div class="p-4 rounded-xl bg-amber-50/70 border border-amber-200/80 text-amber-950 text-sm leading-relaxed">
+              Esta licença será automaticamente rescindida se você violar alguma dessas restrições e poderá ser rescindida por <strong>Caçambas Guarulhos</strong> a qualquer momento. Ao encerrar a visualização desses materiais ou após o término desta licença, você deve apagar todos os materiais baixados em sua posse, seja em formato eletrônico ou impresso.
+            </div>
+          </div>
+        </div>
+
+        <hr class="border-gray-100" />
+
+        <!-- 3. Isenção de responsabilidade -->
+        <div>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">
+            3. Isenção de Responsabilidade
+          </h2>
+          <div class="space-y-4 text-gray-700 leading-relaxed text-[16px]">
+            <p>
+              Os materiais no site da <strong>Caçambas Guarulhos</strong> são fornecidos 'como estão'. Caçambas Guarulhos não oferece garantias, expressas ou implícitas, e, por este meio, isenta e nega todas as outras garantias, incluindo, sem limitação, garantias implícitas ou condições de comercialização, adequação a um fim específico ou não violação de propriedade intelectual ou outra violação de direitos.
+            </p>
+            <p>
+              Além disso, o <strong>Caçambas Guarulhos</strong> não garante ou faz qualquer representação relativa à precisão, aos resultados prováveis ou à confiabilidade do uso dos materiais em seu site ou de outra forma relacionado a esses materiais ou em sites vinculados a este site.
+            </p>
+          </div>
+        </div>
+
+        <hr class="border-gray-100" />
+
+        <!-- 4. Limitações -->
+        <div>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">
+            4. Limitações
+          </h2>
+          <div class="space-y-4 text-gray-700 leading-relaxed text-[16px]">
+            <p>
+              Em nenhum caso o <strong>Caçambas Guarulhos</strong> ou seus fornecedores serão responsáveis por quaisquer danos (incluindo, sem limitação, danos por perda de dados ou lucro ou devido a interrupção dos negócios) decorrentes do uso ou da incapacidade de usar os materiais em Caçambas Guarulhos, mesmo que Caçambas Guarulhos ou um representante autorizado da Caçambas Guarulhos tenha sido notificado oralmente ou por escrito da possibilidade de tais danos. Como algumas jurisdições não permitem limitações em garantias implícitas, ou limitações de responsabilidade por danos conseqüentes ou incidentais, essas limitações podem não se aplicar a você.
+            </p>
+          </div>
+        </div>
+
+        <hr class="border-gray-100" />
+
+        <!-- 5. Precisão dos materiais -->
+        <div>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">
+            5. Precisão dos Materiais
+          </h2>
+          <div class="space-y-4 text-gray-700 leading-relaxed text-[16px]">
+            <p>
+              Os materiais exibidos no site da <strong>Caçambas Guarulhos</strong> podem incluir erros técnicos, tipográficos ou fotográficos. Caçambas Guarulhos não garante que qualquer material em seu site seja preciso, completo ou atual. Caçambas Guarulhos pode fazer alterações nos materiais contidos em seu site a qualquer momento, sem aviso prévio. No entanto, Caçambas Guarulhos não se compromete a atualizar os materiais.
+            </p>
+          </div>
+        </div>
+
+        <hr class="border-gray-100" />
+
+        <!-- 6. Links -->
+        <div>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">
+            6. Links
+          </h2>
+          <div class="space-y-4 text-gray-700 leading-relaxed text-[16px]">
+            <p>
+              O <strong>Caçambas Guarulhos</strong> não analisou todos os sites vinculados ao seu site e não é responsável pelo conteúdo de nenhum site vinculado. A inclusão de qualquer link não implica endosso por Caçambas Guarulhos do site. O uso de qualquer site vinculado é por conta e risco do usuário.
+            </p>
+          </div>
+        </div>
+
+        <hr class="border-gray-100" />
+
+        <!-- 7. Modificações e Lei Aplicável -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+          <div>
+            <h3 class="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">
+              <span class="w-2 h-2 rounded-full bg-primary"></span>
+              Modificações dos Termos
+            </h3>
+            <p class="text-gray-700 text-[15px] leading-relaxed">
+              O Caçambas Guarulhos pode revisar estes termos de serviço do site a qualquer momento, sem aviso prévio. Ao usar este site, você concorda em ficar vinculado à versão atual desses termos de serviço.
+            </p>
+          </div>
+
+          <div>
+            <h3 class="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">
+              <span class="w-2 h-2 rounded-full bg-secondary"></span>
+              Lei Aplicável & Foro
+            </h3>
+            <p class="text-gray-700 text-[15px] leading-relaxed">
+              Estes termos e condições são regidos e interpretados de acordo com as leis do Caçambas Guarulhos e você se submete irrevogavelmente à jurisdição exclusiva dos tribunais naquele estado ou localidade.
+            </p>
+          </div>
+        </div>
+
+        <!-- Bloco de Dúvidas / Contato -->
+        <div class="bg-gray-50 border border-gray-200 rounded-2xl p-6 sm:p-8 flex flex-col sm:flex-row items-center justify-between gap-6">
+          <div>
+            <h3 class="text-lg font-bold text-gray-900 mb-1">Precisa de esclarecimentos sobre as condições de locação?</h3>
+            <p class="text-sm text-gray-600">Nossa equipe de atendimento está pronta para tirar todas as dúvidas para a sua obra.</p>
+          </div>
+          <a 
+            href={`https://wa.me/${SITE_CONFIG.phones.whatsapp}?text=Olá,%20gostaria%20de%20esclarecer%20uma%20dúvida%20sobre%20os%20termos%20de%20uso`}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="whitespace-nowrap inline-flex items-center gap-2 bg-primary hover:bg-yellow-400 text-gray-900 font-extrabold px-6 py-3 rounded-xl transition-all shadow-md hover:shadow-lg active:scale-95 text-sm"
+          >
+            Falar Conosco
+          </a>
+        </div>
+
       </div>
     </div>
   </section>

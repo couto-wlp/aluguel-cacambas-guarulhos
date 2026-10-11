@@ -1,29 +1,176 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import { SITE_CONFIG } from '../data/config';
 ---
 
-<Layout title="Política de Privacidade | Caçambas de Entulho Guarulhos">
-  <section class="pt-[120px] pb-24 md:py-32 bg-gray-50 min-h-[80vh]">
-    <div class="container mx-auto px-6 md:px-12 max-w-4xl">
-      <h1 class="text-4xl sm:text-5xl font-black text-gray-900 mb-16 text-center">
+<Layout 
+  title="Política de Privacidade | Caçambas Guarulhos"
+  description="Conheça a Política de Privacidade da Caçambas Guarulhos. Saiba como coletamos, protegemos e utilizamos suas informações de forma transparente e segura."
+>
+  <!-- Hero Section -->
+  <section class="pt-[130px] pb-12 bg-white border-b border-gray-100">
+    <div class="container mx-auto px-6 md:px-12 max-w-4xl text-center">
+      <!-- Breadcrumb -->
+      <nav class="flex items-center justify-center gap-2 text-sm text-gray-500 mb-6" aria-label="Breadcrumb">
+        <a href="/" class="hover:text-primary transition-colors">Início</a>
+        <span>/</span>
+        <span class="text-gray-900 font-semibold">Política de Privacidade</span>
+      </nav>
+
+      <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-primary/10 border border-primary/20 text-gray-900 text-xs font-bold uppercase tracking-wider mb-5">
+        <svg class="w-4 h-4 text-gray-900" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
+        </svg>
+        Transparência & Proteção de Dados
+      </div>
+
+      <h1 class="text-3xl sm:text-4xl md:text-5xl font-black text-gray-900 tracking-tight mb-4">
         Política de <span class="text-secondary">Privacidade</span>
       </h1>
-      
-      <div class="bg-white p-12 rounded-2xl shadow-xl shadow-gray-200/50 border border-gray-100">
-        <div class="space-y-6 text-gray-600 text-base leading-relaxed">
-          <p>
-            A sua privacidade é importante para nós. É política da <strong>Caçambas Guarulhos</strong> respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no site.
-          </p>
-          <p>
-            Solicitamos informações pessoais apenas quando realmente precisamos delas para lhe fornecer um serviço de orçamento de locação de caçamba. Fazemo-lo por meios justos e legais, com o seu conhecimento e consentimento.
-          </p>
-          <p>
-            Apenas retemos as informações coletadas pelo tempo necessário para fornecer o serviço solicitado. Quando armazenamos dados, protegemos dentro de meios comercialmente aceitáveis para evitar perdas e roubos, bem como acesso, divulgação, cópia, uso ou modificação não autorizados.
-          </p>
-          <p>
-            Não compartilhamos informações de identificação pessoal publicamente ou com terceiros, exceto quando exigido por lei.
-          </p>
+      <p class="text-base sm:text-lg text-gray-600 max-w-2xl mx-auto">
+        Entenda o nosso compromisso com a privacidade e proteção das informações dos clientes e visitantes do Caçambas Guarulhos.
+      </p>
+    </div>
+  </section>
+
+  <!-- Content Section -->
+  <section class="py-16 md:py-20 bg-gray-50">
+    <div class="container mx-auto px-6 md:px-12 max-w-4xl">
+      <div class="bg-white p-8 sm:p-12 md:p-16 rounded-2xl shadow-xl shadow-gray-200/50 border border-gray-100 space-y-12">
+        
+        <!-- Bloco 1: Introdução Geral -->
+        <div>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">
+            1. Informações Gerais e Compromisso
+          </h2>
+          <div class="space-y-4 text-gray-700 leading-relaxed text-[16px]">
+            <p>
+              A sua privacidade é importante para nós. É política do <strong>Caçambas Guarulhos</strong> respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no site <strong>Caçambas Guarulhos</strong>, e outros sites que possuímos e operamos.
+            </p>
+            <p>
+              Solicitamos informações pessoais apenas quando realmente precisamos delas para lhe fornecer um serviço. Fazemo-lo por meios justos e legais, com o seu conhecimento e consentimento. Também informamos por que estamos coletando e como será usado.
+            </p>
+            <p>
+              Apenas retemos as informações coletadas pelo tempo necessário para fornecer o serviço solicitado. Quando armazenamos dados, protegemos dentro de meios comercialmente aceitáveis para evitar perdas e roubos, bem como acesso, divulgação, cópia, uso ou modificação não autorizados.
+            </p>
+            <p>
+              Não compartilhamos informações de identificação pessoal publicamente ou com terceiros, exceto quando exigido por lei.
+            </p>
+            <p>
+              O nosso site pode ter links para sites externos que não são operados por nós. Esteja ciente de que não temos controle sobre o conteúdo e práticas desses sites e não podemos aceitar responsabilidade por suas respectivas políticas de privacidade.
+            </p>
+            <p>
+              Você é livre para recusar a nossa solicitação de informações pessoais, entendendo que talvez não possamos fornecer alguns dos serviços desejados.
+            </p>
+            <p>
+              O uso continuado de nosso site será considerado como aceitação de nossas práticas em torno de privacidade e informações pessoais. Se você tiver alguma dúvida sobre como lidamos com dados do usuário e informações pessoais, entre em contacto connosco.
+            </p>
+          </div>
         </div>
+
+        <hr class="border-gray-100" />
+
+        <!-- Bloco 2: Google AdSense e Cookies -->
+        <div>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">
+            2. Publicidade, Cookies e Google AdSense
+          </h2>
+          <div class="space-y-4 text-gray-700 leading-relaxed text-[16px]">
+            <div class="bg-amber-50/60 border border-amber-200/80 rounded-xl p-5 mb-5 text-gray-800">
+              <p class="font-semibold text-gray-900 mb-2">Google AdSense e Cookies de Terceiros</p>
+              <p>
+                O serviço Google AdSense que usamos para veicular publicidade usa um cookie DoubleClick para veicular anúncios mais relevantes em toda a Web e limitar o número de vezes que um determinado anúncio é exibido para você.
+              </p>
+              <p class="mt-2 text-sm text-gray-600">
+                Para mais informações sobre o Google AdSense, consulte as FAQs oficiais sobre privacidade do Google AdSense.
+              </p>
+            </div>
+            
+            <p>
+              Utilizamos anúncios para compensar os custos de funcionamento deste site e fornecer financiamento para futuros desenvolvimentos. Os cookies de publicidade comportamental usados por este site foram projetados para garantir que você forneça os anúncios mais relevantes sempre que possível, rastreando anonimamente seus interesses e apresentando coisas semelhantes que possam ser do seu interesse.
+            </p>
+            <p>
+              Vários parceiros anunciam em nosso nome e os cookies de rastreamento de afiliados simplesmente nos permitem ver se nossos clientes acessaram o site através de um dos sites de nossos parceiros, para que possamos creditá-los adequadamente e, quando aplicável, permitir que nossos parceiros afiliados ofereçam qualquer promoção que pode fornecê-lo para fazer uma compra.
+            </p>
+          </div>
+        </div>
+
+        <hr class="border-gray-100" />
+
+        <!-- Bloco 3: Compromisso do Usuário -->
+        <div>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">
+            3. Compromisso do Usuário
+          </h2>
+          <p class="text-gray-700 text-[16px] mb-5">
+            O usuário se compromete a fazer uso adequado dos conteúdos e da informação que o <strong>Caçambas Guarulhos</strong> oferece no site e com caráter enunciativo, mas não limitativo:
+          </p>
+
+          <div class="grid gap-4">
+            <div class="flex items-start gap-4 p-4 rounded-xl bg-gray-50 border border-gray-100">
+              <span class="flex-shrink-0 w-8 h-8 rounded-lg bg-primary font-black text-gray-900 flex items-center justify-center text-sm">
+                A
+              </span>
+              <p class="text-gray-700 text-[15px] pt-1 leading-relaxed">
+                Não se envolver em atividades que sejam ilegais ou contrárias à boa fé e à ordem pública;
+              </p>
+            </div>
+
+            <div class="flex items-start gap-4 p-4 rounded-xl bg-gray-50 border border-gray-100">
+              <span class="flex-shrink-0 w-8 h-8 rounded-lg bg-primary font-black text-gray-900 flex items-center justify-center text-sm">
+                B
+              </span>
+              <p class="text-gray-700 text-[15px] pt-1 leading-relaxed">
+                Não difundir propaganda ou conteúdo de natureza racista, xenofóbica, jogos de sorte ou azar, qualquer tipo de pornografia ilegal, de apologia ao terrorismo ou contra os direitos humanos;
+              </p>
+            </div>
+
+            <div class="flex items-start gap-4 p-4 rounded-xl bg-gray-50 border border-gray-100">
+              <span class="flex-shrink-0 w-8 h-8 rounded-lg bg-primary font-black text-gray-900 flex items-center justify-center text-sm">
+                C
+              </span>
+              <p class="text-gray-700 text-[15px] pt-1 leading-relaxed">
+                Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) do Caçambas Guarulhos, de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos anteriormente mencionados.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <hr class="border-gray-100" />
+
+        <!-- Bloco 4: Mais Informações e Vigência -->
+        <div>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">
+            4. Mais Informações
+          </h2>
+          <div class="space-y-4 text-gray-700 leading-relaxed text-[16px]">
+            <p>
+              Esperamos que esteja esclarecido e, como mencionado anteriormente, se houver algo que você não tem certeza se precisa ou não, geralmente é mais seguro deixar os cookies ativados, caso interaja com um dos recursos que você usa em nosso site.
+            </p>
+            
+            <div class="mt-6 p-4 rounded-xl bg-gray-50 border border-gray-200 text-sm text-gray-600 flex items-center justify-between flex-wrap gap-2">
+              <span><strong>Efetividade:</strong> Esta política é efetiva a partir de <strong>11 de Outubro de 2026 às 13:12</strong>.</span>
+              <span class="text-xs bg-green-100 text-green-800 font-bold px-2.5 py-1 rounded-full">Vigente</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Bloco de Dúvidas / Contato -->
+        <div class="bg-secondary/5 border border-secondary/20 rounded-2xl p-6 sm:p-8 flex flex-col sm:flex-row items-center justify-between gap-6">
+          <div>
+            <h3 class="text-lg font-bold text-gray-900 mb-1">Dúvidas sobre a nossa privacidade?</h3>
+            <p class="text-sm text-gray-600">Nossa equipe está à disposição para esclarecer qualquer questão relacionada aos seus dados.</p>
+          </div>
+          <a 
+            href={`https://wa.me/${SITE_CONFIG.phones.whatsapp}?text=Olá,%20gostaria%20de%20esclarecer%20uma%20dúvida%20sobre%20a%20política%20de%20privacidade`}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="whitespace-nowrap inline-flex items-center gap-2 bg-primary hover:bg-yellow-400 text-gray-900 font-extrabold px-6 py-3 rounded-xl transition-all shadow-md hover:shadow-lg active:scale-95 text-sm"
+          >
+            Falar Conosco
+          </a>
+        </div>
+
       </div>
     </div>
   </section>
