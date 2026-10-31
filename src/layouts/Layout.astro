@@ -8,10 +8,11 @@ import { SITE_CONFIG } from '../data/config';
 interface Props {
   title?: string;
   description?: string;
+  canonicalUrl?: string;
   transparentHeader?: boolean;
 }
 
-const { title, description, transparentHeader = false } = Astro.props;
+const { title, description, canonicalUrl, transparentHeader = false } = Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -24,7 +25,7 @@ const { title, description, transparentHeader = false } = Astro.props;
     <meta name="google-site-verification" content="LYvCWB3GGB-UakxdE4JZXGCdl9j1G7W7POxc-qFu4fc" />
     
     <!-- Centralized SEO Component -->
-    <SEO title={title} description={description} />
+    <SEO title={title} description={description} canonicalUrl={canonicalUrl} />
     <SchemaLocalBusiness />
 
     <!-- Resource Hints & Mobile LCP Preload -->
