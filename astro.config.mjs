@@ -6,6 +6,9 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
   site: 'https://www.centraldacacamba.com.br',
   output: 'static',
+  redirects: {
+    '/blog/aluguel-cacamba-entulho-guarulhos-solucao-definitiva': '/blog/guia-pratico-descarte-correto-entulho-obras',
+  },
   integrations: [
     tailwind(),
     sitemap()

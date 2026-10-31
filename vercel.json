@@ -1,4 +1,11 @@
 {
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/blog/aluguel-cacamba-entulho-guarulhos-solucao-definitiva",
+      "destination": "/blog/guia-pratico-descarte-correto-entulho-obras",
+      "permanent": true
+    }
+  ]
 }
