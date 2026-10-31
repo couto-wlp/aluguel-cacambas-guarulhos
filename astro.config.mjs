@@ -7,7 +7,10 @@ export default defineConfig({
   site: 'https://www.centraldacacamba.com.br',
   output: 'static',
   redirects: {
-    '/blog/aluguel-cacamba-entulho-guarulhos-solucao-definitiva': '/blog/guia-pratico-descarte-correto-entulho-obras',
+    '/blog/aluguel-cacamba-entulho-guarulhos-solucao-definitiva': '/guia-pratico-para-descarte-correto-de-entulho-em-obras',
+    '/blog/guia-pratico-descarte-correto-entulho-obras': '/guia-pratico-para-descarte-correto-de-entulho-em-obras',
+    '/blog/guia-pratico-para-descarte-correto-de-entulho-em-obras': '/guia-pratico-para-descarte-correto-de-entulho-em-obras',
+    '/guia-pratico-descarte-correto-entulho-obras': '/guia-pratico-para-descarte-correto-de-entulho-em-obras',
   },
   integrations: [
     tailwind(),

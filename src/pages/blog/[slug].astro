@@ -4,10 +4,12 @@ import Layout from '../../layouts/Layout.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
-  return posts.map(post => ({
-    params: { slug: post.slug },
-    props: { post },
-  }));
+  return posts
+    .filter(post => post.slug !== 'guia-pratico-para-descarte-correto-de-entulho-em-obras')
+    .map(post => ({
+      params: { slug: post.slug },
+      props: { post },
+    }));
 }
 
 export const prerender = true;

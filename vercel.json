@@ -4,7 +4,22 @@
   "redirects": [
     {
       "source": "/blog/aluguel-cacamba-entulho-guarulhos-solucao-definitiva",
-      "destination": "/blog/guia-pratico-descarte-correto-entulho-obras",
+      "destination": "/guia-pratico-para-descarte-correto-de-entulho-em-obras",
+      "permanent": true
+    },
+    {
+      "source": "/blog/guia-pratico-descarte-correto-entulho-obras",
+      "destination": "/guia-pratico-para-descarte-correto-de-entulho-em-obras",
+      "permanent": true
+    },
+    {
+      "source": "/blog/guia-pratico-para-descarte-correto-de-entulho-em-obras",
+      "destination": "/guia-pratico-para-descarte-correto-de-entulho-em-obras",
+      "permanent": true
+    },
+    {
+      "source": "/guia-pratico-descarte-correto-entulho-obras",
+      "destination": "/guia-pratico-para-descarte-correto-de-entulho-em-obras",
       "permanent": true
     }
   ]
