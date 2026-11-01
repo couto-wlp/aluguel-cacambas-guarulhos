@@ -219,7 +219,6 @@ const bairros = (await getCollection('bairros')).sort((a, b) =>
               class="group flex items-center justify-between gap-5 rounded-2xl border border-gray-200 bg-gray-50 px-5 py-4 md:px-6 hover:border-primary hover:bg-primary/5 hover:shadow-md transition-all"
             >
               <div>
-                <span class="block text-[11px] font-black uppercase tracking-wider text-yellow-600 mb-1">Guarulhos</span>
                 <h3 class="text-base md:text-lg font-black text-gray-900 group-hover:text-secondary transition-colors">
                   {bairro.data.name}
                 </h3>
@@ -231,11 +230,8 @@ const bairros = (await getCollection('bairros')).sort((a, b) =>
           ))}
         </div>
 
-        <div class="mt-5 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 text-sm font-bold">
-          <span class="text-gray-500 inline-flex items-center gap-2">
-            Role para baixo e veja mais bairros <span aria-hidden="true">↓</span>
-          </span>
-          <a href="/bairros" class="text-gray-900 hover:text-yellow-600 transition-colors inline-flex items-center gap-2">
+        <div class="mt-8 flex justify-center">
+          <a href="/bairros" class="inline-flex items-center justify-center gap-2 rounded-xl bg-primary px-8 py-4 text-base font-black text-gray-900 shadow-lg shadow-primary/20 hover:bg-yellow-400 hover:scale-105 active:scale-95 transition-all">
             Ver todos os bairros <span aria-hidden="true">→</span>
           </a>
         </div>
