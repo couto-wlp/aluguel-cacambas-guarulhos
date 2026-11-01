@@ -7,7 +7,7 @@ export const SITE_CONFIG = {
   
   // Contato (NAP)
   address: {
-    streetAddress: 'Av. Lauro de Gusmão Silveira, 239 - Parque Ind. Jd. São Geraldo',
+    streetAddress: 'Av. Lauro de Gusmão Silveira, 1500 - Parque Industrial do Jardim Sao Geraldo',
     addressLocality: 'Guarulhos',
     addressRegion: 'SP',
     postalCode: '07140-010',
