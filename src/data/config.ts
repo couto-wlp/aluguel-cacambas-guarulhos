@@ -25,6 +25,6 @@ export const SITE_CONFIG = {
   // Redes Sociais (se houver)
   social: {
     instagram: 'https://instagram.com/cacambasguarulhos',
-    facebook: 'https://facebook.com/cacambasguarulhos'
+    facebook: 'https://www.facebook.com/profile.php?id=61595800514797&sk=directory_category'
   }
 };
