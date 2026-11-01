@@ -4,6 +4,9 @@ import { getCollection } from 'astro:content';
 
 const servicos = await getCollection('servicos');
 const equipamentosDestaque = servicos.slice(0, 6);
+const bairros = (await getCollection('bairros')).sort((a, b) =>
+  a.data.name.localeCompare(b.data.name, 'pt-BR')
+);
 ---
 
 <Layout title="Aluguel de Caçamba em Guarulhos - SP | Entrega Rápida" transparentHeader={true}>
@@ -196,7 +199,51 @@ const equipamentosDestaque = servicos.slice(0, 6);
     </div>
   </section>
 
-  <!-- 5. Sobre Nós (Resumo) -->
+  <!-- 5. Regiões que Atendemos -->
+  <section id="regioes-atendidas" class="py-20 md:py-24 bg-white border-t border-gray-100">
+    <div class="container mx-auto px-6 md:px-12 max-w-5xl">
+      <div class="text-center max-w-3xl mx-auto mb-10">
+        <h2 class="text-3xl md:text-5xl font-black text-gray-900 mb-4 tracking-tighter leading-tight">
+          Regiões que <span class="text-primary">Atendemos</span>
+        </h2>
+        <p class="text-base text-gray-600 leading-relaxed">
+          Levamos caçambas com rapidez e segurança aos principais bairros de Guarulhos, oferecendo atendimento confiável para obras, reformas e limpezas locais.
+        </p>
+      </div>
+
+      <div class="relative">
+        <div class="bairros-scroll max-h-[320px] overflow-y-auto pr-3 space-y-3" tabindex="0" aria-label="Lista de bairros atendidos">
+          {bairros.map((bairro) => (
+            <a
+              href={`/bairros/${bairro.slug}`}
+              class="group flex items-center justify-between gap-5 rounded-2xl border border-gray-200 bg-gray-50 px-5 py-4 md:px-6 hover:border-primary hover:bg-primary/5 hover:shadow-md transition-all"
+            >
+              <div>
+                <span class="block text-[11px] font-black uppercase tracking-wider text-yellow-600 mb-1">Guarulhos</span>
+                <h3 class="text-base md:text-lg font-black text-gray-900 group-hover:text-secondary transition-colors">
+                  {bairro.data.name}
+                </h3>
+              </div>
+              <span class="shrink-0 text-sm font-black text-gray-900 group-hover:text-yellow-600 transition-colors">
+                Saiba mais <span aria-hidden="true">→</span>
+              </span>
+            </a>
+          ))}
+        </div>
+
+        <div class="mt-5 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 text-sm font-bold">
+          <span class="text-gray-500 inline-flex items-center gap-2">
+            Role para baixo e veja mais bairros <span aria-hidden="true">↓</span>
+          </span>
+          <a href="/bairros" class="text-gray-900 hover:text-yellow-600 transition-colors inline-flex items-center gap-2">
+            Ver todos os bairros <span aria-hidden="true">→</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 6. Sobre Nós (Resumo) -->
   <section class="pt-[40px] pb-24 md:pb-32 bg-[#F3F4F6]">
     <div class="container mx-auto px-6 md:px-12 max-w-6xl">
       <div class="text-center mb-16">
@@ -225,7 +272,7 @@ const equipamentosDestaque = servicos.slice(0, 6);
   </section>
 
 
-  <!-- 6. Chamada Final -->
+  <!-- 7. Chamada Final -->
   <section class="py-24 md:pb-32 bg-white relative overflow-hidden border-t border-gray-200">
     <div class="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(255,255,255,0.05)_0,transparent_100%)] pointer-events-none"></div>
     <div class="container mx-auto px-6 md:px-12 relative z-10 text-center">
@@ -243,4 +290,29 @@ const equipamentosDestaque = servicos.slice(0, 6);
       </div>
     </div>
   </section>
+
+  <style>
+    .bairros-scroll {
+      scrollbar-width: thin;
+      scrollbar-color: #FACC15 #F3F4F6;
+    }
+
+    .bairros-scroll::-webkit-scrollbar {
+      width: 7px;
+    }
+
+    .bairros-scroll::-webkit-scrollbar-track {
+      background: #F3F4F6;
+      border-radius: 999px;
+    }
+
+    .bairros-scroll::-webkit-scrollbar-thumb {
+      background: #FACC15;
+      border-radius: 999px;
+    }
+
+    .bairros-scroll::-webkit-scrollbar-thumb:hover {
+      background: #EAB308;
+    }
+  </style>
 </Layout>
