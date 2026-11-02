@@ -27,8 +27,9 @@ const bairros = (await getCollection('bairros')).sort((a, b) =>
         </div>
 
         <!-- H1 (Branco e Amarelo com base na Lei de Contraste) -->
-        <h1 class="text-[39px] sm:text-[55px] md:text-[67px] font-black text-white tracking-[-0.5px] leading-[78px] mb-[20px]" style="-webkit-text-stroke: 1px currentColor;">
-          Aluguel de Caçamba de Entulho <br class="hidden sm:block" /> em <span class="text-primary">Guarulhos</span>
+        <h1 class="text-[clamp(24px,5.3vw,62px)] font-black text-white tracking-[-0.5px] leading-[1.12] mb-[20px]" style="-webkit-text-stroke: 1px currentColor;">
+          <span class="block whitespace-nowrap">Aluguel de Caçamba de Entulho</span>
+          <span class="block whitespace-nowrap">em <span class="text-primary">Guarulhos</span></span>
         </h1>
 
         <!-- Subtítulo -->
