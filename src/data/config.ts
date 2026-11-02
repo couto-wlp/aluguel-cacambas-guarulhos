@@ -20,7 +20,7 @@ export const SITE_CONFIG = {
     landline: '(11) 94375-8880',
   },
   
-  email: 'contato@cacambasguarulhos.com.br',
+  email: 'contato@centraldacacamba.com.br',
   
   // Redes Sociais (se houver)
   social: {
