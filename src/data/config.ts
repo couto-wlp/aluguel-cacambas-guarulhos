@@ -1,6 +1,6 @@
 export const SITE_CONFIG = {
   // Configurações Globais
-  siteUrl: 'https://cacambasguarulhos.com.br',
+  siteUrl: 'https://www.centraldacacamba.com.br',
   siteName: 'Caçambas Guarulhos',
   siteTitle: 'Aluguel de Caçamba em Guarulhos | Entrega Rápida e Preço Justo',
   siteDescription: 'Serviço especializado de aluguel de caçambas estacionárias em Guarulhos. Atendimento para obras residenciais, comerciais e industriais com descarte ecologicamente correto.',
