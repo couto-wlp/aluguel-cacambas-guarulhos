@@ -12,7 +12,7 @@ O bairro Bela Vista é uma das regiões mais tradicionais e populosas de Guarulh
 
 A experiência nos mostra que reformas no Bela Vista exigem um cronograma afiado. Você não pode deixar materiais acumulados atrapalhando a garagem ou a passagem de pedestres na calçada. A caçamba de entulho é a ferramenta perfeita para manter o canteiro de obras limpo, seguro e produtivo.
 
-Nossa especialidade é entregar a caçamba exatamente quando a quebra de alvenaria começa e retirá-la assim que o volume limite for atingido. Trabalhamos com caçambas de tamanhos padronizados (geralmente entre 3m³ e 5m³), que ocupam o equivalente a uma vaga de estacionamento de um carro popular, adequando-se perfeitamente às normas de trânsito das vias do Bela Vista.
+Nossa especialidade é entregar a caçamba exatamente quando a quebra de alvenaria começa e retirá-la assim que o volume limite for atingido. Trabalhamos com caçambas de tamanhos padronizados, como os modelos de [4m³](/servicos/cacamba-4m) e [5m³](/servicos/cacamba-5m), que ocupam o equivalente a uma vaga de estacionamento de um carro popular, adequando-se perfeitamente às normas de trânsito das vias do Bela Vista.
 
 ## A Confiabilidade Que a Sua Obra Precisa
 
