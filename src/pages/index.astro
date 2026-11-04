@@ -4,9 +4,48 @@ import { getCollection } from 'astro:content';
 
 const servicos = await getCollection('servicos');
 const equipamentosDestaque = servicos.slice(0, 6);
+const homeCardDescriptions: Record<string, string> = {
+  'cacamba-4m': 'Ideal para pequenas reformas residenciais, como renovação de banheiros ou cozinhas. Comporta em média 60 a 80 sacos de entulho de 50 litros. Perfeita para o descarte rápido de pisos, azulejos e restos de alvenaria sem ocupar muito espaço na rua.',
+  'cacamba-5m': 'Recomendada para obras de médio porte, como troca de telhados, demolição de paredes ou limpeza de quintal. Acomoda até 100 sacos de entulho. É a escolha mais versátil para quem precisa de um pouco mais de volume com total segurança.',
+  'cacamba-6m': 'Indicada para limpezas de terrenos, podas de árvores e reformas comerciais maiores. Tem capacidade para cerca de 120 sacos de resíduos. Excelente para acomodar materiais mais volumosos que ocupam muito espaço, como gesso, madeira e drywall.',
+  'cacamba-7m': 'Projetada para grandes volumes de resíduos leves e entulhos de obras extensas. Ideal para empreiteiras, condomínios e construções que geram descarte contínuo de materiais mistos, garantindo um canteiro de obras sempre limpo.',
+  'cacamba-8m': 'A opção perfeita para grandes obras e canteiros de construção civil. Oferece o máximo de espaço para o descarte de grandes quantidades de terra, blocos de concreto e entulhos pesados, otimizando o número de viagens e o custo da sua obra.',
+  'cacamba-roll-on': 'Equipamento de grande porte voltado para indústrias, galpões e construtoras de grande escala. Comporta volumes massivos de resíduos industriais e da construção pesada. Requer espaço amplo no local para a manobra segura do caminhão.'
+};
 const bairros = (await getCollection('bairros')).sort((a, b) =>
   a.data.name.localeCompare(b.data.name, 'pt-BR')
 );
+
+const faqs = [
+  {
+    question: 'Como funciona o aluguel de caçamba em Guarulhos?',
+    answer: 'Você informa o endereço da obra, o tipo de resíduo e o volume aproximado. Nossa equipe indica a caçamba adequada, combina a entrega e agenda a retirada para que o serviço aconteça com rapidez e segurança.'
+  },
+  {
+    question: 'Qual tamanho de caçamba devo escolher?',
+    answer: 'O tamanho ideal depende do volume, do peso e do tipo de material descartado. Trabalhamos com diferentes capacidades e ajudamos você a escolher a opção mais adequada para pequenas reformas, grandes obras ou limpezas.'
+  },
+  {
+    question: 'Quais resíduos podem ser colocados na caçamba?',
+    answer: 'As caçambas são indicadas para resíduos da construção civil, como concreto, tijolos, blocos, argamassa, cerâmica, terra e outros materiais de obra. Para gesso, madeira ou resíduos específicos, consulte nossa equipe antes do descarte.'
+  },
+  {
+    question: 'O que não pode ser descartado na caçamba?',
+    answer: 'Não descarte lixo doméstico ou orgânico, resíduos hospitalares, produtos químicos, tintas, solventes, óleos, materiais inflamáveis ou outros resíduos perigosos. Em caso de dúvida, fale conosco antes de colocar o material na caçamba.'
+  },
+  {
+    question: 'Por quanto tempo posso ficar com a caçamba?',
+    answer: 'O período de permanência é definido no momento da contratação, conforme a necessidade da obra e a disponibilidade do equipamento. Se precisar alterar a data de retirada, entre em contato com antecedência.'
+  },
+  {
+    question: 'Vocês atendem todos os bairros de Guarulhos?',
+    answer: 'Atendemos os principais bairros de Guarulhos e avaliamos cada endereço para confirmar acesso, disponibilidade e prazo de entrega. Envie sua localização pelo WhatsApp para receber uma confirmação rápida.'
+  },
+  {
+    question: 'Como é feita a retirada e a destinação dos resíduos?',
+    answer: 'Após o período combinado, nossa equipe retira a caçamba e encaminha os resíduos para triagem e destinação adequada, seguindo as normas ambientais aplicáveis e priorizando um descarte seguro e responsável.'
+  }
+];
 ---
 
 <Layout
@@ -82,7 +121,7 @@ const bairros = (await getCollection('bairros')).sort((a, b) =>
                 {servico.data.title}
               </h3>
               <p class="text-gray-600 text-base">
-                {servico.data.description}
+                {homeCardDescriptions[servico.slug] ?? servico.data.description}
               </p>
               <div class="mt-8 font-bold text-primary flex items-center gap-2 group-hover:text-yellow-500 transition-colors">
                 Saiba Mais <span>&rarr;</span>
@@ -321,9 +360,9 @@ const bairros = (await getCollection('bairros')).sort((a, b) =>
         
         <!-- Direita: Texto -->
         <div class="text-left">
-          <h3 class="text-2xl md:text-3xl font-black text-gray-900 mb-6 tracking-tight">Autoridade em aluguel de caçambas.</h3>
+          <h3 class="text-2xl md:text-3xl font-black text-gray-900 mb-6 tracking-tight">Autoridade e Tradição em Aluguel de Caçambas em Guarulhos</h3>
           <p class="text-base md:text-base text-gray-800 leading-relaxed mb-10">
-            Com 20 anos de tradição em Guarulhos, somos especialistas em aluguel de caçambas. Oferecemos entrega expressa em até duas horas, frota moderna, equipe experiente e o melhor preço. Somos 100% regularizados, garantindo o descarte ecológico e seguro dos seus entulhos.
+            Fundada em 2009 por Marcio Silva, a CaçambasGSP consolida 17 anos de experiência prática na gestão e destinação adequada de resíduos da construção civil. Como uma empresa com raízes em Guarulhos, operamos com frota própria e total conformidade com as diretrizes ambientais da prefeitura. O nosso foco é garantir agilidade na entrega e retirada, assegurando que a sua obra, reforma ou limpeza avance sem atrasos e com a máxima segurança e responsabilidade ecológica.
           </p>
           <a href="/sobre" class="inline-block px-8 py-4 rounded-xl bg-primary hover:bg-yellow-400 text-gray-900 font-black text-base transition-all shadow-lg shadow-primary/20 hover:scale-105 active:scale-95">
             Conheça Nossa História
@@ -334,7 +373,37 @@ const bairros = (await getCollection('bairros')).sort((a, b) =>
   </section>
 
 
-  <!-- 7. Chamada Final -->
+  <!-- 7. Perguntas Frequentes -->
+  <section class="py-20 md:py-24 bg-gray-50 border-t border-gray-200" aria-labelledby="faq-title">
+    <div class="container mx-auto px-6 md:px-12 max-w-4xl">
+      <div class="text-center mb-12">
+        <span class="text-xs font-black uppercase tracking-[0.2em] text-yellow-600">Tire suas dúvidas</span>
+        <h2 id="faq-title" class="text-3xl md:text-5xl font-black text-gray-900 tracking-tighter leading-tight mt-3 mb-4">
+          Perguntas <span class="text-primary">Frequentes</span>
+        </h2>
+        <p class="text-base text-gray-600 leading-relaxed max-w-2xl mx-auto">
+          Confira as respostas para as principais dúvidas sobre aluguel de caçambas em Guarulhos.
+        </p>
+      </div>
+
+      <div class="space-y-4">
+        {faqs.map((faq) => (
+          <details class="group rounded-2xl border border-gray-200 bg-white shadow-sm open:border-primary/60 open:shadow-md transition-all">
+            <summary class="flex cursor-pointer list-none items-center justify-between gap-5 px-6 py-5 text-left [&::-webkit-details-marker]:hidden">
+              <span class="text-base md:text-lg font-black text-gray-900">{faq.question}</span>
+              <span class="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-primary text-2xl font-bold leading-none text-gray-900 transition-transform duration-300 group-open:rotate-45" aria-hidden="true">+</span>
+            </summary>
+            <div class="px-6 pb-6 pr-16">
+              <p class="text-base leading-relaxed text-gray-600">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+
+  <!-- 8. Chamada Final -->
   <section class="py-24 md:pb-32 bg-white relative overflow-hidden border-t border-gray-200">
     <div class="absolute inset-0 bg-[radial-gradient(circle_at_center,rgba(255,255,255,0.05)_0,transparent_100%)] pointer-events-none"></div>
     <div class="container mx-auto px-6 md:px-12 relative z-10 text-center">
