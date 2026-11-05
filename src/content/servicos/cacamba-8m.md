@@ -1,6 +1,6 @@
 ---
 title: "Caçamba de 8m³"
-seoTitle: "Aluguel de Caçamba 8m³ em Guarulhos - SP | Preço Justo"
+seoTitle: "Aluguel de Caçamba de 8m³ em Guarulhos"
 description: "A escolha definitiva em Guarulhos para construtoras, indústrias e grandes canteiros de demolição com máxima capacidade volumétrica."
 image: "/images/cacamba-8m.webp"
 specs:

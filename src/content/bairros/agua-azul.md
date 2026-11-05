@@ -31,7 +31,7 @@ Para garantir a segurança e a conformidade legal do descarte, orientamos nossos
 
 ## Como Funciona o Nosso Atendimento no Água Azul?
 
-A experiência do cliente é a nossa prioridade. Sabemos que o cronograma de uma obra é apertado, por isso nosso processo de locação é ágil e sem burocracia. Ao entrar em contato conosco, nossa equipe especializada ajudará você a dimensionar o tamanho ideal da caçamba (geralmente trabalhamos com volumes de [4m³](/servicos/cacamba-4m) ou [5m³](/servicos/cacamba-5m), dependendo da densidade do material).
+A experiência do cliente é a nossa prioridade. Sabemos que o cronograma de uma obra é apertado, por isso nosso processo de locação é ágil e sem burocracia. Ao entrar em contato conosco, nossa equipe especializada ajudará você a dimensionar o tamanho ideal da caçamba (geralmente trabalhamos com volumes de [4m³](/servicos/aluguel-cacamba-4m3-guarulhos) ou [5m³](/servicos/aluguel-cacamba-5m3-guarulhos), dependendo da densidade do material).
 
 A entrega é programada de acordo com a sua necessidade. A caçamba deve ser posicionada em local seguro, respeitando o fluxo de veículos nas ruas do bairro e garantindo que o caminhão tenha espaço para manobra na hora da retirada. Em média, a caçamba pode ficar estacionada no local por até 3 a 7 dias, conforme a legislação de trânsito local.
 

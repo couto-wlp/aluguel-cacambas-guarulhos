@@ -21,6 +21,36 @@
       "source": "/guia-pratico-descarte-correto-entulho-obras",
       "destination": "/guia-pratico-para-descarte-correto-de-entulho-em-obras",
       "permanent": true
+    },
+    {
+      "source": "/servicos/cacamba-4m",
+      "destination": "/servicos/aluguel-cacamba-4m3-guarulhos",
+      "permanent": true
+    },
+    {
+      "source": "/servicos/cacamba-5m",
+      "destination": "/servicos/aluguel-cacamba-5m3-guarulhos",
+      "permanent": true
+    },
+    {
+      "source": "/servicos/cacamba-6m",
+      "destination": "/servicos/aluguel-cacamba-6m3-guarulhos",
+      "permanent": true
+    },
+    {
+      "source": "/servicos/cacamba-7m",
+      "destination": "/servicos/aluguel-cacamba-7m3-guarulhos",
+      "permanent": true
+    },
+    {
+      "source": "/servicos/cacamba-8m",
+      "destination": "/servicos/aluguel-cacamba-8m3-guarulhos",
+      "permanent": true
+    },
+    {
+      "source": "/servicos/cacamba-roll-on",
+      "destination": "/servicos/aluguel-cacamba-roll-on-guarulhos",
+      "permanent": true
     }
   ]
 }

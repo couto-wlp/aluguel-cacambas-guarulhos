@@ -1,6 +1,6 @@
 ---
 title: "Caçamba Roll-on"
-seoTitle: "Aluguel de Caçamba Roll-on em Guarulhos | Caçambas B2B"
+seoTitle: "Aluguel de Caçamba Roll-on em Guarulhos"
 description: "A solução definitiva em grande escala para atender indústrias, shopping centers e canteiros de obras monumentais em Guarulhos, SP."
 image: "/images/cacamba-roll-on.webp"
 specs:

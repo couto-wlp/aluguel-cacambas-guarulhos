@@ -1,11 +1,12 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import { getServicePublicSlug } from '../../data/serviceUrls';
 
 export async function getStaticPaths() {
   const servicos = await getCollection('servicos');
   return servicos.map(servico => ({
-    params: { slug: servico.slug },
+    params: { slug: getServicePublicSlug(servico.slug) },
     props: { servico },
   }));
 }
@@ -29,7 +30,7 @@ const pageTitle = servico.data.seoTitle || `Aluguel de ${servico.data.title} em 
 
       <!-- Título Principal -->
       <h1 class="text-4xl sm:text-5xl md:text-6xl font-black text-gray-900 tracking-tight leading-tight mb-6">
-        {servico.data.title}
+        {pageTitle}
       </h1>
 
       <!-- Subtítulo -->

@@ -1,6 +1,6 @@
 ---
 title: "Caçamba de 7m³"
-seoTitle: "Aluguel de Caçamba 7m³ em Guarulhos - SP | Preço Justo"
+seoTitle: "Aluguel de Caçamba de 7m³ em Guarulhos"
 description: "A solução de máxima capacidade projetada para atender construtoras, galpões industriais e grandes polos comerciais em Guarulhos, SP."
 image: "/images/cacamba-7m.webp"
 specs:

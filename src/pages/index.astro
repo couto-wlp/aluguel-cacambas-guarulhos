@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
+import { getServicePath } from '../data/serviceUrls';
 
 const servicos = await getCollection('servicos');
 const equipamentosDestaque = servicos.slice(0, 6);
@@ -110,7 +111,7 @@ const faqs = [
       
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12">
         {equipamentosDestaque.map(servico => (
-          <a href={`/servicos/${servico.slug}`} class="block group">
+          <a href={getServicePath(servico.slug)} class="block group">
             <div class="h-full bg-white p-10 rounded-2xl shadow-lg shadow-gray-200/40 border border-gray-100 group-hover:border-primary/50 group-hover:-translate-y-2 transition-all">
               {servico.data.image && (
                 <div class="mb-6 h-[201px] flex items-center justify-center">

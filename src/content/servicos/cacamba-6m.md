@@ -1,6 +1,6 @@
 ---
 title: "Caçamba de 6m³"
-seoTitle: "Aluguel de Caçamba 6m³ em Guarulhos - SP | Preço Justo"
+seoTitle: "Aluguel de Caçamba de 6m³ em Guarulhos"
 description: "A solução definitiva para o descarte de resíduos em grandes reformas, demolições e canteiros de obras pesadas em Guarulhos, SP."
 image: "/images/cacamba-6m.webp"
 specs:

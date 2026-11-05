@@ -42,12 +42,12 @@ O tamanho não deve ser escolhido apenas pelo espaço disponível na rua. També
 
 Conheça os modelos disponíveis:
 
-* **[Caçamba de 4m³](/servicos/cacamba-4m):** indicada como referência para pequenas reformas e volumes reduzidos.
-* **[Caçamba de 5m³](/servicos/cacamba-5m):** opção intermediária para reformas residenciais e comerciais.
-* **[Caçamba de 6m³](/servicos/cacamba-6m):** atende obras que geram um volume maior de resíduos.
-* **[Caçamba de 7m³](/servicos/cacamba-7m):** voltada a construções e demolições de maior porte.
-* **[Caçamba de 8m³](/servicos/cacamba-8m):** destinada a operações com grande geração de material, respeitando os limites de peso.
-* **[Caçamba roll-on](/servicos/cacamba-roll-on):** utilizada principalmente em operações industriais e grandes canteiros.
+* **[Caçamba de 4m³](/servicos/aluguel-cacamba-4m3-guarulhos):** indicada como referência para pequenas reformas e volumes reduzidos.
+* **[Caçamba de 5m³](/servicos/aluguel-cacamba-5m3-guarulhos):** opção intermediária para reformas residenciais e comerciais.
+* **[Caçamba de 6m³](/servicos/aluguel-cacamba-6m3-guarulhos):** atende obras que geram um volume maior de resíduos.
+* **[Caçamba de 7m³](/servicos/aluguel-cacamba-7m3-guarulhos):** voltada a construções e demolições de maior porte.
+* **[Caçamba de 8m³](/servicos/aluguel-cacamba-8m3-guarulhos):** destinada a operações com grande geração de material, respeitando os limites de peso.
+* **[Caçamba roll-on](/servicos/aluguel-cacamba-roll-on-guarulhos):** utilizada principalmente em operações industriais e grandes canteiros.
 
 Essas indicações são referências iniciais. A confirmação deve considerar o tipo de resíduo, o peso estimado, o acesso do caminhão e as condições do local.
 

@@ -1,6 +1,6 @@
 ---
 title: "Caçamba de 5m³"
-seoTitle: "Aluguel de Caçamba 5m³ em Guarulhos - SP | Preço Justo"
+seoTitle: "Aluguel de Caçamba de 5m³ em Guarulhos"
 description: "A escolha número um em Guarulhos para acomodar grandes volumes de entulho em reformas residenciais, comerciais e condomínios."
 image: "/images/cacamba-5m.webp"
 specs:

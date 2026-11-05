@@ -1,6 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
+import { getServicePath } from '../../data/serviceUrls';
 
 export const prerender = true;
 
@@ -19,12 +20,12 @@ const title = entry.data.title || `Aluguel de Caçamba no ${entry.data.name} - G
 const description = entry.data.description || `Precisando de caçamba de entulho no bairro ${entry.data.name} em Guarulhos? Alugue agora com entrega rápida, segurança e o melhor preço.`;
 
 const tamanhos = {
-  '4m': { label: '4m³', href: '/servicos/cacamba-4m' },
-  '5m': { label: '5m³', href: '/servicos/cacamba-5m' },
-  '6m': { label: '6m³', href: '/servicos/cacamba-6m' },
-  '7m': { label: '7m³', href: '/servicos/cacamba-7m' },
-  '8m': { label: '8m³', href: '/servicos/cacamba-8m' },
-  'roll-on': { label: 'Roll-on', href: '/servicos/cacamba-roll-on' },
+  '4m': { label: '4m³', href: getServicePath('cacamba-4m') },
+  '5m': { label: '5m³', href: getServicePath('cacamba-5m') },
+  '6m': { label: '6m³', href: getServicePath('cacamba-6m') },
+  '7m': { label: '7m³', href: getServicePath('cacamba-7m') },
+  '8m': { label: '8m³', href: getServicePath('cacamba-8m') },
+  'roll-on': { label: 'Roll-on', href: getServicePath('cacamba-roll-on') },
 };
 
 const bairrosIndustriais = new Set([
