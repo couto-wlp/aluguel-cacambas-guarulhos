@@ -4,6 +4,15 @@ import { getCollection } from 'astro:content';
 import { getServicePath } from '../../data/serviceUrls';
 
 const servicos = await getCollection('servicos');
+
+const serviceCardDescriptions: Record<string, string> = {
+  'cacamba-4m': 'Perfeita para restos de alvenaria, pisos quebrados e pequenas demolições residenciais. Ocupa pouco espaço e recebe materiais densos dentro do limite de carga. Gesso e outros recicláveis devem ser informados previamente para triagem e destinação adequadas.',
+  'cacamba-5m': 'A medida certa para telhas, solo de pequenas escavações e resíduos de ampliações ou limpezas de obra. Oferece excelente equilíbrio entre volume e capacidade de carga. Madeira deve ser separada dos resíduos minerais e informada na contratação.',
+  'cacamba-6m': 'Solução ideal para resíduos volumosos de reformas comerciais, ajudando a manter o canteiro organizado. Drywall, gesso e resíduos de poda exigem avaliação prévia e separação conforme a destinação adequada de cada material.',
+  'cacamba-7m': 'Voltada ao fluxo intenso de descarte em condomínios, construtoras e grandes obras. Atende volumes elevados, desde que concreto, metais, plásticos e outros materiais sejam separados conforme sua classe e respeitem o limite de carga.',
+  'cacamba-8m': 'Opção de alta capacidade volumétrica para obras de grande porte. Pode receber solo, blocos e resíduos de demolição dentro do limite de peso definido para o equipamento, com dimensionamento conforme a densidade do material.',
+  'cacamba-roll-on': 'Sistema de grande volume para indústrias, galpões, shoppings e polos logísticos. Indicado para resíduos não perigosos e devidamente classificados, exige área ampla para a manobra segura do caminhão e operação contínua.'
+};
 ---
 
 <Layout title="Aluguel de Caçambas em Guarulhos - SP | Nossos Serviços">
@@ -31,7 +40,7 @@ const servicos = await getCollection('servicos');
                 {servico.data.title}
               </h2>
               <p class="text-gray-600 text-base">
-                {servico.data.description}
+                {serviceCardDescriptions[servico.slug] ?? servico.data.description}
               </p>
               <div class="mt-8 font-bold text-primary flex items-center gap-2 group-hover:text-yellow-500 transition-colors">
                 Saiba Mais <span>&rarr;</span>
