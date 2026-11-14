@@ -12,7 +12,7 @@ A Vila Augusta é um dos bairros mais cobiçados, valorizados e bem localizados 
 
 Fazer uma reforma em um bairro nobre traz exigências rigorosas. Se você está quebrando o piso de um apartamento ou reestruturando a fachada de um sobrado, o entulho gerado não pode, sob hipótese alguma, ficar espalhado pela calçada. A Vila Augusta possui ruas muito arborizadas, algumas de mão única, com trânsito local intenso e moradores que prezam pela organização urbana.
 
-Além disso, as administradoras dos condomínios da região possuem horários estritos para a chegada de caçambas e para o transporte do entulho pelos elevadores de serviço. Nós somos especialistas em atuar sob essas regras. Nossos caminhões chegam no horário agendado com o seu zelador ou engenheiro. Posicionamos a caçamba estacionária com máxima suavidade, garantindo que o asfalto, o paisagismo do prédio e os veículos vizinhos fiquem totalmente protegidos.
+Condomínios podem definir horários para entrega e para o transporte do entulho pelos elevadores. Essas regras devem ser informadas antes do agendamento. Fotos do portão, do piso e da área indicada ajudam a avaliar o posicionamento e o espaço de manobra.
 
 ## Documentação de Transporte e Destinação do Entulho
 
@@ -32,4 +32,4 @@ Para que o nosso caminhão poli-guindaste consiga retirar a sua caçamba sem cau
 
 ## Orçamento Rápido e Atendimento Premium
 
-Sua obra na Vila Augusta merece fornecedores que entreguem qualidade, preços transparentes e zero dor de cabeça. Facilite o dia a dia da sua equipe de obra e mantenha sua calçada impecável. Envie uma mensagem pelo WhatsApp agora mesmo, tire suas dúvidas com nosso time e agende a entrega da sua caçamba!
+Envie pelo WhatsApp o endereço, os horários do condomínio e os resíduos previstos. A equipe verifica a disponibilidade e apresenta as condições da locação.

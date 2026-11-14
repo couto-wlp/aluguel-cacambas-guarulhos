@@ -12,7 +12,7 @@ O Jardim Fortaleza é uma das regiões de Guarulhos que mais cresce em expansão
 
 Diferente de bairros centrais onde o foco é a demolição de revestimentos, o foco das obras no Jardim Fortaleza geralmente é a terraplenagem. Limpar um lote recém-comprado e realizar o corte e aterro (nivelamento) gera um volume imenso de terra solta, raízes e pedras grandes.
 
-Nós possuímos caçambas estacionárias extremamente reforçadas, perfeitas para esse perfil bruto. Sabemos que muitas vias do bairro ainda estão em fase de pavimentação, podendo ter terra batida ou ladeiras acentuadas. Nossos motoristas possuem a habilidade e a experiência necessárias para manobrar caminhões pesados sob essas condições, posicionando a caixa de forma a facilitar o trabalho dos operários que estão enchendo a caçamba com pás ou retroescavadeiras.
+Vias com terra batida, inclinação ou pavimentação incompleta exigem avaliação antes da entrega. Envie fotos do acesso e do ponto de posicionamento para verificar piso, largura e espaço de manobra. O uso de máquinas no carregamento também deve ser informado.
 
 ## Protegendo a Natureza Local e Evitando Multas
 
@@ -32,6 +32,6 @@ O transporte de terra e pedras exige cuidados especiais para evitar acidentes:
 
 ## Preços Que Cabem no Seu Orçamento de Obra
 
-Nós sabemos que construir do zero exige muito controle financeiro. Por isso, oferecemos o melhor custo-benefício para a região do Jardim Fortaleza. Atendimento parceiro, entregas pontuais e um orçamento sem surpresas no final.
+Construções novas exigem planejamento de custos e retiradas. O orçamento informa previamente as condições do serviço, e as datas são confirmadas conforme a rota e a disponibilidade.
 
-Se você está começando a limpeza do seu terreno ou chegou na fase do acabamento, nós temos a caçamba certa para você. Fale com a nossa equipe hoje mesmo, tire suas dúvidas e agende a locação!
+Informe a etapa da obra, os materiais e o endereço para receber uma avaliação da capacidade e da disponibilidade de atendimento.

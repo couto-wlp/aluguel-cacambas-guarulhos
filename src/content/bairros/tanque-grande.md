@@ -12,7 +12,7 @@ O bairro Tanque Grande é uma localidade emblemática na zona norte de Guarulhos
 
 O perfil dos resíduos gerados no Tanque Grande é bem diferente das reformas urbanas tradicionais. Por aqui, a maior parte do descarte envolve grandes volumes de solo arenoso ou argiloso, pedras brutas decorrentes de escavações de fundações, restos de alvenaria e podas de árvores de grande porte. Tentar remover esse volume com veículos utilitários comuns é inviável e oneroso.
 
-Nossa empresa disponibiliza caçambas estacionárias feitas de chapas de aço reforçadas, preparadas para resistir ao atrito de pedras e ao peso massivo de terra úmida. Conhecemos detalhadamente o relevo e as estradas da região do Tanque Grande, incluindo vias vicinais não asfaltadas. Nossos motoristas de caminhão poli-guindaste são altamente treinados para navegar nessas condições, posicionando as caçambas nos locais mais convenientes para as pás carregadeiras e retroescavadeiras da sua obra.
+Pedras e terra úmida são cargas densas e precisam ser avaliadas pelo peso. Vias vicinais ou sem pavimentação exigem fotos e informações sobre piso, inclinação, largura e área de manobra. O uso de pá carregadeira ou retroescavadeira deve ser informado antes da entrega.
 
 ## Compromisso com a Preservação e Combate ao Descarte Ilegal
 
@@ -34,6 +34,6 @@ Para garantir um transporte seguro nas estradas sinuosas do Tanque Grande, solic
 
 O [Observatório municipal](https://observatorio.guarulhos.sp.gov.br/content/guarulhos) registra 149 moradores no Tanque Grande, uma das menores populações entre as regiões administrativas de Guarulhos. Para reduzir erros de rota, envie a localização compartilhada, um ponto de referência e fotos do acesso. A equipe precisa saber se há trecho de terra, subida acentuada, ponte estreita, vegetação baixa sobre a via ou espaço insuficiente para manobra. Depois de chuva forte, confirme novamente as condições da estrada antes da entrega.
 
-## O Melhor Custo-Benefício para Sua Chácara ou Lote
+## Atendimento para Chácaras e Lotes
 
 Se você precisa retirar terra de uma escavação ou limpar o terreno no Tanque Grande, envie uma mensagem pelo WhatsApp. Informe o volume, o material e as condições de acesso para verificarmos o equipamento e a disponibilidade.

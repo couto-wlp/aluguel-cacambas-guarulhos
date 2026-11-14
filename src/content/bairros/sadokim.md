@@ -12,7 +12,7 @@ A área do Sadokim (próxima à região da Água Chata e ao trevo de Bonsucesso)
 
 No setor industrial, uma doca de carregamento obstruída por entulho significa atrasos e perdas financeiras enormes. O chão de fábrica precisa estar sempre liberado. Entendendo essa urgência, nós estruturamos um atendimento focado na velocidade para as empresas instaladas no Sadokim.
 
-Nossas caçambas de aço são severamente reforçadas para não empenarem ao receber entulho industrial bruto. Mais importante que a resistência é a nossa logística de troca rápida (o chamado "bate e volta"). Nossos caminhões poli-guindastes recolhem a caixa carregada e instalam uma vazia no exato mesmo momento, garantindo que a rotina de pavimentação, escavação ou readequação do galpão da sua empresa continue sem qualquer tempo de ociosidade.
+Resíduos industriais precisam ser identificados antes da escolha do equipamento. Retiradas e trocas podem ser programadas conforme a geração, a rota e a disponibilidade, sem promessa de substituição instantânea. Pavimentação, escavação e manutenção de galpões podem exigir separação e documentação específicas.
 
 ## Compliance Ambiental e Certificações Exigidas (ISO)
 
@@ -32,4 +32,4 @@ No ambiente corporativo, a triagem na fonte é vital para o recolhimento seguro:
 
 Temos o escopo, a frota e a documentação que a sua engenharia precisa. Fornecemos suporte flexível, orçamentos claros e faturamento adequado à realidade corporativa.
 
-Não permita que gargalos na remoção de resíduos atrasem a expansão do seu galpão no polo industrial do Sadokim. Entre em contato direto com os nossos consultores especializados agora mesmo e desenhe a melhor logística de locação para a sua empresa.
+Para avaliar uma operação no Sadokim, informe a origem, a composição e a frequência dos resíduos, além dos horários e das condições de acesso ao galpão.

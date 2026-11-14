@@ -32,4 +32,4 @@ Para mantermos a eficiência no recolhimento pelas vias do São Roque, pedimos a
 
 ## Solicite Seu Orçamento com Agilidade
 
-Construir o seu patrimônio no São Roque exige planejamento e fornecedores pontuais. Oferecemos preços justos, pacotes de locação flexíveis e prazos cumpridos à risca. Entre em contato conosco via WhatsApp ou ligação, fale diretamente com nossos especialistas e garanta a caçamba ideal para a sua obra!
+Construir no São Roque exige planejamento de acesso, materiais e retiradas. Envie o endereço e a descrição da carga para receber uma avaliação e consultar as datas disponíveis.

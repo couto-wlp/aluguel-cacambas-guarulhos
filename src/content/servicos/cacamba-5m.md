@@ -1,18 +1,16 @@
 ---
 title: "Caçamba de 5m³"
 seoTitle: "Aluguel de Caçamba de 5m³ em Guarulhos"
-description: "A escolha número um em Guarulhos para acomodar grandes volumes de entulho em reformas residenciais, comerciais e condomínios."
+description: "Aluguel de caçamba de 5m³ em Guarulhos para reformas residenciais e comerciais. Consulte materiais, acesso e disponibilidade."
 image: "/images/cacamba-5m.webp"
 specs:
   altura: "1.40m"
   largura: "1.60m"
   comprimento: "2.80m"
   volume: "5m³"
-  pesoSuportado: "6.0 Toneladas"
-  quantidade: "Equivalente a 270 Latas"
 ---
 
-O modelo de 5m³ é a escolha número um entre engenheiros, empreiteiros e moradores de Guarulhos. Com o tamanho ideal para acomodar grandes volumes de entulho sem infringir as normas de trânsito e ocupação de vias do município, esta caçamba oferece o equilíbrio perfeito entre custo-benefício e capacidade de carga.
+O modelo de 5m³ oferece capacidade intermediária para reformas residenciais, comerciais e manutenções em condomínios de Guarulhos. A escolha depende do material, do peso estimado e do espaço disponível para posicionamento.
 
 O atendimento considera o endereço, o tipo de material, o peso estimado e o espaço disponível para posicionamento.
 
@@ -20,19 +18,19 @@ O atendimento considera o endereço, o tipo de material, o peso estimado e o esp
 
 ## Principais Aplicações da Caçamba de 5m³
 
-A versatilidade deste equipamento atende perfeitamente aos variados perfis estruturais de Guarulhos, desde áreas estritamente residenciais até polos comerciais e galpões industriais.
+O equipamento pode atender diferentes tipos de obra, desde que os resíduos sejam identificados e o acesso seja compatível com a operação do caminhão.
 
 * **Obras e Reformas Comerciais:** Descarte eficiente de materiais volumosos como placas de drywall, divisórias, forros, pisos, revestimentos e mobília desmontada de escritórios ou lojas.
 * **Reformas Residenciais de Médio a Grande Porte:** Ideal para a remoção de alvenaria demolida, terra de escavação para piscinas, fundações e telhados.
 * **Condomínios e Prédios:** Manutenção preventiva de áreas comuns, reformas de fachadas e descarte programado de resíduos, respeitando as regras de convivência e o espaço de manobra do condomínio.
 * **Limpeza de Galpões e Áreas Industriais:** Recolhimento ágil de sobras de materiais e limpeza de terrenos.
 
-> **💡 Estimativa de Capacidade na Prática:**
-> Para facilitar o cálculo e o planejamento da sua equipe de obra, o volume de 5m³ equivale a aproximadamente **100 carrinhos de mão** ou **270 latas de entulho** cheias.
+> **Referência para dimensionamento:**
+> O volume nominal não substitui a avaliação do peso. Terra, concreto e pedras atingem o limite operacional antes de materiais leves e volumosos.
 
 ## Compromisso com a Legalidade e Sustentabilidade
 
-Contratar uma caçamba irregular pode gerar multas altíssimas para o gerador do resíduo (dono da obra). Atuamos com total transparência e responsabilidade ambiental:
+Contratar transporte irregular pode expor o gerador a autuações e dificultar a comprovação da destinação. Por isso, verifique a identificação do transportador e os documentos aplicáveis:
 
 * **Materiais Identificados:** Os resíduos aceitos são encaminhados a unidades compatíveis com a classificação informada pelo cliente.
 * **Documentação Aplicável:** A equipe informa quando MTR, CTR ou outro registro faz parte da operação e quais obrigações permanecem com o gerador.

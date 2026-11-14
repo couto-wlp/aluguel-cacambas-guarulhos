@@ -10,13 +10,13 @@ O bairro Bela Vista é uma das regiões mais tradicionais e populosas de Guarulh
 
 ## O Desafio de Reformar em Bairros Densos
 
-A experiência nos mostra que reformas no Bela Vista exigem um cronograma afiado. Você não pode deixar materiais acumulados atrapalhando a garagem ou a passagem de pedestres na calçada. A caçamba de entulho é a ferramenta perfeita para manter o canteiro de obras limpo, seguro e produtivo.
+Reformas no Bela Vista exigem planejamento para que os materiais não bloqueiem garagens nem a passagem de pedestres. A caçamba pode ajudar a concentrar os resíduos, desde que o posicionamento e o carregamento respeitem as regras do local.
 
-Nossa especialidade é entregar a caçamba exatamente quando a quebra de alvenaria começa e retirá-la assim que o volume limite for atingido. Trabalhamos com caçambas de tamanhos padronizados, como os modelos de [4m³](/servicos/aluguel-cacamba-4m3-guarulhos) e [5m³](/servicos/aluguel-cacamba-5m3-guarulhos), que ocupam o equivalente a uma vaga de estacionamento de um carro popular, adequando-se perfeitamente às normas de trânsito das vias do Bela Vista.
+A entrega e a retirada são combinadas conforme a rota e a disponibilidade. Os modelos de [4m³](/servicos/aluguel-cacamba-4m3-guarulhos) e [5m³](/servicos/aluguel-cacamba-5m3-guarulhos) podem ser avaliados conforme o volume, o peso, a largura da via e o espaço necessário para a operação do caminhão.
 
 ## A Confiabilidade Que a Sua Obra Precisa
 
-Ao escolher uma empresa de caçambas, a confiabilidade é o fator de decisão número um. Nós somos uma prestadora de serviços formalizada e autorizada pelos órgãos fiscalizadores de Guarulhos.
+Ao escolher uma empresa de caçambas, verifique licenças, identificação, documentação aplicável e destino previsto para a carga. A Central da Caçamba informa a SMMA L.O. nº 0387/24 e o cadastro ATT-GR nº 092/24.
 
 O que isso significa na prática? Significa que todo o gesso, azulejo, concreto, terra e madeira que saírem da sua casa no Bela Vista não irão parar em terrenos baldios ou rios. Temos orgulho de fomentar a economia circular da construção civil, levando seus resíduos para estações de reciclagem licenciadas, onde o entulho é separado, moído e transformado em novos materiais base para pavimentação, enquanto rejeitos não recicláveis são aterrados de forma ambientalmente segura.
 

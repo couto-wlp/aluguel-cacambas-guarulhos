@@ -12,11 +12,11 @@ O bairro Água Chata possui uma dinâmica muito própria dentro de Guarulhos. De
 
 O entulho gerado por uma reforma de banheiro em uma residência é completamente diferente dos resíduos volumosos produzidos por uma adequação de um galpão logístico. Nossa empresa possui a experiência necessária para atender a ambos os cenários com excelência.
 
-Para moradores locais, oferecemos caçambas estacionárias compactas, ideais para o recolhimento seguro de pisos, revestimentos, argamassa e terra. Já para as indústrias e construtoras da região do Água Chata, disponibilizamos um serviço de troca rápida (onde uma caçamba cheia é imediatamente substituída por uma vazia), garantindo que o fluxo de trabalho da sua empresa não sofra interrupções.
+Para moradores locais, as caçambas compactas podem atender pisos, revestimentos, argamassa e terra, conforme o peso e a separação necessária. Para indústrias e construtoras, entregas, retiradas e trocas são programadas de acordo com a rota, o acesso e a disponibilidade de equipamento.
 
 ## Compromisso com a Legislação de Guarulhos
 
-A autoridade no segmento de locação de caçambas se prova através da legalidade. O descarte inadequado de Resíduos da Construção Civil (RCC) gera não apenas um impacto visual negativo nas vias do bairro, mas também configura crime ambiental. Ao contratar nossos serviços, você transfere essa responsabilidade para especialistas.
+A regularidade do transporte e da destinação é essencial na locação de caçambas. O descarte inadequado de resíduos da construção pode gerar impactos ambientais e responsabilização dos envolvidos. A contratação de um transportador não elimina as obrigações do gerador, que deve informar corretamente os materiais.
 
 Todo o material recolhido nas caçambas no bairro Água Chata é rigorosamente triado. O que é reciclável (como concreto e tijolos que podem virar brita) é enviado para usinas de reciclagem, enquanto o rejeito é destinado a aterros licenciados. Fornecemos toda a documentação necessária para que indústrias comprovem a destinação correta em suas auditorias ambientais (emissão de CTR).
 
@@ -32,7 +32,7 @@ Uma das principais dúvidas dos nossos clientes é onde a caçamba pode ser colo
 
 Para mantermos a eficiência e a segurança, lembramos que a caçamba é destinada a entulhos de obras. Não permitimos o descarte de lixo hospitalar, produtos químicos, telhas de amianto (que requerem descarte especial), óleo lubrificante e lixo orgânico. O respeito a essas regras garante que a caçamba seja recolhida sem atrasos.
 
-## Por Que Somos a Melhor Opção no Água Chata?
+## Como Funciona o Atendimento no Água Chata
 
 Contratar um serviço clandestino de transporte de entulho é um risco que você não precisa correr. Nossa frota de caminhões poli-guindaste é revisada periodicamente, nossos motoristas são experientes nas rotas de Guarulhos e nosso atendimento é focado na sua satisfação.
 

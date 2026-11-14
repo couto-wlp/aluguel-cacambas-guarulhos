@@ -8,11 +8,9 @@ specs:
   largura: "2.40m"
   comprimento: "6.00m"
   volume: "15m³ a 30m³"
-  pesoSuportado: "12.0 Toneladas"
-  quantidade: "Grandes Resíduos Industriais"
 ---
 
-A gestão de detritos em grande escala exige maquinário pesado e eficiência logística. O sistema roll-on roll-off é o equipamento definitivo para atender à alta demanda de indústrias, shopping centers e canteiros de obras monumentais na região de Guarulhos, SP.
+A gestão de resíduos em grande escala exige planejamento de equipamento, acesso e destinação. O sistema roll-on roll-off pode atender indústrias, centros comerciais e canteiros de obras com geração recorrente na região de Guarulhos.
 
 Projetada para facilitar o carregamento de grandes volumes, esta estrutura permite programar as retiradas conforme a geração de resíduos e as condições operacionais do local.
 
@@ -21,12 +19,12 @@ Projetada para facilitar o carregamento de grandes volumes, esta estrutura permi
 ## Vantagens do Equipamento Roll-on
 
 * **Agilidade no Carregamento:** O mecanismo roll-on roll-off permite que a caixa seja puxada diretamente para o caminhão de forma mecânica, segura e rápida.
-* **Capacidade Massiva:** A escolha certa para operações que geram uma quantidade formidável de descarte diariamente.
+* **Maior Volume:** Alternativa para operações que geram cargas volumosas ou precisam de retiradas programadas.
 * **Atendimento Corporativo:** Suporte B2B especializado para entender e suprir as demandas logísticas de alta complexidade do seu negócio.
 * **Logística Programada:** Entregas, trocas e retiradas são combinadas conforme a disponibilidade e as condições de acesso da operação.
 
-> **💡 Referência de Capacidade:**
-> Diferente dos modelos convencionais medidos em latas, esta categoria é focada integralmente na remoção de grandes volumes industriais, suportando perfeitamente o descarte de paletes, estruturas metálicas, plástico em abundância e entulhos de demolições totais.
+> **Referência de uso:**
+> O sistema atende volumes maiores, mas a aceitação depende da identificação, da densidade e da separação dos resíduos. Paletes, metais, plásticos e materiais de demolição não devem ser misturados automaticamente.
 
 ## Descarte Regularizado e Proteção Ambiental
 

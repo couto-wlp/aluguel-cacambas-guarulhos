@@ -10,13 +10,13 @@ A região do bairro Cabuçu apresenta características singulares dentro da geog
 
 ## Especialistas em Movimentação de Terra e Obras Pesadas
 
-O perfil predominante das construções no Cabuçu envolve uma grande movimentação inicial de solo. Limpeza de terrenos recém-adquiridos, serviços de corte e aterro para nivelamento, construção de sólidas fundações e muros de arrimo são atividades diárias por aqui. Todo esse processo gera quantidades massivas de entulho pesado, como terra, pedras soltas, raízes, madeiras e restos de vegetação rasteira.
+Algumas obras no Cabuçu envolvem limpeza de terrenos, corte, aterro, fundações e muros de arrimo. Essas atividades podem gerar terra, pedras, raízes, madeira e vegetação, materiais que precisam ser identificados e separados conforme a destinação.
 
-Nossa empresa dispõe de caçambas estacionárias fabricadas em aço de alta resistência, projetadas especificamente para suportar o impacto e o peso de materiais densos. Além disso, compreendemos perfeitamente as particularidades viárias do Cabuçu. Sabemos que muitas ruas possuem aclives acentuados, estradas de terra batida ou vias ainda em processo de pavimentação. Nossos motoristas possuem vasta experiência para manobrar os caminhões nessas condições adversas, posicionando a caçamba no local mais seguro possível para os trabalhadores da obra e para o tráfego de moradores.
+O atendimento em ruas com aclive, pavimentação incompleta ou terra batida depende de avaliação prévia. Envie fotos e informações sobre largura, inclinação, piso e área de manobra para que a equipe verifique a viabilidade da entrega.
 
 ## Combate ao Descarte Clandestino e Proteção à Natureza
 
-Áreas mais afastadas do grande centro comercial ou com características de transição rural-urbana costumam, infelizmente, ser o alvo preferido de "caçambeiros" clandestinos. Essas empresas cobram valores irrisórios porque despejam o lixo e o entulho da sua obra diretamente em córregos, matagais ou encostas do próprio bairro Cabuçu. Esse crime ambiental gera contaminação do solo, enchentes e multas gravíssimas para o dono da obra, que é considerado corresponsável pela lei.
+Áreas de transição rural-urbana são vulneráveis ao descarte clandestino em córregos, encostas e terrenos. Para reduzir esse risco, verifique a regularidade do transportador, confirme o destino informado e guarde os documentos aplicáveis. O gerador também possui responsabilidades sobre os resíduos da obra.
 
 No Cabuçu, a separação dos materiais é especialmente importante. Os resíduos aceitos são encaminhados conforme sua classificação a unidades de triagem, reciclagem ou destinação. A equipe informa quando o CTR ou outro registro é aplicável ao serviço.
 
@@ -36,6 +36,6 @@ O [Observatório de Políticas Públicas de Guarulhos](https://observatorio.guar
 
 ## Agende Sua Caçamba com Segurança e Rapidez
 
-Construir sua casa ou chácara no Cabuçu é um grande projeto de vida. Não deixe que o acúmulo de sujeira e resíduos atrapalhe o andamento desse sonho. Oferecemos um atendimento rápido, frota vistoriada, motoristas cordiais e o melhor custo-benefício de toda a região de Guarulhos.
+Para solicitar atendimento em casa, chácara ou terreno no Cabuçu, informe o endereço, o material, o acesso e a data desejada. A equipe verifica a viabilidade e apresenta as condições do serviço.
 
 Precisa escoar a terra da sua escavação ou limpar o terreno hoje mesmo? Entre em contato imediato com nossos consultores de atendimento, solicite um orçamento transparente e deixe o trabalho pesado por nossa conta!

@@ -12,7 +12,7 @@ O Morro Grande é um bairro com uma geografia espetacular, situado em uma área 
 
 O perfil construtivo do Morro Grande não se resume a trocar azulejos. Na maioria das vezes, o serviço envolve movimentação pesada: remoção de grande volume de terra vegetal para o nivelamento de terrenos, corte de barrancos para construção de muros de arrimo e descarte de restos de demolição de estruturas antigas.
 
-Trabalhamos com caçambas estacionárias altamente resistentes, desenhadas para suportar o impacto de pedras brutas e o peso maciço da terra úmida. Além disso, compreendemos perfeitamente as vias de acesso da região. Muitas das estradas do Morro Grande são rurais, de terra, com subidas intensas e curvas fechadas. A nossa frota de poli-guindastes é forte, e nossos motoristas são capacitados para acessar essas vias com segurança, deixando a caçamba no local que traga mais produtividade para o serviço das suas retroescavadeiras ou equipe de pedreiros.
+Pedras e terra úmida são cargas densas, sujeitas a limite de peso. Estradas de terra, subidas e curvas precisam ser avaliadas por fotos e informações do endereço. A viabilidade depende do piso, do clima, da área de manobra e do equipamento disponível.
 
 ## A Defesa da Preservação e a Legalidade da Obra
 
@@ -34,6 +34,6 @@ Para que possamos realizar o transporte em vias acidentadas sem causar incidente
 
 O [Observatório de Políticas Públicas de Guarulhos](https://observatorio.guarulhos.sp.gov.br/content/guarulhos) identifica o Morro Grande como uma das regiões de menor população do município, com 335 moradores na tabela divulgada. Por isso, a localização compartilhada e um ponto de referência são especialmente úteis para planejar a rota. Informe se a estrada é pavimentada, se há aclive, ponte estreita, galhos baixos ou terreno instável. Em dias de chuva, as condições do acesso também podem alterar a possibilidade de entrada segura do caminhão.
 
-## O Melhor Atendimento Para Chácaras e Terrenos
+## Atendimento para Chácaras e Terrenos
 
 Para obras no Morro Grande, envie o endereço, o tipo de material e as condições da estrada e do terreno. Assim, a equipe verifica o acesso, indica o equipamento e confirma a disponibilidade para chácaras e sítios da região.

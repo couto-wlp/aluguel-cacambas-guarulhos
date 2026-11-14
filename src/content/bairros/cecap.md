@@ -12,7 +12,7 @@ O Parque CECAP não é apenas um bairro, é um marco arquitetônico e urbanísti
 
 Diferente do que ocorre em uma casa térrea com quintal espaçoso, em um apartamento não existe área de manobra para armazenar restos de construção. O pedreiro quebra a parede e o entulho precisa descer imediatamente pelo elevador de serviço, ensacado, direto para o descarte final.
 
-Além do espaço reduzido, os imensos condomínios do CECAP operam sob rigorosos regimentos internos, definidos em assembleias por síndicos e administradoras. Existem dias e horários estritos para barulho, normas sobre onde o equipamento pode ser alocado e prazos apertados para que a caçamba permaneça no estacionamento do prédio. Nossa equipe possui vasta experiência em atender essas exigências. Cuidamos para que o caminhão posicione a caçamba exatamente nas vagas designadas, operando os braços do guindaste com precisão milimétrica para não danificar o asfalto interno, os canteiros arborizados do condomínio ou os veículos dos moradores vizinhos.
+Condomínios do CECAP podem ter regras próprias para barulho, transporte de materiais, horários e local de posicionamento. Essas condições devem ser informadas antes do agendamento. Fotos do portão, do piso, da vaga e da área de manobra ajudam a avaliar a viabilidade da operação.
 
 ## A Exigência de Documentação e Legalidade
 

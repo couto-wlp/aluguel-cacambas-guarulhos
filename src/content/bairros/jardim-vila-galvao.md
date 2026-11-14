@@ -12,7 +12,7 @@ O Jardim Vila Galvão é conhecido por ser um reduto tradicional, residencial e 
 
 Em bairros familiares consolidados, a organização é primordial. Ao iniciar uma reforma, o volume de cimento velho, areia misturada, terra e azulejos se multiplica de forma impressionante. Empilhar esses restos de obra na calçada bloqueia a passagem de cadeirantes, idosos e carrinhos de bebê, além de deixar a rua com um aspecto de abandono e sujeira. As chuvas podem carregar a areia solta para os bueiros, causando entupimentos e alagamentos.
 
-Ao alugar uma caçamba estacionária conosco, você elimina todos esses riscos. Nossos equipamentos possuem as dimensões exatas aprovadas pela legislação de trânsito de Guarulhos. Eles ocupam o espaço de um carro estacionado e são sinalizados com faixas refletivas. Nossa equipe entrega a caçamba no momento exato em que a sua demolição começa, garantindo que o canteiro de obras fique limpo e os seus pedreiros tenham espaço livre para trabalhar com segurança.
+A caçamba ajuda a concentrar os resíduos, mas seu posicionamento depende do endereço, da sinalização e do espaço para o caminhão. As medidas variam conforme o equipamento disponível; confirme as dimensões e a data antes da contratação.
 
 ## Compromisso com a Natureza e Emissão de Documentação
 
@@ -32,4 +32,4 @@ Para assegurar uma remoção rápida pelas vias do Jardim Vila Galvão, algumas 
 
 ## Contrate Com Quem Entende de Guarulhos
 
-A reforma do seu lar no Jardim Vila Galvão deve trazer felicidade, não dores de cabeça com fiscalização ou ruas sujas. Oferecemos um atendimento focado na sua satisfação, orçamentos claros e total pontualidade. Fale agora mesmo com nossos consultores, alinhe as datas da sua reforma e garanta o aluguel da sua caçamba com quem é autoridade no assunto!
+Envie o endereço, as datas da reforma e a relação dos materiais para receber uma avaliação. O orçamento e a disponibilidade são informados antes da contratação.

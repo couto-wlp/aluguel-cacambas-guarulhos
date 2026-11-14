@@ -14,7 +14,7 @@ Em bairros residenciais movimentados como o Bananal, o espaço nas calçadas é 
 
 Ao contratar a locação de uma caçamba estacionária conosco, você centraliza todo o lixo da obra em um único recipiente seguro, mantendo a estética da rua, respeitando seus vizinhos e, principalmente, atuando dentro da lei.
 
-## Como Garantimos a Melhor Experiência para Você
+## Como Planejar a Locação no Bananal
 
 Com anos de atuação no mercado de Guarulhos, nós simplificamos o processo de locação para que você foque apenas no andamento da sua obra:
 
@@ -32,4 +32,4 @@ Antes da locação, confirme a identificação do transportador, os materiais ac
 
 Se você vai iniciar a troca do piso, a demolição de uma parede, a poda de grandes árvores do quintal ou a limpeza de um imóvel antigo no bairro do Bananal, nós estamos prontos para ajudar.
 
-Garantimos um serviço sem dores de cabeça, motoristas cordiais e o melhor custo-benefício de Guarulhos. Não deixe o entulho parar o sonho da sua casa nova. Entre em contato conosco agora, solicite um orçamento rápido e agende a colocação da sua caçamba!
+Envie o endereço, uma descrição dos materiais e fotos do acesso para receber uma avaliação. A entrega e a retirada são confirmadas conforme a rota e a disponibilidade.

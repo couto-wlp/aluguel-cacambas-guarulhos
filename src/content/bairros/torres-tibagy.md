@@ -12,7 +12,7 @@ O Torres Tibagy é um dos bairros residenciais mais tradicionais e valorizados d
 
 Em bairros com o perfil residencial do Torres Tibagy, a limpeza e o ordenamento urbano são prioridades absolutas. Jogar restos de cimento, pisos quebrados ou gesso diretamente na calçada degrada o visual da rua, bloqueia a passagem de idosos e carrinhos de bebê e atrai reclamações imediatas dos vizinhos, além de fiscalização por parte dos agentes de postura da prefeitura.
 
-Nossas caçambas estacionárias proporcionam o confinamento perfeito para o seu entulho. O equipamento ocupa estritamente o espaço de um carro de passeio na via pública, deixando a calçada inteiramente livre para os pedestres. Nossos motoristas são orientados a posicionar a caçamba rente ao meio-fio com extrema suavidade, evitando qualquer dano ao asfalto, à calçada do imóvel ou às árvores locais. O equipamento possui sinalização com películas refletivas para oferecer máxima visibilidade durante a noite.
+A caçamba concentra os resíduos em uma área definida. As dimensões e o espaço necessário variam conforme o equipamento; o endereço deve ser avaliado para preservar a calçada, a drenagem, as árvores e a circulação. A sinalização e o estado do equipamento devem ser conferidos na entrega.
 
 ## Licenciamento Municipal e Emissão de CTR
 

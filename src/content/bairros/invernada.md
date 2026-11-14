@@ -12,7 +12,7 @@ O bairro Invernada possui uma atmosfera única em Guarulhos. Conhecido por abrig
 
 Reformar em um bairro limpo e policiado como o Invernada não permite improvisos. A Prefeitura e os moradores são vigilantes quanto a restos de materiais de construção abandonados nas calçadas ou espalhados pelo asfalto. A poeira e os detritos não só sujam a rua como prejudicam a passagem de pedestres.
 
-Nossas caçambas estacionárias fornecem o isolamento perfeito para os resíduos da sua construção. Trabalhamos com equipamentos bem conservados, com pintura refletiva para garantir a segurança noturna. Quando nosso caminhão chega ao Invernada, nossos motoristas estacionam a caçamba respeitando criteriosamente o espaço permitido, não bloqueando guias rebaixadas, garagens vizinhas, nem tampas de manutenção das companhias de água e esgoto. O resultado é uma obra limpa por dentro e organizada por fora.
+A caçamba ajuda a manter os resíduos concentrados em uma área definida. O endereço deve ser avaliado para evitar bloqueio de guias rebaixadas, garagens, tampas de manutenção e áreas de drenagem. A sinalização e as condições do equipamento devem ser conferidas na entrega.
 
 ## Responsabilidade Ambiental Comprovada
 
@@ -34,4 +34,4 @@ Para que nosso guindaste possa remover o material da frente da sua casa sem atra
 
 Valorizamos o planejamento da sua reforma. O orçamento considera endereço, tamanho da caçamba, material, prazo e condições de acesso.
 
-Construir e reformar no Invernada pode ser simples e livre de sujeira. Fale com a nossa equipe comercial agora mesmo, informe o que você precisa descartar e garanta o aluguel da sua caçamba com total comodidade!
+Para solicitar atendimento no Invernada, informe o endereço, os materiais e a data desejada. A disponibilidade é confirmada depois da avaliação do acesso.

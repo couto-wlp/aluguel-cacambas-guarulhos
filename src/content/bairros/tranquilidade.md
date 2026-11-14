@@ -12,7 +12,7 @@ O bairro Tranquilidade é uma comunidade residencial tradicional e muito bem est
 
 Fazer obras em bairros de perfil residencial compacto exige atenção à vizinhança. Acumular areia solta, blocos estilhaçados e sobras de madeiramento na calçada é prejudicial para a circulação dos pedestres e para a harmonia com os vizinhos. Além disso, as chuvas de verão podem carregar o pó de cimento e a terra solta para as bocas de lobo, entupindo a rede de drenagem pluvial e gerando transtornos graves na rua.
 
-A locação de nossas caçambas estacionárias elimina esses problemas no mesmo instante. A caixa de metal reforçada mantém todos os resíduos confinados de forma organizada. Nossos motoristas de poli-guindaste realizam a entrega e a retirada de maneira rápida e segura, estacionando a caçamba no alinhamento da guia da calçada sem bloquear garagens nem impedir o fluxo natural dos veículos que trafegam pelas ruas do Tranquilidade.
+A caçamba estacionária ajuda a manter os resíduos concentrados em uma área definida. O ponto de instalação deve ser avaliado para não bloquear garagens, drenagem, pedestres ou o fluxo de veículos. Entrega e retirada são programadas conforme a rota e a disponibilidade.
 
 ## Autoridade e Descarte em Conformidade com a Lei
 

@@ -10,7 +10,7 @@ O bairro Itapegica é uma das regiões mais vitais e estratégicas de Guarulhos.
 
 ## Soluções Sob Medida Para Indústrias e Moradores
 
-Trabalhar em um bairro cortado por rodovias de alto fluxo e avenidas movimentadas, como a Avenida Guarulhos e a Carlos Ferreira Endres, exige um planejamento impecável. Para as indústrias e comércios da região, o tempo é o fator mais crítico. Oferecemos para o setor corporativo a locação contínua, onde nossas caçambas estacionárias robustas recolhem toneladas de concreto, ferro e asfalto com trocas programadas, garantindo que o pátio logístico nunca fique obstruído pelo entulho.
+A proximidade de rodovias e avenidas movimentadas, como a Avenida Guarulhos e a Carlos Ferreira Endres, exige planejamento de rota. Para indústrias e comércios, retiradas e trocas podem ser programadas conforme a geração, o material e a disponibilidade, sem ultrapassar os limites operacionais.
 
 Por outro lado, para os moradores das ruas residenciais do Itapegica, nosso foco é a segurança e a comodidade. Nossos caminhões poli-guindaste são operados por motoristas treinados para manobrar em vias mais estreitas, posicionando a caçamba rente à calçada sem bloquear garagens, garantindo que a reforma do seu banheiro ou da sua fachada ocorra de forma limpa e sem causar atritos com a vizinhança.
 
@@ -32,4 +32,4 @@ Para que o nosso guindaste recolha sua caçamba sem imprevistos, algumas regras 
 
 ## Faça Seu Orçamento e Agende a Entrega
 
-Sua reforma ou construção no Itapegica precisa de um parceiro de confiança para fluir sem atrasos. Oferecemos preços justos, atendimento humanizado e focado na resolução do seu problema. Mande uma mensagem agora mesmo, informe o tamanho da sua obra e agende a chegada da sua caçamba!
+Para solicitar atendimento no Itapegica, informe o endereço, o tipo de obra, os resíduos e a data desejada. A equipe verifica o acesso e confirma a disponibilidade.

@@ -12,7 +12,7 @@ O bairro de Cumbica é o grande motor econômico de Guarulhos. Sediar o Aeroport
 
 As obras industriais em Cumbica geram volumes colossais de resíduos em pouquíssimo tempo. Obras corporativas não têm margem para atrasos. Se o entulho não for retirado rapidamente, os operários param e a empresa perde dinheiro.
 
-Nós somos especialistas nesse tipo de demanda em larga escala. Oferecemos o sistema logístico de "bate e volta" ou substituição imediata, onde nosso caminhão retira a caçamba lotada e, no mesmo instante, posiciona uma caixa vazia, garantindo que o seu pátio logístico ou canteiro de obras permaneça limpo e operante. Atendemos indústrias, construtoras e centros de distribuição com caçambas estacionárias reforçadas, capazes de suportar asfaltos arrancados, blocos maciços de concreto, estruturas de ferro e terraplenagem pesada.
+Em operações de maior escala, retiradas e trocas podem ser programadas conforme a geração de resíduos, a rota e a disponibilidade. Indústrias, construtoras e centros de distribuição devem informar previamente a composição e a densidade da carga, especialmente para asfalto, concreto, metais e terra.
 
 ## Cumprimento das Normas ISO e Laudos Ambientais
 

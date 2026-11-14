@@ -12,7 +12,7 @@ A região dos Pimentas é um verdadeiro município dentro de Guarulhos. Sendo o 
 
 Construir do zero ou fazer puxadinhos exige muito esforço físico. O material descartado — blocos de concreto quebrados, restos de cimento, madeiramento de laje e montanhas de terra — ocupa um espaço valioso. Deixar isso na calçada atrapalha os vizinhos, reduz a mobilidade em ruas que muitas vezes são estreitas e gera denúncias.
 
-Nossa empresa tem a estrutura necessária para dar vazão a todo esse volume. Nossas caçambas estacionárias são feitas de aço resistente, capazes de aguentar materiais pesados como terra de escavação e pedras. Nossos motoristas conhecem as complexidades viárias do distrito dos Pimentas, sabendo manobrar em ruas de alto fluxo comercial ou em ladeiras residenciais com extrema destreza, posicionando a caixa onde for melhor para os seus pedreiros trabalharem.
+Terra e pedras são materiais densos e precisam ser avaliados pelo peso, não apenas pelo volume. Em ruas comerciais ou ladeiras, envie fotos do acesso para verificar largura, inclinação, piso e espaço para o caminhão operar.
 
 ## O Perigo das Caçambas Clandestinas e a Nossa Legalidade
 

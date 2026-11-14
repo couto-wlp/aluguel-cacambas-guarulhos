@@ -12,7 +12,7 @@ O Monte Carmelo é um bairro de perfil marcadamente residencial em Guarulhos. Co
 
 Reformar no Monte Carmelo traz os desafios típicos de ruas com topografia irregular. Deixar sacos de areia ou blocos velhos acumulados na calçada em uma rua íngreme é um perigo. Com chuvas, o material rola para os bueiros, causando entupimentos e sujeira generalizada. Além disso, calçadas obstruídas forçam vizinhos e crianças a caminharem pelo meio da rua, gerando risco de acidentes e atritos com a fiscalização.
 
-Nossa equipe está acostumada a atuar em regiões de ladeiras e vias residenciais estreitas. Nossos motoristas são especialistas em posicionar a caçamba estacionária de forma estável, ocupando o espaço de um único carro e garantindo que ela não deslize ou prejudique as garagens vizinhas. Ao utilizar o nosso equipamento, você isola os riscos, libera o espaço para os pedreiros trabalharem e mantém a porta da sua casa com um visual organizado.
+Ladeiras e vias residenciais estreitas exigem avaliação do piso, da inclinação e da área de manobra. O ponto de instalação deve preservar garagens e circulação, e só pode ser confirmado após a análise do endereço.
 
 ## Tranquilidade com Destinação Legal do Entulho
 

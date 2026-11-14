@@ -12,7 +12,7 @@ O Jardim Presidente Dutra é um dos bairros mais populosos, independentes e movi
 
 Você já tentou caminhar em uma rua onde a calçada está bloqueada por montanhas de areia, blocos estilhaçados e ferragens enferrujadas? Além de atrapalhar os pedestres, esse acúmulo desorganizado atrai roedores, insetos peçonhentos e é o principal alvo da fiscalização da Prefeitura. Se for em uma via comercial, espanta os clientes das lojas ao redor.
 
-A utilização de nossas caçambas estacionárias elimina o caos da sua obra instantaneamente. A caixa de metal serve como um contêiner robusto, centralizando a sujeira em uma única vaga de carro. Seus profissionais de obra ganham um canteiro livre para manusear novos materiais, enquanto a calçada da sua casa ou comércio permanece perfeitamente limpa e transitável, mantendo a boa convivência com todos ao redor.
+A caçamba estacionária concentra os resíduos em uma área definida e pode liberar espaço interno da obra. O ponto de instalação precisa preservar a calçada, a drenagem, as garagens e a circulação de veículos.
 
 ## Emissão de CTR e Licenciamento Ambiental
 
@@ -28,9 +28,9 @@ Para a segurança do nosso motorista e das ruas do seu bairro, pedimos a colabor
 
 **Só Para Entulho:** Descarte na caçamba apenas o que vem da construção civil. O lixo doméstico da sua residência, fraldas infantis e restos de comida jamais podem ser misturados aos inertes.
 
-**Respeite o Posicionamento:** Não puxe ou empurre a caçamba. Ela foi perfeitamente alinhada para não tampar a drenagem da sarjeta e permitir a coleta correta pelas correntes do guindaste.
+**Respeite o Posicionamento:** Não puxe nem empurre a caçamba. Solicite orientação caso o local precise ser alterado.
 
-## Orçamento Descomplicado e Entrega Garantida
+## Orçamento e Disponibilidade de Entrega
 
 Não atrase a sua obra esperando pela boa vontade de empresas amadoras. Nossa frota é nova, os valores são fixos sem surpresas e a entrega é pontual.
 

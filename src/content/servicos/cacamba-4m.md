@@ -8,8 +8,6 @@ specs:
   largura: "1.40m"
   comprimento: "2.50m"
   volume: "4m³"
-  pesoSuportado: "4.5 Toneladas"
-  quantidade: "Equivalente a 220 Latas"
 ---
 
 A caçamba de 4m³ é uma opção compacta para pequenas e médias obras, reparos residenciais e descarte de entulhos em **Guarulhos**.
@@ -20,7 +18,7 @@ Com formato compacto, ela pode atender garagens e espaços residenciais quando h
 
 ## Principais Indicações de Uso
 
-* **Reformas Residenciais:** Acomoda perfeitamente restos de demolição de banheiros, cozinhas, troca de pisos, azulejos e gesso.
+* **Reformas Residenciais:** Pode atender demolições de banheiros, cozinhas e troca de pisos, desde que os materiais sejam identificados e separados quando necessário.
 * **Limpeza de Terrenos e Quintais:** Ideal para o descarte de terra, resíduos orgânicos e galhos de podas de médio porte.
 * **Construção e Reparos Rápidos:** Excelente para a coleta de sobras de alvenaria, tijolos, concreto e argamassa.
 
@@ -28,7 +26,7 @@ Com formato compacto, ela pode atender garagens e espaços residenciais quando h
 
 * **Orientação de Descarte:** Informe os materiais da obra para confirmarmos o que pode ser recebido, a separação necessária e a documentação aplicável.
 * **Entrega e Retirada Programadas:** As datas são combinadas conforme a disponibilidade e as condições de acesso ao endereço.
-* **Tamanho Estratégico:** Perfeita para calçadas mais estreitas e garagens, facilitando o trabalho dos pedreiros e mantendo a via pública livre.
+* **Tamanho Compacto:** Pode ser avaliada para locais com espaço reduzido, desde que haja área suficiente para a manobra e o posicionamento seguro.
 
 ## Quando a Caçamba de 4m³ Faz Sentido
 
@@ -60,4 +58,4 @@ A disponibilidade depende do endereço, da rota, do equipamento e das condiçõe
 
 **Solicite Seu Orçamento Sem Compromisso!**
 
-Não deixe o entulho acumular. Garanta um ambiente de obra limpo, seguro e dentro da lei. Tem alguma dúvida técnica sobre o local de instalação ou o tipo de material permitido? Fale agora mesmo com um de nossos especialistas!
+Evite o acúmulo de resíduos na obra. Para esclarecer dúvidas sobre o local de instalação ou o material, envie o endereço e fotos para avaliação.

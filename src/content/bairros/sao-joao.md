@@ -12,7 +12,7 @@ O Jardim São João (e sua imensa região envolvente) é um dos distritos que ma
 
 Construir na região do Jardim São João apresenta certos desafios. Além da altíssima densidade de casas, muitas ruas, ruelas e travessas do bairro possuem ladeiras íngremes ou características mais apertadas. Amontoar restos de reboco, terra de escavação e pedaços de blocos na calçada, além de sujar a vizinhança, bloqueia rapidamente a passagem nessas vias reduzidas, causando atritos desnecessários com os vizinhos e os ônibus locais.
 
-A nossa frota foi dimensionada para agir exatamente nesse cenário. Possuímos motoristas locais, extremamente habilidosos na operação de poli-guindastes nas ladeiras da região. Eles posicionam a caçamba estacionária em locais estratégicos, garantindo estabilidade total ao equipamento. Ao confinar o entulho na caixa, você protege a sua obra, evita denúncias de sujeira e agiliza a movimentação dos pedreiros no seu lote.
+O atendimento em ladeiras depende da avaliação do piso, da inclinação, da largura da via e do espaço de operação. A caçamba ajuda a concentrar o entulho, mas o ponto de instalação só é definido após verificar o endereço.
 
 ## Responsabilidade e o Documento de Descarte (CTR)
 
@@ -24,7 +24,7 @@ Ao escolher a nossa locação, você recebe orientação sobre materiais aceitos
 
 Mantenha a segurança do bairro seguindo nossas três regrinhas vitais:
 
-**Pense no Transporte:** Encha a caçamba apenas até o nível de suas bordas. Fazer "morrinhos" de terra solta garante que esse excesso desabe nas ladeiras do bairro, o que pode atingir motos ou pedestres durante a subida do caminhão.
+**Pense no Transporte:** Mantenha o material dentro do nível das bordas. Excesso de terra solta pode cair durante o içamento ou o transporte e colocar outras pessoas em risco.
 
 **Só Matéria-Prima de Obra:** Não utilize a caçamba para descartar colchões velhos, roupas, lixo de cozinha ou fraldas. Entulho contaminado não pode ser reciclado nas usinas parceiras.
 
@@ -34,4 +34,4 @@ Mantenha a segurança do bairro seguindo nossas três regrinhas vitais:
 
 O dinheiro investido na sua obra é valioso e nós respeitamos isso. Nossa política de preços é transparente, sem "taxas de surpresa" escondidas na hora da retirada.
 
-Libere o espaço do seu terreno, respeite as calçadas do Jardim São João e avance na sua obra com profissionalismo. Fale com o nosso atendimento pelo botão do WhatsApp agora mesmo, tire suas dúvidas de forma rápida e reserve o envio da sua caçamba hoje!
+Envie o endereço, fotos do acesso e a descrição dos resíduos para consultar a viabilidade e a disponibilidade no Jardim São João.

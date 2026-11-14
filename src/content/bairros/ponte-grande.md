@@ -12,7 +12,7 @@ O bairro Ponte Grande é o principal ponto de conexão entre Guarulhos e a capit
 
 Realizar qualquer obra na Ponte Grande exige planejamento e agilidade. A Avenida Guarulhos, que cruza o bairro, e as vias arteriais têm fluxo pesado de carros e caminhões o dia todo. Se a sua reforma gerar montanhas de entulho na calçada, além de sujar a rua e bloquear a passagem de idosos, a prefeitura atuará rapidamente com multas por obstrução do passeio público.
 
-Nossas caçambas resolvem o problema de imediato, funcionando como caixas de confinamento limpas e seguras. Ocupando o espaço delimitado de um carro, elas liberam a área para os pedreiros operarem. Para indústrias e galpões da região, oferecemos o sistema de troca contínua, onde o equipamento lotado é instantaneamente substituído por um vazio, mantendo o chão de fábrica desimpedido para as suas empilhadeiras.
+A caçamba concentra os resíduos em uma área definida, desde que exista espaço para o equipamento e a operação do caminhão. Para indústrias e galpões, retiradas e trocas podem ser programadas conforme a geração e a disponibilidade, sem promessa de substituição instantânea.
 
 ## O Descarte Correto é a Proteção da Sua Obra
 
@@ -20,7 +20,7 @@ A fiscalização sobre geradores de lixo da construção em Guarulhos é extrema
 
 Na contratação, identifique previamente concreto, ferro, asfalto e outros materiais, pois cada classe pode exigir separação e destinação próprias. Os resíduos aceitos são encaminhados a unidades licenciadas, e a documentação aplicável ao transporte ajuda a manter a rastreabilidade e a prestação de contas da obra.
 
-## Dicas Valiosas Para a Locação Perfeita
+## Dicas para Planejar a Locação
 
 Para que nosso poli-guindaste consiga retirar sua caçamba sem interrupções e com segurança, siga as normas abaixo:
 
@@ -30,6 +30,6 @@ Para que nosso poli-guindaste consiga retirar sua caçamba sem interrupções e 
 
 **Mantenha a Posição:** A caçamba é instalada pelos nossos motoristas avaliando desvios de bueiros, pontos de ônibus e garagens. Movê-la prejudica o encaixe das correntes no momento da coleta.
 
-## Melhor Custo-Benefício na Fronteira de Guarulhos
+## Como Solicitar um Orçamento
 
 A sua obra precisa fluir no mesmo ritmo acelerado da Ponte Grande. Oferecemos pacotes claros de locação, valores competitivos e uma logística infalível. Não deixe a demolição acumular na sua porta. Fale diretamente com o nosso atendimento, informe sua localização e contrate a caçamba que vai agilizar a sua reforma!

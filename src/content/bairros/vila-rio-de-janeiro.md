@@ -22,7 +22,7 @@ Orientamos o cliente sobre os materiais aceitos e fornecemos a documentação ap
 
 ## Orientações Para Uso Rápido e Seguro
 
-Para que o andamento da sua obra não sofra paralisações e a retirada ocorra perfeitamente, atente-se às nossas normas de uso:
+Para reduzir problemas no carregamento e na retirada, observe estas orientações de uso:
 
 **Contenção de Volume:** O descarte nunca pode ultrapassar o nível da borda superior da caçamba. Fazer "morro" de entulho compromete a estabilidade da carga no caminhão e gera multas no trânsito.
 
@@ -32,6 +32,6 @@ Para que o andamento da sua obra não sofra paralisações e a retirada ocorra p
 
 ## O Custo-Benefício Que a Sua Obra na Vila Rio Precisa
 
-Você não precisa pagar fortunas para ter uma remoção profissional e certificada. Oferecemos o melhor pacote de locação da região, com atendimento direto, valores justos e prazos cumpridos.
+O orçamento deve informar as condições do serviço, o período combinado e os materiais declarados pelo cliente antes da contratação.
 
-Livre-se da sujeira e mantenha o ritmo dos seus pedreiros! Entre em contato agora pelo botão do WhatsApp, alinhe os horários da sua obra com os nossos especialistas e garanta a sua caçamba na Vila Rio de Janeiro!
+Para solicitar atendimento na Vila Rio de Janeiro, informe o endereço, os resíduos, o acesso e a data desejada. A equipe confirma a disponibilidade após a avaliação.

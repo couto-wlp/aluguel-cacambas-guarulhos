@@ -8,13 +8,11 @@ specs:
   largura: "1.90m"
   comprimento: "3.40m"
   volume: "8m³"
-  pesoSuportado: "9.0 Toneladas"
-  quantidade: "Equivalente a 420 Latas"
 ---
 
 Quando o projeto exige espaço máximo para o descarte de resíduos, a caçamba estacionária de 8m³ é a escolha definitiva. Atendendo construtoras, indústrias e grandes canteiros de demolição em Guarulhos, este equipamento foi projetado para suportar operações intensas e contínuas.
 
-Se você busca otimização de tempo e segurança no gerenciamento de detritos, esta é a estrutura perfeita para a sua empreitada.
+O equipamento deve ser escolhido após avaliar o tipo de resíduo, o peso estimado e o espaço necessário para a operação.
 
 ![Caçamba de 8m³ para aluguel em Guarulhos SP](/images/cacamba-8m.webp)
 
@@ -24,8 +22,8 @@ Se você busca otimização de tempo e segurança no gerenciamento de detritos, 
 * **Menos Trocas em Alguns Cenários:** O volume maior pode reduzir a frequência de retiradas, dependendo do peso e do material descartado.
 * **Logística Planejada:** A entrega, a troca e a retirada são programadas conforme a disponibilidade e o acesso ao endereço.
 
-> **💡 Qual é a capacidade real na prática?**
-> Para facilitar o controle logístico dos seus pedreiros e engenheiros, uma caçamba de 8m³ comporta, em média, o equivalente a **160 carrinhos de mão** ou **420 latas cheias de entulho**.
+> **Como avaliar a capacidade na prática?**
+> O volume nominal deve ser analisado junto com a densidade da carga. Materiais pesados podem atingir o limite operacional antes de preencher toda a caixa.
 
 ## Conformidade Ambiental e Descarte Seguro em Guarulhos
 

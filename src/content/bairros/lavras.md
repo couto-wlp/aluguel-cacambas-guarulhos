@@ -30,7 +30,7 @@ Ao realizar o carregamento da caçamba em construções pesadas, siga estas dire
 
 **Material Orgânico Comum:** Não jogue lixo residencial ou restos orgânicos junto com a terra e a alvenaria. Isso contamina a carga, impedindo que o concreto seja reciclado futuramente.
 
-## O Melhor Custo-Benefício Para Construir no Lavras
+## Como Solicitar um Orçamento no Lavras
 
 Sabemos que cada centavo conta na hora de construir a casa própria ou gerenciar um loteamento. Oferecemos pacotes justos, transparentes e sem cobranças ocultas na hora da retirada.
 

@@ -1,7 +1,7 @@
 ---
 name: "Gopoúva"
 title: "Aluguel de Caçamba no Gopoúva, Guarulhos"
-description: "Caçamba para entulho no Gopoúva em Guarulhos. Sua obra limpa e regularizada com pontualidade e o melhor custo-benefício."
+description: "Caçamba para entulho no Gopoúva em Guarulhos. Consulte materiais aceitos, condições de acesso, prazo e disponibilidade."
 ---
 
 ## Agilidade Constante no Aluguel de Caçamba no Gopoúva, Guarulhos
@@ -12,7 +12,7 @@ O Gopoúva é um dos bairros mais tradicionais e encantadores de Guarulhos. Rico
 
 Realizar uma reforma no Gopoúva não é tão simples quanto em loteamentos abertos. Muitas ruas do bairro são antigas, estreitas, de mão única e ladeadas por árvores centenárias. Nessas vias, não existe espaço para acumular sacos de areia ou montanhas de azulejos velhos na calçada. A obstrução do espaço público gera problemas imediatos com a vizinhança e atrai a fiscalização dos agentes de trânsito de Guarulhos.
 
-A nossa empresa é perfeitamente adaptada a esse perfil urbano. Utilizamos caçambas estacionárias que ocupam a vaga exata de um carro popular. Nossos motoristas têm vasta experiência em manobrar em ruas apertadas, operando os poli-guindastes com extrema cautela para posicionar o equipamento junto à guia, sem danificar a pavimentação ou esbarrar na fiação e nos galhos das árvores do Gopoúva.
+Ruas estreitas, fiação, árvores e vagas regulamentadas precisam ser verificadas antes da entrega. A equipe avalia fotos do endereço e define se existe espaço suficiente para posicionar e retirar o equipamento com segurança.
 
 ## Segurança Jurídica e Respeito ao Meio Ambiente
 

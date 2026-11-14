@@ -12,7 +12,7 @@ O Macedo é uma das joias urbanas de Guarulhos. Com uma localização privilegia
 
 Demolir um banheiro, quebrar o piso de uma sacada ou rebaixar o teto com gesso dentro de um apartamento no Macedo gera uma logística delicada. O entulho ensacado desce pelo elevador de serviço e precisa ir imediatamente para o descarte. A rua não pode ser usada como depósito. Além disso, a administração dos edifícios estipula horários estritos para o estacionamento de caçambas nas vagas de visitantes ou na via pública em frente à portaria.
 
-Nossa equipe domina essa operação. Planejamos a entrega do equipamento no horário exato estipulado pelo seu síndico ou zelador. Nossos motoristas manobram com precisão cirúrgica para instalar a caçamba estacionária, ocupando apenas o espaço permitido, sem obstruir o fluxo intenso das vias do Macedo e garantindo que os carros dos vizinhos não sofram arranhões ou danos.
+Em condomínios, o horário deve ser alinhado com o síndico ou zelador e confirmado conforme a rota. Fotos do portão, da vaga e da área de circulação ajudam a verificar se a operação é viável sem bloquear o acesso.
 
 ## Legalidade e Documentação Para Administradoras
 
@@ -32,4 +32,4 @@ Para que o nosso caminhão consiga realizar a troca ou retirada da caçamba sem 
 
 ## Agilidade e Orçamentos Claros no Macedo
 
-Sabemos que o tempo da sua reforma é contado e os atrasos custam caro. Com a nossa locação, seus pedreiros e empreiteiros têm a garantia de que o entulho sumirá da obra de forma rápida, limpa e profissional. Fale agora com nossa central via WhatsApp, informe a data de início da sua reforma e reserve a sua caçamba com os especialistas da região!
+Informe a data de início, o endereço e os resíduos previstos. A equipe apresenta a opção disponível e combina entrega e retirada conforme as condições operacionais.

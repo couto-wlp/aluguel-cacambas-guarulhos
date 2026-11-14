@@ -12,7 +12,7 @@ O Bonsucesso é, sem dúvida, um dos maiores, mais populosos e mais importantes 
 
 A imensa diversidade estrutural do Bonsucesso exige uma empresa versátil. De um lado da rodovia, temos transportadoras, indústrias metalúrgicas e centros de distribuição realizando pavimentações de pátios, quebras de laje e adequações estruturais que geram toneladas de resíduos pesados em questão de horas. Do outro lado, temos milhares de moradores reformando suas casas, trocando telhados, construindo muros e ampliando seus lares.
 
-Nossa empresa está estruturada para atender essas duas pontas com máxima eficiência. Para o setor corporativo e industrial, oferecemos um serviço contínuo de logística de entulho (o chamado sistema de troca rápida, onde uma caçamba cheia é instantaneamente substituída por uma vazia), garantindo que a produtividade da sua empresa não sofra nenhuma interrupção. Já para os clientes residenciais, prestamos um atendimento consultivo, orientando sobre o volume correto da caixa estacionária e o melhor local para alocação na rua de casa.
+Para o setor corporativo e industrial, entregas, retiradas e trocas podem ser programadas conforme a geração de resíduos e a disponibilidade. Para clientes residenciais, a avaliação considera o volume, o material e o espaço disponível para posicionamento.
 
 ## Responsabilidade Ambiental e Cumprimento das Leis de Guarulhos
 
@@ -22,7 +22,7 @@ Temos orgulho de atuar de forma regularizada perante os órgãos competentes. Os
 
 ## Cuidados e Regras de Utilização da Caçamba
 
-Para que a locação ocorra de forma perfeita e segura nas movimentadas vias do Bonsucesso, algumas normas devem ser seguidas à risca por nossos clientes:
+Para reduzir riscos durante a locação nas vias do Bonsucesso, observe estas orientações:
 
 **Limite de Acondicionamento:** O limite máximo de segurança de qualquer caçamba é a sua borda. Exceder esse limite coloca em sério risco o trânsito da região durante o transporte, além de sobrecarregar o caminhão.
 
@@ -32,4 +32,4 @@ Para que a locação ocorra de forma perfeita e segura nas movimentadas vias do 
 
 ## Contrate Agilidade e Preço Justo
 
-O tempo é o recurso mais valioso no Bonsucesso. Se a sua transportadora, fábrica ou residência necessita de uma remoção profissional, rápida e legalizada de resíduos da construção civil, conte com a nossa ampla frota de caminhões poli-guindaste. Oferecemos contratos flexíveis, orçamentos totalmente transparentes e preços competitivos. Fale com a nossa equipe especializada hoje mesmo, agende a sua caçamba e mantenha o cronograma da sua obra em dia!
+Transportadoras, fábricas e residências podem solicitar uma avaliação informando o endereço, a classificação e a frequência de geração dos resíduos. A equipe apresenta a disponibilidade e as condições aplicáveis ao atendimento.

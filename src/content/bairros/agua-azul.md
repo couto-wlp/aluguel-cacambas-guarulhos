@@ -10,7 +10,7 @@ O bairro Água Azul, em Guarulhos, é conhecido por suas áreas mais verdes, ch�
 
 ## Por que a Gestão de Resíduos é Crucial nesta Região?
 
-Trabalhar com construção civil em áreas com maior proximidade à natureza exige uma responsabilidade redobrada. O descarte irregular de entulho em terrenos baldios ou áreas de preservação é um crime ambiental grave, sujeito a multas altíssimas pela Prefeitura de Guarulhos.
+Trabalhar próximo a áreas verdes exige cuidado adicional. O descarte irregular em terrenos baldios ou áreas de preservação pode gerar dano ambiental e responsabilização administrativa, civil ou penal, conforme o caso.
 
 No Água Azul, as condições de acesso e o tipo de material devem ser informados antes da entrega. Os resíduos aceitos são encaminhados conforme sua classificação a unidades de triagem, reciclagem ou destinação compatíveis.
 
@@ -33,7 +33,7 @@ Para garantir a segurança e a conformidade legal do descarte, orientamos nossos
 
 A experiência do cliente é a nossa prioridade. Sabemos que o cronograma de uma obra é apertado, por isso nosso processo de locação é ágil e sem burocracia. Ao entrar em contato conosco, nossa equipe especializada ajudará você a dimensionar o tamanho ideal da caçamba (geralmente trabalhamos com volumes de [4m³](/servicos/aluguel-cacamba-4m3-guarulhos) ou [5m³](/servicos/aluguel-cacamba-5m3-guarulhos), dependendo da densidade do material).
 
-A entrega é programada de acordo com a sua necessidade. A caçamba deve ser posicionada em local seguro, respeitando o fluxo de veículos nas ruas do bairro e garantindo que o caminhão tenha espaço para manobra na hora da retirada. Em média, a caçamba pode ficar estacionada no local por até 3 a 7 dias, conforme a legislação de trânsito local.
+A entrega é programada conforme a rota, a disponibilidade e as condições do endereço. A caçamba deve ser posicionada em local seguro, respeitando o fluxo de veículos e o espaço necessário para a retirada. Em logradouro público, a Lei Municipal nº 7.572/2017 prevê, como regra geral, permanência máxima de cinco dias entre colocação e retirada; em determinadas vias, o limite pode ser menor.
 
 ## Como Preparar a Entrega no Água Azul
 

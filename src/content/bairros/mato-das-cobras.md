@@ -12,7 +12,7 @@ O bairro Mato das Cobras, situado em uma região mais limítrofe de Guarulhos, a
 
 Limpar um lote de grandes proporções no Mato das Cobras não é serviço para amadores. O processo de corte de terra (escavação para nivelar o terreno) e a limpeza de mato e pedras geram volumes assustadores de carga pesada em poucos dias. Se esse material não for rapidamente retirado pelas caçambas, as retroescavadeiras não têm espaço para avançar, e a obra congela.
 
-Nós fornecemos a robustez que esse tipo de empreitada exige. Nossas caçambas estacionárias são feitas de aço espesso, capazes de receber toneladas de argila, pedregulhos e blocos maciços sem comprometer a estrutura. Nossos caminhões poli-guindastes são equipados para enfrentar o relevo do Mato das Cobras, que muitas vezes inclui ladeiras, terrenos não asfaltados e áreas de difícil acesso, garantindo que o recipiente seja deixado e retirado exatamente onde as máquinas pesadas da sua obra necessitam.
+Argila, pedras e blocos são materiais densos e precisam ser informados antes da escolha da caçamba. Em ladeiras, vias sem pavimentação ou áreas de acesso difícil, envie fotos para avaliação do piso, da inclinação e da área de manobra. O uso de máquinas no carregamento também deve ser combinado.
 
 ## A Urgência da Legalidade em Áreas de Expansão
 
@@ -36,4 +36,4 @@ O [Observatório municipal de Guarulhos](https://observatorio.guarulhos.sp.gov.b
 
 ## Orçamento Para Grandes Volumes
 
-Se o seu projeto no Mato das Cobras envolve movimentação pesada, nós somos o parceiro logístico que garantirá o ritmo do seu canteiro de obras. Temos planos flexíveis para aluguéis de múltiplos equipamentos. Entre em contato agora, descreva a sua demanda de remoção e feche um orçamento com quem garante a produtividade da sua obra.
+Se o projeto envolve movimentação pesada, descreva o material, o volume, o equipamento de carregamento e o acesso. A equipe avalia a viabilidade e apresenta as condições disponíveis.

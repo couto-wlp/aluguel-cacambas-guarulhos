@@ -24,11 +24,11 @@ Cerâmica, madeira, concreto e gesso podem exigir separação e destinos distint
 
 Para reduzir riscos na operação em subidas e descidas do bairro Morros, preste atenção nestas três regras operacionais:
 
-**Não ultrapasse a borda (Sem Morrinhos):** O limite da caçamba existe por um motivo de segurança. O entulho carregado acima das bordas rola imediatamente para as ruas e carros de trás quando o nosso caminhão inicia a subida de uma ladeira íngreme.
+**Não ultrapasse a borda:** O material acima do limite pode cair durante o içamento ou o transporte, especialmente em trechos inclinados.
 
 **Exclusividade:** A caçamba não é uma lata de lixo da vizinhança. Ela deve conter apenas detritos da obra (inertes). Fique atento para não jogar sobras de comida, fraldas ou substâncias tóxicas.
 
-**Local Inalterado:** Nossa equipe fixou a caçamba na melhor posição e ângulo para suportar o declive da rua e facilitar o içamento. Não permita que ninguém tente mudá-la de lugar.
+**Local Inalterado:** Não mova a caçamba depois da entrega. Qualquer alteração deve ser solicitada à equipe responsável pela operação.
 
 ## Sem Burocracia: Fale Conosco e Agende
 
