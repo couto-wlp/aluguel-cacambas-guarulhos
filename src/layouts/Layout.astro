@@ -45,9 +45,9 @@ const { title, description, canonicalUrl, transparentHeader = false } = Astro.pr
         <!-- Bloco 1: Logo (Esquerda) -->
         <div class="flex-1 flex justify-start">
           <a href="/" class="flex items-center gap-3 group hover:scale-105 active:scale-95 transition-all">
-            <img src="/favicon.svg" alt="Logo Caçambas Guarulhos" width="44" height="44" decoding="async" class="w-11 h-11 object-contain drop-shadow-md transition-transform" />
+            <img src="/favicon.svg" alt="Logo Central da Caçamba" width="44" height="44" decoding="async" class="w-11 h-11 object-contain drop-shadow-md transition-transform" />
             <span class={`logo-text font-black text-2xl tracking-tight transition-colors ${transparentHeader ? 'text-white' : 'text-gray-900'}`}>
-              Caçambas Guarulhos
+              Central da Caçamba
             </span>
           </a>
         </div>
@@ -102,9 +102,9 @@ const { title, description, canonicalUrl, transparentHeader = false } = Astro.pr
           <!-- Coluna 1: Logo e Sobre -->
           <div class="flex flex-col gap-6">
             <a href="/" class="flex items-center gap-3 group hover:scale-105 transition-transform w-fit">
-              <img src="/favicon.svg" alt="Logo Caçambas Guarulhos" width="36" height="36" loading="lazy" decoding="async" class="w-9 h-9 object-contain drop-shadow-sm" />
+              <img src="/favicon.svg" alt="Logo Central da Caçamba" width="36" height="36" loading="lazy" decoding="async" class="w-9 h-9 object-contain drop-shadow-sm" />
               <span class="font-black text-lg tracking-tight text-gray-900">
-                Caçambas Guarulhos
+                Central da Caçamba
               </span>
             </a>
             <p class="text-gray-600 leading-relaxed text-sm pr-4">
@@ -139,6 +139,13 @@ const { title, description, canonicalUrl, transparentHeader = false } = Astro.pr
                 <div>
                   <span class="block text-[13px] text-gray-500 mb-0.5">Ligação</span>
                   <a href="tel:+5511943758880" class="text-gray-600 text-sm hover:text-primary transition-colors">(11) 94375-8880</a>
+                </div>
+              </li>
+              <li class="flex items-center gap-4">
+                <svg class="w-5 h-5 text-primary shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                <div>
+                  <span class="block text-[13px] text-gray-500 mb-0.5">Atendimento</span>
+                  <span class="text-gray-600 text-sm">{SITE_CONFIG.openingHours}</span>
                 </div>
               </li>
               <li class="flex items-center gap-4">

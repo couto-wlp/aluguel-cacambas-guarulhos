@@ -1,9 +1,9 @@
 export const SITE_CONFIG = {
   // Configurações Globais
   siteUrl: 'https://www.centraldacacamba.com.br',
-  siteName: 'Caçambas Guarulhos',
-  siteTitle: 'Aluguel de Caçamba em Guarulhos | Entrega Rápida e Preço Justo',
-  siteDescription: 'Serviço especializado de aluguel de caçambas estacionárias em Guarulhos. Atendimento para obras residenciais, comerciais e industriais com descarte ecologicamente correto.',
+  siteName: 'Central da Caçamba',
+  siteTitle: 'Central da Caçamba | Aluguel de Caçamba em Guarulhos',
+  siteDescription: 'Aluguel de caçambas estacionárias em Guarulhos para obras residenciais, comerciais e industriais. Atendimento 24 horas, todos os dias.',
   
   // Contato (NAP)
   address: {
@@ -21,6 +21,8 @@ export const SITE_CONFIG = {
   },
   
   email: 'contato@centraldacacamba.com.br',
+
+  openingHours: '24 horas, 7 dias por semana',
   
   // Redes Sociais (se houver)
   social: {
