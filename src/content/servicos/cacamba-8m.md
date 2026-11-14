@@ -1,7 +1,7 @@
 ---
 title: "Caçamba de 8m³"
 seoTitle: "Aluguel de Caçamba de 8m³ em Guarulhos"
-description: "A escolha definitiva em Guarulhos para construtoras, indústrias e grandes canteiros de demolição com máxima capacidade volumétrica."
+description: "Aluguel de caçamba de 8m³ em Guarulhos para resíduos volumosos de obras. Consulte classificação, acesso, carga e disponibilidade."
 image: "/images/cacamba-8m.webp"
 specs:
   altura: "1.70m"
@@ -32,6 +32,30 @@ Se você busca otimização de tempo e segurança no gerenciamento de detritos, 
 O descarte irregular traz riscos para o gerador. Por isso, os materiais aceitos são identificados e encaminhados a unidades adequadas à sua classificação.
 
 Informamos antes da contratação a documentação aplicável ao serviço. A exigência de MTR e de outros registros varia conforme o resíduo e a operação.
+
+## Quando Avaliar o Modelo de 8m³
+
+O modelo de 8m³ deve ser considerado a partir do volume e do tipo de resíduo, e não apenas pelo porte da obra. Materiais leves e volumosos ocupam a caixa de maneira diferente de terra, concreto e cerâmica. Uma caçamba visualmente incompleta pode já ter atingido o limite operacional quando a carga é muito densa.
+
+Informe a origem do material, a etapa da obra e a quantidade estimada. Se houver tipos diferentes de resíduos, a equipe orienta sobre a necessidade de separação e sobre a disponibilidade de equipamentos compatíveis.
+
+## O Que Não Deve Ser Colocado sem Avaliação
+
+Não descarte tintas ou produtos líquidos, solventes, óleos, produtos químicos, resíduos de saúde, amianto, baterias ou materiais cuja composição seja desconhecida. Gesso, madeira, poda, embalagens e resíduos industriais precisam ser declarados antes da entrega.
+
+Misturar resíduos pode impedir o recebimento da carga na unidade de destino. Para obras com várias etapas, organize retiradas separadas e identifique quem será responsável pelo carregamento. Veja também o [guia prático de descarte correto](/guia-pratico-para-descarte-correto-de-entulho-em-obras).
+
+## Espaço Operacional Necessário
+
+Além da área ocupada pela caixa, a operação exige espaço para o caminhão se alinhar, descarregar e recolher o equipamento. Verifique largura e altura livres, raio de manobra, inclinação, resistência do piso, fiação, árvores, marquises e veículos estacionados.
+
+Em condomínios, empresas e canteiros controlados, confirme horários de carga e descarga e autorizações internas. O local escolhido não deve bloquear circulação, portões ou rotas de emergência.
+
+## Boas Práticas de Carregamento
+
+Distribua o material dentro dos limites da caçamba e não deixe peças acima das bordas. Não tente compactar entrando no equipamento, não faça queima e não altere o ponto de instalação sem autorização. Se aparecer um resíduo diferente do informado, consulte a equipe antes de acrescentá-lo à carga.
+
+Para orçamento, envie bairro, data desejada, descrição e fotos dos resíduos, além de imagens do acesso e do ponto de posicionamento. A confirmação depende da análise operacional e da disponibilidade da rota.
 
 ---
 
