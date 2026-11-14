@@ -7,7 +7,10 @@ const posts = await getCollection('blog');
 posts.sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
 ---
 
-<Layout title="Blog de Aluguel de Caçamba em Guarulhos - SP | Dicas">
+<Layout
+  title="Blog de Aluguel de Caçamba em Guarulhos - SP | Dicas"
+  description="Guias sobre aluguel de caçambas, separação de resíduos de obras, materiais aceitos e descarte responsável em Guarulhos."
+>
   <section class="pt-[120px] pb-24 bg-gray-50 min-h-[80vh]">
     <div class="container mx-auto px-6 md:px-12 max-w-6xl">
       <div class="text-center mb-12">

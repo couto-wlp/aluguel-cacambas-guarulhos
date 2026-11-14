@@ -1,6 +1,6 @@
 ---
 title: "Locação de Caçamba para Resíduo Industrial em Guarulhos"
-description: "Alugue caçambas para descarte de materiais comerciais, recicláveis e resíduos industriais em Guarulhos. Garantimos descarte legalizado e certificado ambiental."
+description: "Alugue caçambas para materiais comerciais, recicláveis e resíduos industriais não perigosos em Guarulhos. Consulte materiais aceitos e documentação."
 publishDate: 2026-09-20
 image: "/images/cacamba-residuo-industrial.webp"
 ---
@@ -26,7 +26,7 @@ Atuamos na coleta integrada de detritos gerados por processos logísticos, de es
 
 Sabemos que a responsabilidade jurídica e a conformidade fiscal são inegociáveis no mercado corporativo.
 
-Não apenas retiramos o entulho da sua empresa em Guarulhos, mas asseguramos que o destino final seja usinas de triagem e polos de reciclagem devidamente credenciados pela prefeitura e pelos órgãos ambientais. Para cada coleta realizada, sua empresa recebe o Manifesto de Transporte de Resíduos (MTR) e o certificado de destinação final, blindando o seu negócio contra sanções ambientais e agregando valor às suas métricas de ESG.
+Antes da contratação, é necessário identificar e classificar o material. Os resíduos aceitos são encaminhados a unidades compatíveis, e a equipe informa quais registros — como MTR ou certificado de destinação — são aplicáveis à operação e quais responsabilidades permanecem com o gerador.
 
 ## Vantagens do Atendimento Corporativo
 

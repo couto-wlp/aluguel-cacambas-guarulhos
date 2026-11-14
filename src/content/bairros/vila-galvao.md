@@ -14,7 +14,7 @@ A dinâmica urbana da Vila Galvão é desafiadora para a construção civil. A m
 
 Com as nossas caçambas, esse risco deixa de existir. Nossos motoristas de caminhão poli-guindaste possuem vasto treinamento para operar em ruas de traçado histórico. A caçamba é instalada paralelamente à calçada, ocupando precisamente a área de uma vaga de estacionamento. O posicionamento é feito com suavidade para proteger o pavimento de paralelepípedos ou asfaltos mais antigos do bairro, sem danificar as tradicionais árvores da região ou bloquear guias rebaixadas.
 
-## Segurança Legal Com Emissão de CTR (Laudo Ambiental)
+## Documentação Aplicável ao Transporte
 
 Realizar obras de alto padrão exige garantias sólidas. A contratação de prestadores clandestinos não é uma opção na Vila Galvão. O despejo irregular de entulho suja a cidade e gera processos rigorosos contra o proprietário do imóvel, já que a origem do material pode ser facilmente rastreada.
 

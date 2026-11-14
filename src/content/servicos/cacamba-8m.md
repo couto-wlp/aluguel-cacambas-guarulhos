@@ -21,17 +21,17 @@ Se você busca otimização de tempo e segurança no gerenciamento de detritos, 
 ## Por Que Escolher a Caçamba de 8m³?
 
 * **Alta Capacidade Volumétrica:** A estrutura é ideal para gerenciar volumes extremos de entulho, sobras de alvenaria, concreto e resíduos industriais pesados.
-* **Redução de Viagens e Custos:** O espaço extra minimiza drasticamente a necessidade de trocas constantes, garantindo que sua equipe não precise pausar o trabalho por falta de local para descarte.
-* **Logística Inteligente:** Nossa frota moderna assegura que a entrega, a troca e a retirada sigam rigorosamente o cronograma do seu projeto, sem atrasos.
+* **Menos Trocas em Alguns Cenários:** O volume maior pode reduzir a frequência de retiradas, dependendo do peso e do material descartado.
+* **Logística Planejada:** A entrega, a troca e a retirada são programadas conforme a disponibilidade e o acesso ao endereço.
 
 > **💡 Qual é a capacidade real na prática?**
 > Para facilitar o controle logístico dos seus pedreiros e engenheiros, uma caçamba de 8m³ comporta, em média, o equivalente a **160 carrinhos de mão** ou **420 latas cheias de entulho**.
 
 ## Conformidade Ambiental e Descarte Seguro em Guarulhos
 
-O descarte irregular é um risco que a sua empresa não precisa correr. Garantimos que todo o material coletado seja levado exclusivamente para aterros certificados e usinas de reciclagem licenciadas pela prefeitura.
+O descarte irregular traz riscos para o gerador. Por isso, os materiais aceitos são identificados e encaminhados a unidades adequadas à sua classificação.
 
-Para sua total segurança jurídica e ambiental, emitimos o Manifesto de Transporte de Resíduos (MTR) em todas as operações, comprovando a destinação legalizada dos detritos gerados pela sua indústria ou construtora.
+Informamos antes da contratação a documentação aplicável ao serviço. A exigência de MTR e de outros registros varia conforme o resíduo e a operação.
 
 ---
 

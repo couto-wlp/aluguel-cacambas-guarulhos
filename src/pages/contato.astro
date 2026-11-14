@@ -1,8 +1,12 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import { SITE_CONFIG } from '../data/config';
 ---
 
-<Layout title="Fale Conosco | Aluguel de Caçamba de Entulho Guarulhos">
+<Layout
+  title="Fale Conosco | Aluguel de Caçamba de Entulho Guarulhos"
+  description="Solicite orçamento para aluguel de caçamba em Guarulhos, tire dúvidas sobre materiais aceitos, entrega, retirada e destinação dos resíduos."
+>
   <section class="pt-[120px] pb-24 bg-gray-50 min-h-[80vh]">
     <div class="container mx-auto px-6 md:px-12 max-w-6xl">
       <div class="text-center mb-6">
@@ -27,7 +31,7 @@ import Layout from '../layouts/Layout.astro';
                 </div>
                 <div>
                   <h3 class="font-bold text-gray-900 text-[17px] group-hover:text-primary transition-colors">Nosso Pátio</h3>
-                  <p class="text-gray-600">Av. Lauro de Gusmão Silveira, 1500 - Parque Industrial do Jardim Sao Geraldo, Guarulhos - SP, 07140-010</p>
+                  <p class="text-gray-600">{SITE_CONFIG.address.streetAddress}, {SITE_CONFIG.address.addressLocality} - {SITE_CONFIG.address.addressRegion}, {SITE_CONFIG.address.postalCode}</p>
                 </div>
               </div>
               

@@ -1,7 +1,7 @@
 ---
 name: "Aracília"
 title: "Aluguel de Caçambas Aracília Guarulhos - Orçamento"
-description: "Solução rápida em aluguel de caçamba no bairro Aracília. Frota própria para remoção de entulho com laudo ambiental e pontualidade."
+description: "Aluguel de caçamba no bairro Aracília, Guarulhos. Consulte tamanhos, materiais aceitos, disponibilidade e documentação aplicável."
 ---
 
 ## Aluguel de Caçambas Aracília Guarulhos - Orçamento
@@ -18,7 +18,7 @@ Temos capacidade estrutural para atender desde pequenas manutenções em pátios
 
 A confiabilidade de um fornecedor de gestão de resíduos se demonstra com licenças válidas, documentação de transporte e destinação rastreável. Para empresas instaladas no Aracília, esses registros também ajudam na organização de auditorias e controles ambientais internos.
 
-Ao alugar uma caçamba conosco, sua empresa tem a garantia de estar trabalhando com um fornecedor 100% regularizado pela Prefeitura de Guarulhos e órgãos ambientais (como a Cetesb, no âmbito estadual, no controle de áreas de descarte). Fornecemos os comprovantes de destinação final ecológica (CTR), atestando que os resíduos classe A, B ou C foram encaminhados para reciclagem de inertes ou aterros autorizados, livrando sua empresa de passivos ambientais.
+Antes da locação, identifique os resíduos e confirme a documentação aplicável ao transporte. Os materiais aceitos são encaminhados conforme sua classificação, e o CTR pode registrar a movimentação quando previsto para a operação.
 
 ## Regras de Ocupação de Via e Cuidados
 

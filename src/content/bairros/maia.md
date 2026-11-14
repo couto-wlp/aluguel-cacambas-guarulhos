@@ -18,7 +18,7 @@ Nossa empresa oferece uma operação limpa e delicada. Nossos equipamentos (caç
 
 Moradores de alto padrão exigem garantias. A contratação de serviços clandestinos de recolhimento de entulho pode resultar em um enorme dano à reputação e autuações severas, caso o material descartado indevidamente seja rastreado até o seu endereço.
 
-Trabalhamos com o mais alto nível de compliance ambiental. Somos plenamente registrados nos órgãos de fiscalização de Guarulhos e do Estado de São Paulo. Cada caçamba retirada da sua propriedade no bairro Maia é registrada e levada para aterros e centros de reciclagem de ponta. Fornecemos o Controle de Transporte de Resíduos (CTR) para cada operação. Com esse laudo em mãos, você e a administração do seu condomínio têm a certeza legal de que toda a sua obra foi gerida de forma 100% ecológica e sustentável.
+Antes da contratação, confirme a identificação do transportador e os documentos aplicáveis. Os resíduos aceitos são encaminhados conforme sua classificação, e o CTR pode registrar a movimentação sem substituir as demais obrigações do gerador ou do condomínio.
 
 ## Orientações Para Uso em Alto Padrão
 

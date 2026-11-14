@@ -14,7 +14,7 @@ specs:
 
 O modelo de 5m³ é a escolha número um entre engenheiros, empreiteiros e moradores de Guarulhos. Com o tamanho ideal para acomodar grandes volumes de entulho sem infringir as normas de trânsito e ocupação de vias do município, esta caçamba oferece o equilíbrio perfeito entre custo-benefício e capacidade de carga.
 
-Nossa experiência no setor de coleta de resíduos na Grande São Paulo garante um serviço pontual, seguro e rigorosamente alinhado à legislação ambiental.
+O atendimento considera o endereço, o tipo de material, o peso estimado e o espaço disponível para posicionamento.
 
 ![Caçamba de 5m³ para aluguel em Guarulhos SP](/images/cacamba-5m.webp)
 
@@ -34,15 +34,15 @@ A versatilidade deste equipamento atende perfeitamente aos variados perfis estru
 
 Contratar uma caçamba irregular pode gerar multas altíssimas para o gerador do resíduo (dono da obra). Atuamos com total transparência e responsabilidade ambiental:
 
-* **Descarte 100% Certificado:** Todo o material recolhido em Guarulhos é destinado exclusivamente a aterros e usinas de reciclagem credenciados pelos órgãos ambientais competentes.
-* **Emissão de MTR/CTR:** Fornecemos o Manifesto de Transporte de Resíduos (MTR) e o Controle de Transporte de Resíduos (CTR). Este documento é a sua garantia legal de que o entulho da sua obra não foi descartado em vias públicas ou áreas de manancial.
-* **Motoristas Especializados:** Nossa equipe é treinada não apenas para dirigir veículos pesados, mas para operar o içamento da caçamba de forma milimétrica. Posicionamos o equipamento no local ideal, preservando o asfalto, o meio-fio e a calçada, sempre garantindo a passagem segura de pedestres e veículos.
+* **Materiais Identificados:** Os resíduos aceitos são encaminhados a unidades compatíveis com a classificação informada pelo cliente.
+* **Documentação Aplicável:** A equipe informa quando MTR, CTR ou outro registro faz parte da operação e quais obrigações permanecem com o gerador.
+* **Posicionamento Planejado:** Verificamos o acesso do caminhão e combinamos o local de instalação, respeitando o espaço disponível e a sinalização necessária.
 
 ## Por Que Escolher Nosso Serviço em Guarulhos?
 
-* **Logística Inteligente:** Frota moderna e revisada que garante a entrega e a retirada da caçamba no dia e horário agendados. Não atrasamos o cronograma da sua obra.
+* **Logística Programada:** A data de entrega e retirada é confirmada conforme a disponibilidade e as condições de acesso.
 * **Capacidade Real:** Caçambas com estrutura reforçada para suportar resíduos densos e pesados (concreto, terra, pedras) com segurança.
-* **Conformidade Fiscal e Ambiental:** Operação totalmente regularizada, protegendo você de autuações da prefeitura.
+* **Orientação Ambiental:** Informamos os materiais aceitos, a separação necessária e a documentação prevista para o serviço.
 * **Atendimento Consultivo:** Nossa equipe ajuda você a definir o melhor local de estacionamento para a caçamba, respeitando as faixas e a sinalização de trânsito local.
 
 ---

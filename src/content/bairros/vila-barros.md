@@ -1,7 +1,7 @@
 ---
 name: "Vila Barros"
 title: "Aluguel de Caçamba Vila Barros Guarulhos - Ligue Já"
-description: "Caçamba para entulho na Vila Barros em Guarulhos. Remoção rápida com laudo ambiental para reformas residenciais e comércio."
+description: "Caçamba para entulho na Vila Barros, em Guarulhos. Consulte materiais aceitos, disponibilidade e documentação aplicável ao serviço."
 ---
 
 ## Agilidade no Aluguel de Caçamba na Vila Barros em Guarulhos
@@ -18,7 +18,7 @@ As nossas caçambas estacionárias resolvem esse problema de forma barata e inte
 
 Muitas vezes, visando economizar poucos reais, moradores contratam carroceiros ou empresas sem placa para retirar o entulho. O resultado? Esse lixo acaba sendo jogado em terrenos vazios na própria Vila Barros ou na periferia da cidade. A lei municipal é dura e responsabiliza quem gerou o resíduo por esse crime ambiental.
 
-Nós oferecemos um serviço que protege o seu CPF ou CNPJ. Somos 100% legalizados e cadastrados na Prefeitura. Todo o reboco, portas velhas e ferro que retiramos da sua reforma é transportado para áreas de triagem autorizadas, onde o material limpo será reciclado para retornar à construção civil. Junto com a nossa retirada, você recebe o Controle de Transporte de Resíduos (CTR), provando que sua obra atuou dentro da lei.
+Informe previamente reboco, madeira, ferro e outros materiais, pois eles podem exigir separação. Os resíduos aceitos são encaminhados conforme sua classificação, e a equipe informa quando o CTR faz parte da documentação da operação.
 
 ## Orientações Para Uma Retirada Rápida
 

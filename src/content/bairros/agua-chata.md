@@ -1,7 +1,7 @@
 ---
 name: "Água Chata"
 title: "Caçamba de Entulho Água Chata Guarulhos - Ligue Já"
-description: "Solução rápida em aluguel de caçamba no Água Chata, Guarulhos. Atendemos obras residenciais e industriais com preço justo e descarte 100% ecológico."
+description: "Aluguel de caçamba no Água Chata, Guarulhos, para obras residenciais e industriais. Consulte materiais aceitos e disponibilidade."
 ---
 
 ## Caçamba de Entulho Água Chata Guarulhos - Ligue Já

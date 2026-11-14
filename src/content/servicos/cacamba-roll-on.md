@@ -14,7 +14,7 @@ specs:
 
 A gestão de detritos em grande escala exige maquinário pesado e eficiência logística. O sistema roll-on roll-off é o equipamento definitivo para atender à alta demanda de indústrias, shopping centers e canteiros de obras monumentais na região de Guarulhos, SP.
 
-Projetada para facilitar o carregamento de materiais de proporções gigantescas, esta estrutura garante um processo de escoamento ágil, mantendo o seu espaço corporativo ou parque fabril sempre limpo e operacional.
+Projetada para facilitar o carregamento de grandes volumes, esta estrutura permite programar as retiradas conforme a geração de resíduos e as condições operacionais do local.
 
 ![Caçamba Roll-on para aluguel em Guarulhos SP](/images/cacamba-roll-on.webp)
 
@@ -23,16 +23,16 @@ Projetada para facilitar o carregamento de materiais de proporções gigantescas
 * **Agilidade no Carregamento:** O mecanismo roll-on roll-off permite que a caixa seja puxada diretamente para o caminhão de forma mecânica, segura e rápida.
 * **Capacidade Massiva:** A escolha certa para operações que geram uma quantidade formidável de descarte diariamente.
 * **Atendimento Corporativo:** Suporte B2B especializado para entender e suprir as demandas logísticas de alta complexidade do seu negócio.
-* **Frota Estratégica:** Veículos pesados preparados para trocas e coletas pontuais, evitando qualquer interrupção nas atividades da sua empresa.
+* **Logística Programada:** Entregas, trocas e retiradas são combinadas conforme a disponibilidade e as condições de acesso da operação.
 
 > **💡 Referência de Capacidade:**
 > Diferente dos modelos convencionais medidos em latas, esta categoria é focada integralmente na remoção de grandes volumes industriais, suportando perfeitamente o descarte de paletes, estruturas metálicas, plástico em abundância e entulhos de demolições totais.
 
 ## Descarte Regularizado e Proteção Ambiental
 
-Grandes operações exigem total rigor jurídico. Garantimos que 100% do material recolhido em Guarulhos seja destinado a aterros sanitários e polos de reciclagem credenciados.
+Grandes operações exigem identificar e separar corretamente os materiais. Os resíduos aceitos são encaminhados a unidades compatíveis com sua classificação.
 
-Para a segurança fiscal e ambiental da sua companhia, emitimos o Manifesto de Transporte de Resíduos (MTR) em todas as coletas, comprovando que sua empresa cumpre integralmente as normativas da prefeitura e os padrões de sustentabilidade.
+A equipe informa previamente qual documentação se aplica ao transporte. O MTR ou outro registro pode ser utilizado conforme o tipo de resíduo, a operação e as responsabilidades do gerador.
 
 ---
 

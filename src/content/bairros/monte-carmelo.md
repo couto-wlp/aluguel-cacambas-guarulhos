@@ -32,4 +32,4 @@ Para facilitar a remoção e manter o trânsito do Monte Carmelo seguro:
 
 ## Orçamento Rápido Para Moradores e Pedreiros
 
-A sua construção no Monte Carmelo precisa de agilidade. Oferecemos o aluguel mais prático da região, com atendimento direto, valores justos e frota própria. Fale conosco através do botão do WhatsApp, verifique a disponibilidade e programe a chegada da sua caçamba hoje mesmo!
+A sua construção no Monte Carmelo precisa de planejamento. Fale conosco pelo WhatsApp, informe o material e o endereço, verifique a disponibilidade e programe a entrega da caçamba.

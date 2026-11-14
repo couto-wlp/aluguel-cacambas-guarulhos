@@ -1,7 +1,7 @@
 ---
 name: "Parque CECAP"
 title: "Aluguel de Caçamba Parque CECAP Guarulhos - Orçamento"
-description: "Caçamba para entulho no Parque CECAP. Atendemos regras de condomínios com frota adequada, limpeza e emissão de laudo ambiental."
+description: "Caçamba para entulho no Parque CECAP. Consulte regras do condomínio, acesso, materiais aceitos e documentação aplicável."
 ---
 
 ## Os Melhores Especialistas em Aluguel de Caçamba no Parque CECAP
@@ -18,7 +18,7 @@ Além do espaço reduzido, os imensos condomínios do CECAP operam sob rigorosos
 
 Para entrar e prestar serviço em grandes condomínios, as administradoras exigem transparência e legalidade total. Não é qualquer empresa de remoção de entulho que consegue autorização da portaria para operar no Parque CECAP.
 
-Nós somos plenamente capacitados e documentados. Operamos com alvarás em dia e possuímos frota regulamentada. Ao nos contratar para a sua reforma, garantimos a emissão do essencial CTR (Controle de Transporte de Resíduos). Esse é o documento oficial que você entregará ao seu síndico, comprovando que todo o gesso, cerâmica e cimento retirados do seu apartamento foram levados para aterros e usinas de reciclagem autorizadas pela Secretaria de Meio Ambiente e pela Cetesb. A nossa legalidade é a sua paz de espírito.
+Antes de contratar, consulte o condomínio sobre horários, autorização e documentos exigidos. Informe gesso, cerâmica, cimento e outros materiais para confirmarmos a separação e se o CTR é aplicável à operação.
 
 ## Dicas Valiosas para Reformas no Parque CECAP
 

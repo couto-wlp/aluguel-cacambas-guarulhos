@@ -1,5 +1,5 @@
 ---
-import { getEntry, getCollection } from 'astro:content';
+import { getEntry } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 
 export const prerender = true;
@@ -10,12 +10,6 @@ if (!post) {
 }
 const { Content } = await post.render();
 
-// Pegar outras dicas para a sidebar (excluindo a atual, limitando a 3)
-const allPosts = await getCollection('blog');
-const outrasDicas = allPosts
-  .filter(p => p.slug !== post.slug)
-  .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime())
-  .slice(0, 3);
 ---
 
 <Layout title={post.data.title} description={post.data.description} canonicalUrl={post.data.canonical}>

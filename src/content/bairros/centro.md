@@ -18,7 +18,7 @@ Nós oferecemos a solução perfeita para o Centro. Nossos motoristas têm exper
 
 Ao contratar uma empresa para remover o lixo da sua obra, a responsabilidade ambiental é compartilhada. Se um transportador clandestino despejar o seu entulho em uma área irregular, a Prefeitura de Guarulhos pode rastrear o material e multar o seu CNPJ ou CPF.
 
-Trabalhamos fundamentados na mais estrita legalidade. Somos uma empresa certificada e autorizada a operar no recolhimento de Resíduos da Construção Civil (RCC). Ao término do nosso serviço, emitimos o Controle de Transporte de Resíduos (CTR). Esse laudo garante que o concreto, o asfalto, as portas velhas e os restos de gesso retirados do seu imóvel no Centro foram encaminhados para usinas de reciclagem ou aterros sanitários devidamente licenciados pela Cetesb e Secretaria do Meio Ambiente.
+Concreto, asfalto, madeira e gesso podem exigir separação e destinos distintos. Antes da locação, informe a carga para confirmarmos o recebimento e a documentação aplicável, incluindo CTR quando previsto para a operação.
 
 ## Regras Para Uso da Caçamba em Vias Movimentadas
 

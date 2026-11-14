@@ -18,7 +18,7 @@ Além disso, as administradoras dos condomínios da região possuem horários es
 
 Em bairros de alto padrão, a exigência pela legalidade é inegociável. Contratar "caçambeiros" irregulares é um risco financeiro e jurídico altíssimo. Se o entulho da sua obra for despejado de forma ilegal pela cidade, a prefeitura rastreará o material e a multa ambiental será aplicada diretamente ao dono do imóvel ou ao condomínio.
 
-Trabalhamos com segurança total. Somos uma transportadora de resíduos licenciada pelos órgãos ambientais de Guarulhos e do Estado de São Paulo. A madeira, o gesso e a cerâmica retirados do seu imóvel na Vila Augusta são destinados exclusivamente a aterros de triagem e usinas de reciclagem credenciadas. Para sua completa segurança, emitimos o CTR (Controle de Transporte de Resíduos), documento que comprova a sustentabilidade da sua reforma.
+Madeira, gesso e cerâmica podem exigir separação e destinos diferentes. Informe esses materiais antes da locação para confirmarmos o recebimento e a documentação aplicável, incluindo CTR quando previsto para a operação.
 
 ## Dicas Para um Descarte Seguro e Rápido
 

@@ -6,9 +6,11 @@ const schema = {
   "@type": "LocalBusiness",
   "name": SITE_CONFIG.siteName,
   "image": `${SITE_CONFIG.siteUrl}/og-image.jpg`,
+  "logo": `${SITE_CONFIG.siteUrl}/favicon.svg`,
   "@id": SITE_CONFIG.siteUrl,
   "url": SITE_CONFIG.siteUrl,
   "telephone": `+${SITE_CONFIG.phones.whatsapp}`,
+  "email": SITE_CONFIG.email,
   "address": {
     "@type": "PostalAddress",
     "streetAddress": SITE_CONFIG.address.streetAddress,
@@ -22,18 +24,6 @@ const schema = {
     "name": "Guarulhos"
   },
   "sameAs": [SITE_CONFIG.social.facebook],
-  "openingHoursSpecification": {
-    "@type": "OpeningHoursSpecification",
-    "dayOfWeek": [
-      "Monday",
-      "Tuesday",
-      "Wednesday",
-      "Thursday",
-      "Friday"
-    ],
-    "opens": "07:00",
-    "closes": "18:00"
-  },
   "priceRange": "$$"
 };
 ---

@@ -1,7 +1,7 @@
 ---
 name: "Itapegica"
 title: "Aluguel Caçamba Itapegica Guarulhos - Preço Reduzido"
-description: "Locação de caçamba no Itapegica, Guarulhos. Atendimento para indústrias e residências com laudo ambiental. Solicite já seu orçamento!"
+description: "Locação de caçamba no Itapegica, Guarulhos, para indústrias e residências. Consulte materiais aceitos e documentação aplicável."
 ---
 
 ## Logística e Eficiência no Aluguel de Caçamba no Itapegica

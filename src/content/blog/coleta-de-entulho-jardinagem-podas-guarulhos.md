@@ -1,6 +1,6 @@
 ---
 title: "Caçamba para Entulho de Jardinagem e Podas em Guarulhos"
-description: "Limpeza de terrenos e descarte de galhos, folhas e restos de podas com destinação sustentável. Mantenha seu quintal ou condomínio organizado com nossa entrega expressa em Guarulhos."
+description: "Caçamba para galhos, folhas e restos de poda em Guarulhos. Consulte materiais aceitos, separação necessária e disponibilidade."
 publishDate: 2026-09-20
 image: "/images/cacamba-jardinagem-podas.webp"
 ---
@@ -18,7 +18,7 @@ Nossa operação é preparada para recolher e destinar adequadamente:
 * **Madeira:** Troncos e pedaços de árvores decorrentes de corte autorizado.
 * **Terra:** Camada superficial de solo e restos de capina de terrenos.
 
-Garantimos que todo o entulho de jardinagem seja direcionado para reciclagem orgânica e compostagem, gerando adubo e evitando acúmulo em aterros comuns.
+O material vegetal aceito é encaminhado conforme sua classificação e as opções de destinação disponíveis. Informe antes se a carga contém terra, madeira tratada ou outros materiais misturados.
 
 ## Benefícios e Aplicações
 

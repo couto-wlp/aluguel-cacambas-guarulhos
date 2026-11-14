@@ -29,10 +29,10 @@ const { title, description, canonicalUrl, transparentHeader = false } = Astro.pr
     <SchemaLocalBusiness />
 
     <!-- Resource Hints & Mobile LCP Preload -->
-    <link rel="preload" href="/hero-bg-mobile.webp" as="image" type="image/webp" media="(max-width: 640px)">
+    <link rel="preload" href="/hero-bg-mobile-v2.webp" as="image" type="image/webp" media="(max-width: 640px)">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" media="print" onload="this.media='all';this.onload=null;">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" media="print" onload="this.setAttribute('media','all');this.removeAttribute('onload');">
     <noscript>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap">
     </noscript>
@@ -102,13 +102,13 @@ const { title, description, canonicalUrl, transparentHeader = false } = Astro.pr
           <!-- Coluna 1: Logo e Sobre -->
           <div class="flex flex-col gap-6">
             <a href="/" class="flex items-center gap-3 group hover:scale-105 transition-transform w-fit">
-              <img src="/favicon.svg" alt="Logo Caçambas Guarulhos" class="w-9 h-9 object-contain drop-shadow-sm" />
+              <img src="/favicon.svg" alt="Logo Caçambas Guarulhos" width="36" height="36" loading="lazy" decoding="async" class="w-9 h-9 object-contain drop-shadow-sm" />
               <span class="font-black text-lg tracking-tight text-gray-900">
                 Caçambas Guarulhos
               </span>
             </a>
             <p class="text-gray-600 leading-relaxed text-sm pr-4">
-              Locação de caçambas estacionárias licenciadas para coleta e destinação ecologicamente correta de resíduos da construção civil em Guarulhos e região.
+              Locação de caçambas estacionárias para obras, reformas e coleta de resíduos da construção civil em Guarulhos.
             </p>
             <div class="flex gap-3">
               <a href={SITE_CONFIG.social.facebook} target="_blank" rel="noopener noreferrer" aria-label="Facebook" class="w-10 h-10 rounded border border-gray-200 flex items-center justify-center text-gray-400 hover:border-primary hover:text-primary transition-all">
@@ -144,7 +144,7 @@ const { title, description, canonicalUrl, transparentHeader = false } = Astro.pr
               <li class="flex items-center gap-4">
                 <svg class="w-5 h-5 text-primary shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"></path></svg>
                 <div>
-                  <span class="block text-[13px] text-gray-500 mb-0.5">WhatsApp 24h</span>
+                  <span class="block text-[13px] text-gray-500 mb-0.5">WhatsApp</span>
                   <a href="https://wa.me/5511943758880" class="text-gray-600 text-sm hover:text-primary transition-colors">(11) 94375-8880</a>
                 </div>
               </li>

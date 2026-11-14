@@ -1,7 +1,7 @@
 ---
 name: "Vila Rio de Janeiro"
 title: "Aluguel Caçamba Vila Rio de Janeiro Guarulhos - Peça"
-description: "Caçamba de entulho na Vila Rio de Janeiro, Guarulhos. Melhor preço, frota nova e laudo CTR para sua reforma residencial."
+description: "Caçamba de entulho na Vila Rio de Janeiro, Guarulhos. Consulte tamanhos, materiais aceitos, disponibilidade e documentação."
 ---
 
 ## Estrutura e Velocidade: Aluguel de Caçamba na Vila Rio de Janeiro
@@ -14,7 +14,7 @@ Gerenciar o lixo de uma obra na Vila Rio requer inteligência. A maioria das ref
 
 Para planejar o atendimento em edifícios e casas da região, pedimos que o cliente informe antecipadamente a vaga disponível, os horários do condomínio e eventuais restrições de acesso. Com esses dados, a equipe organiza a entrega e a retirada com menor impacto para moradores, pedestres e veículos.
 
-## Descarte Certificado (CTR) e Proteção Contra Multas
+## Destinação e Registro do Transporte
 
 As administradoras de condomínios da Vila Rio de Janeiro exigem comprovação legal antes de autorizar qualquer quebra-quebra. Isso acontece porque a lei responsabiliza o proprietário do imóvel (e solidariamente o condomínio) pelo destino final do entulho da construção civil.
 

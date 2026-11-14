@@ -20,14 +20,14 @@ Seu projeto exige mais espaço? A caçamba estacionária de 6m³ é a solução 
 
 * **Obras de Grande Porte e Construtoras:** Ideal para limpar grandes metragens e otimizar o fluxo de trabalho dos pedreiros.
 * **Demolições Pesadas:** Maior espaço e resistência para acomodar blocos de concreto, vigas, pedras e volumes expressivos de terra ou sobra de fundação.
-* **Logística de Alta Performance:** Frota de caminhões moderna que garante um posicionamento seguro e ágil da caçamba, respeitando o fluxo urbano de Guarulhos e as regras de segurança da via.
+* **Planejamento de Acesso:** Antes da entrega, verificamos o espaço para manobra e orientamos sobre o posicionamento e a sinalização da caçamba.
 
 > **💡 Estimativa de Capacidade na Prática:**
 > Para ajudar no planejamento diário da sua equipe, este equipamento comporta o equivalente a cerca de **120 carrinhos de mão** ou **320 latas cheias de entulho**.
 
-## Descarte Certificado e Ecológico
+## Classificação e Destinação dos Resíduos
 
-Cuidamos de toda a burocracia ambiental para você. Todo o resíduo coletado em Guarulhos é transportado de forma 100% regularizada e destinado a aterros ou usinas de reciclagem licenciadas. Fornecemos o Manifesto de Transporte de Resíduos (MTR), assegurando a conformidade legal do seu projeto e prevenindo qualquer risco de passivo ambiental ou multas.
+Informe previamente os materiais da obra para verificarmos se são aceitos e se precisam ser separados. A equipe orienta sobre as unidades de destinação e os registros aplicáveis, incluindo MTR quando exigido para a operação.
 
 ---
 

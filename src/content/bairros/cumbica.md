@@ -18,7 +18,7 @@ Nós somos especialistas nesse tipo de demanda em larga escala. Oferecemos o sis
 
 Para empresas instaladas no polo industrial de Cumbica, atuar dentro das leis ambientais não é um diferencial, é uma obrigação para manter certificações como a ISO 14001 e passar por auditorias. Contratar transportadores informais é inviável para o setor corporativo.
 
-Nossa empresa é a parceira ideal para o seu CNPJ. Possuímos alvarás atualizados e somos licenciados para atuar no transporte de resíduos sólidos. Todo o material inerte retirado da sua empresa em Cumbica é pesado e destinado a usinas de triagem licenciadas pela Cetesb e Secretaria de Meio Ambiente. Emitimos e assinamos o Controle de Transporte de Resíduos (CTR) correspondente a cada caçamba locada, entregando ao seu departamento de engenharia ou segurança do trabalho a documentação exata para comprovar o descarte sustentável.
+Empresas em Cumbica devem identificar previamente os materiais e as exigências internas de documentação. Os resíduos aceitos são encaminhados conforme sua classificação, e a equipe informa quando o CTR ou outro registro é aplicável ao transporte.
 
 ## O Que Pode (e o Que Não Pode) Ser Descartado
 

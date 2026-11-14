@@ -1,6 +1,6 @@
 ---
 name: "Bom Clima"
-title: "Aluguel de Caçamba Bom Clima Guarulhos: Melhor Preço"
+title: "Aluguel de Caçamba no Bom Clima, Guarulhos"
 description: "Precisa alugar caçamba no Bom Clima, Guarulhos? Oferecemos serviço ágil, legalizado e com descarte correto para a sua reforma. Ligue!"
 ---
 
@@ -16,7 +16,7 @@ Nossa empresa conhece profundamente a dinâmica do trânsito no Bom Clima. Nosso
 
 ## Autoridade e Legalidade no Descarte de Resíduos em Guarulhos
 
-A segurança jurídica é um fator essencial ao contratar um serviço de caçambas. No mercado, existem prestadores irregulares que cobram preços irreais porque descartam o entulho em locais proibidos. Ao contratar nossa empresa, você elimina esse risco. Somos plenamente licenciados pela Prefeitura de Guarulhos e pelos órgãos de proteção ambiental.
+A documentação do transportador e do serviço deve ser verificada antes da contratação. Também é importante informar corretamente os materiais, pois cada classe pode exigir separação e destinação próprias.
 
 Ao final de cada locação, fornecemos ao cliente o Controle de Transporte de Resíduos (CTR). Este documento oficial atesta que todo o entulho retirado da sua obra foi levado para Áreas de Transbordo e Triagem (ATT) legalizadas. Nesses locais, materiais como concreto, alvenaria e cerâmica são triturados e reciclados, voltando para o mercado como brita ecológica, enquanto os rejeitos não recicláveis recebem a destinação adequada em aterros sanitários.
 

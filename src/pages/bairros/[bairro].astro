@@ -17,7 +17,7 @@ const { entry } = Astro.props;
 const { Content } = await entry.render();
 
 const title = entry.data.title || `Aluguel de Caçamba no ${entry.data.name} - Guarulhos - SP`;
-const description = entry.data.description || `Precisando de caçamba de entulho no bairro ${entry.data.name} em Guarulhos? Alugue agora com entrega rápida, segurança e o melhor preço.`;
+const description = entry.data.description || `Aluguel de caçamba no bairro ${entry.data.name}, em Guarulhos. Consulte tamanhos, materiais aceitos, disponibilidade e condições de acesso.`;
 const bairroUrl = new URL(`/bairros/${entry.slug}`, Astro.site).href;
 const breadcrumbSchema = {
   '@context': 'https://schema.org',
@@ -160,7 +160,7 @@ const perfilTamanhos = bairrosIndustriais.has(entry.slug)
           <div class="w-12 h-12 rounded-xl bg-primary text-gray-900 shadow-md shadow-primary/20 flex items-center justify-center mb-4">
             <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
           </div>
-          <h3 class="text-xl font-black text-gray-900 mb-2">Descarte 100% Legal</h3>
+          <h3 class="text-xl font-black text-gray-900 mb-2">Destinação Responsável</h3>
           <p class="text-sm text-gray-600 leading-relaxed">
             Orientação sobre os materiais aceitos e documentação aplicável ao transporte e à destinação dos resíduos.
           </p>
@@ -173,7 +173,7 @@ const perfilTamanhos = bairrosIndustriais.has(entry.slug)
           </div>
           <h3 class="text-xl font-black text-gray-900 mb-2">Posicionamento Seguro</h3>
           <p class="text-sm text-gray-600 leading-relaxed">
-            Motoristas experientes que posicionam a caçamba de forma regularizada na rua ou calçada de sua obra no {entry.data.name}.
+            O local de posicionamento é combinado conforme o acesso, a sinalização necessária e as regras aplicáveis ao endereço no {entry.data.name}.
           </p>
         </div>
       </div>

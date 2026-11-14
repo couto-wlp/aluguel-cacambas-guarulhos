@@ -26,7 +26,7 @@ Com anos de atuação no mercado de Guarulhos, nós simplificamos o processo de 
 
 Por que confiar na nossa empresa? No setor de caçambas, existem muitos operadores clandestinos que cobram um valor irreal e despejam o entulho da sua obra em estradas de terra ou beiras de córregos na periferia de Guarulhos. Ao ser flagrado, o dono da obra (você) responde solidariamente pelo crime ambiental.
 
-Nós atuamos com total transparência e autoridade. Possuímos alvará de funcionamento, caminhões vistoriados e contratos firmados com aterros de transbordo e triagem (ATT) certificados. Emitimos a documentação (CTR) comprovando que o seu entulho foi descartado ecologicamente, onde grande parte vira matéria-prima reciclada.
+Antes da locação, confirme a identificação do transportador, os materiais aceitos e a documentação prevista. O CTR, quando aplicável, registra o transporte e ajuda a manter a rastreabilidade da operação.
 
 ## Solicite sua Caçamba no Bananal Agora
 

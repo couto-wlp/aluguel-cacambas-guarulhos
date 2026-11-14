@@ -36,4 +36,4 @@ O [Observatório de Políticas Públicas de Guarulhos](https://observatorio.guar
 
 ## O Melhor Atendimento Para Chácaras e Terrenos
 
-Construir o seu refúgio no Morro Grande é um projeto maravilhoso. Não permita que o excesso de resíduos atrase os trabalhos ou coloque seu nome em risco com a prefeitura. Nós oferecemos orçamentos claros, preços compatíveis e entrega garantida nas chácaras e sítios da região. Envie-nos uma mensagem agora, detalhe a sua demanda de terraplenagem ou reforma e receba sua caçamba rapidamente!
+Para obras no Morro Grande, envie o endereço, o tipo de material e as condições da estrada e do terreno. Assim, a equipe verifica o acesso, indica o equipamento e confirma a disponibilidade para chácaras e sítios da região.

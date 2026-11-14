@@ -18,7 +18,7 @@ Nossas caçambas estacionárias oferecem um confinamento seguro e prático para 
 
 Contratar empresas não licenciadas é o barato que sai muito caro. O descarte irregular de resíduos de construção em terrenos e praças de Guarulhos gera multas gravíssimas. E a lei é clara: o gerador do resíduo (dono da casa ou do comércio) é o principal responsável.
 
-Nossa empresa traz tranquilidade total para a sua obra no Cocaia. Operamos com todas as licenças exigidas pela prefeitura municipal. Ao final de cada retirada, entregamos a você o CTR (Controle de Transporte de Resíduos). Esse documento é a prova incontestável de que os seus resíduos inertes (concreto, areia, madeira, cerâmica) foram transportados para usinas de reciclagem e áreas de transbordo autorizadas, retornando de forma sustentável para o ciclo da construção civil.
+Concreto, areia, madeira e cerâmica podem exigir separação. Informe a composição da carga antes da locação; a equipe confirma os materiais aceitos, a destinação compatível e a documentação aplicável, incluindo CTR quando previsto.
 
 ## Orientações para Encher a Sua Caçamba
 

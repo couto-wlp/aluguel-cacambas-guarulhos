@@ -1,7 +1,7 @@
 ---
 name: "Macedo"
 title: "Aluguel de Caçamba Macedo Guarulhos - Ótimos Preços"
-description: "Caçamba para entulho no Macedo, Guarulhos. Atendemos prédios e residências com pontualidade e emissão do laudo ambiental (CTR)."
+description: "Caçamba para entulho no Macedo, Guarulhos, para prédios e residências. Consulte acesso, disponibilidade e documentação aplicável."
 ---
 
 ## Excelência em Aluguel de Caçamba no Bairro Macedo em Guarulhos

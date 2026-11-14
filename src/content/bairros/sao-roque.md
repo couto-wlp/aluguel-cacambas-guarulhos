@@ -1,7 +1,7 @@
 ---
 name: "São Roque"
 title: "Aluguel de Caçamba São Roque Guarulhos - Preço Justo"
-description: "Aluguel de caçamba em São Roque, Guarulhos. Remoção rápida de entulho e terra para obras com total segurança e laudo ambiental."
+description: "Aluguel de caçamba em São Roque, Guarulhos, para entulho e terra de obras. Consulte acesso, peso e documentação aplicável."
 ---
 
 ## Eficiência no Aluguel de Caçamba no Bairro São Roque em Guarulhos

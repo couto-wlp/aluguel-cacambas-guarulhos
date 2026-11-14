@@ -32,6 +32,6 @@ Para mantermos a eficiência no recolhimento, é essencial seguir as regras de a
 
 ## Atendimento Ágil Próximo à Dutra
 
-Sua reforma ou adequação comercial não tem tempo a perder. Nós também não. Oferecemos o atendimento mais rápido e descomplicado do mercado de Guarulhos, com orçamentos diretos, transparentes e suporte logístico garantido.
+Para sua reforma ou adequação comercial, oferecemos orçamento detalhado e programação de entrega e retirada conforme a disponibilidade e o acesso ao endereço.
 
 Entre em contato com a nossa central de atendimento pelo WhatsApp, informe as dimensões do seu projeto no Porto da Igreja e reserve agora mesmo a melhor frota de caçambas da cidade!

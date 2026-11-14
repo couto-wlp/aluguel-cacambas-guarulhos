@@ -1,11 +1,11 @@
 ---
 title: "Locação de Caçamba para Madeira e MDF em Guarulhos - SP"
-description: "Alugue caçamba em Guarulhos para o descarte correto de madeiras, MDF e móveis. Garantimos atendimento rápido e destinação sustentável."
+description: "Alugue caçamba em Guarulhos para madeira, MDF e móveis desmontados. Consulte materiais aceitos, separação e disponibilidade de atendimento."
 publishDate: 2026-09-20
 image: "/images/cacamba-madeira-mdf.webp"
 ---
 
-O descarte de restos de madeira e painéis de marcenaria exige uma destinação ambiental específica. Para atender construtoras, oficinas de móveis e moradores de Guarulhos, oferecemos caçambas exclusivas para o recolhimento de resíduos lenhosos, garantindo a organização do seu espaço e prevenindo o risco de incêndios causados pelo acúmulo de entulho no canteiro de obras.
+O descarte de restos de madeira e painéis de marcenaria exige separação adequada. Atendemos construtoras, oficinas de móveis e moradores de Guarulhos com orientação sobre os resíduos lenhosos aceitos.
 
 ![Caçamba com resíduos de madeira e MDF em Guarulhos SP](/images/cacamba-madeira-mdf.webp)
 
@@ -20,9 +20,9 @@ Fornecemos equipamentos dedicados exclusivamente para materiais de base lenhosa,
 
 ## Reciclagem e Geração de Energia Limpa
 
-Nós não despejamos madeira em aterros sanitários comuns. Todo o volume recolhido em Guarulhos é direcionado para centros de triagem e indústrias parceiras de processamento.
+O destino da madeira depende do tratamento, da contaminação e da composição da carga. Os materiais aceitos são encaminhados a unidades compatíveis com sua classificação.
 
-Lá, o entulho de madeira é triturado e transformado em cavacos, que servem como biomassa para a queima controlada. Isso gera energia renovável e evita o desperdício de matérias-primas, tornando a sua obra muito mais sustentável.
+Em algumas operações, madeira sem contaminação pode ser triada e aproveitada como cavaco ou biomassa. Confirme previamente as condições de recebimento.
 
 ## Principais Vantagens Para o Seu Projeto
 
@@ -34,4 +34,4 @@ Lá, o entulho de madeira é triturado e transformado em cavacos, que servem com
 
 **Peça Seu Orçamento Gratuito**
 
-Libere espaço na sua obra ou oficina hoje mesmo com quem entende do assunto. Contamos com frota própria e atendimento ágil na entrega e retirada.
+Libere espaço na sua obra ou oficina. Consulte a equipe sobre disponibilidade, acesso do caminhão e programação de entrega e retirada.

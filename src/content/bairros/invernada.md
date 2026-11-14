@@ -32,6 +32,6 @@ Para que nosso guindaste possa remover o material da frente da sua casa sem atra
 
 ## Orçamento Transparente no Invernada
 
-Valorizamos a tranquilidade da sua reforma. Nossa operação é focada em oferecer o melhor preço da região, pontualidade na entrega e retirada rápida assim que você solicitar.
+Valorizamos o planejamento da sua reforma. O orçamento considera endereço, tamanho da caçamba, material, prazo e condições de acesso.
 
 Construir e reformar no Invernada pode ser simples e livre de sujeira. Fale com a nossa equipe comercial agora mesmo, informe o que você precisa descartar e garanta o aluguel da sua caçamba com total comodidade!

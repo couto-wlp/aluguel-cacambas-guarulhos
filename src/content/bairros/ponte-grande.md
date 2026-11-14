@@ -1,7 +1,7 @@
 ---
 name: "Ponte Grande"
 title: "Aluguel Caçamba Ponte Grande Guarulhos - Preço Bom"
-description: "Locação de caçamba na Ponte Grande, divisa de Guarulhos e SP. Agilidade, segurança viária e emissão de laudo ambiental."
+description: "Locação de caçamba na Ponte Grande, divisa de Guarulhos e São Paulo. Consulte acesso, materiais aceitos e documentação aplicável."
 ---
 
 ## Rapidez no Aluguel de Caçamba no Bairro Ponte Grande

@@ -16,9 +16,9 @@ Ao alugar uma caçamba estacionária, você resolve todos esses problemas de uma
 
 ## Garantia de um Descarte Legal e Ecológico
 
-Em Guarulhos, a gestão de resíduos sólidos é levada a sério. Não basta apenas tirar o entulho da sua porta; é preciso saber exatamente para onde ele está indo. Nós somos uma empresa especialista em gestão de resíduos da construção civil, operando com total licenciamento ambiental e alvarás atualizados.
+Em Guarulhos, não basta retirar o entulho: é importante identificar o transportador, os materiais e a unidade de destino antes da contratação.
 
-Ao finalizar a locação conosco no Cabuçu de Cima, nossa equipe emite o Controle de Transporte de Resíduos (CTR). Esse documento oficial é a prova jurídica de que você contratou uma empresa séria e de que os detritos da sua reforma foram entregues a aterros e usinas de reciclagem devidamente aprovados pela Secretaria de Meio Ambiente e pela Cetesb. Ao fazer a coisa certa, você contribui para que o concreto antigo da sua casa seja triturado e reutilizado como base para a pavimentação de novas ruas na nossa cidade.
+Os resíduos aceitos são encaminhados conforme sua classificação. A equipe informa quando o Controle de Transporte de Resíduos (CTR) é aplicável e quais dados devem ser conferidos pelo gerador da obra.
 
 ## Instruções Essenciais para o Enchimento da Caçamba
 

@@ -18,7 +18,7 @@ Ao locar uma de nossas caçambas, você confina toda a sujeira em uma caixa esta
 
 Reformar a casa deve ser motivo de alegria, não de preocupação com a destinação dos resíduos. Contratar transportadores sem identificação ou documentação aumenta o risco de descarte irregular. Por isso, confirme previamente quais materiais serão aceitos, como será feito o transporte e qual comprovante de destinação será fornecido.
 
-Conosco, a sua segurança é garantida. Atuamos de forma 100% legalizada e credenciada. Todo o entulho retirado da sua casa na Vila Fátima ganha um destino ecológico e responsável. Levamos os detritos para estações de reciclagem licenciadas, onde restos de construção viram insumos para novas obras. Comprovamos essa destinação limpa entregando em suas mãos o CTR (Controle de Transporte de Resíduos).
+Antes da locação, informe os materiais da obra para confirmarmos o recebimento e a separação necessária. Os resíduos aceitos são encaminhados conforme sua classificação, e a equipe orienta sobre o CTR quando aplicável.
 
 ## Dicas Para Aproveitar ao Máximo a Sua Caçamba
 

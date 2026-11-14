@@ -1,6 +1,6 @@
 ---
 name: "Gopoúva"
-title: "Aluguel de Caçamba Gopoúva Guarulhos - Frota Própria"
+title: "Aluguel de Caçamba no Gopoúva, Guarulhos"
 description: "Caçamba para entulho no Gopoúva em Guarulhos. Sua obra limpa e regularizada com pontualidade e o melhor custo-benefício."
 ---
 
@@ -18,7 +18,7 @@ A nossa empresa é perfeitamente adaptada a esse perfil urbano. Utilizamos caça
 
 Um bairro nobre e tradicional exige prestadores de serviços de alto padrão. Empresas clandestinas, que cobram valores abaixo do mercado, descartam resíduos em terrenos irregulares, transferindo a culpa jurídica do crime ambiental diretamente para o dono da obra.
 
-Nossa prioridade é a legalidade. Ao alugar sua caçamba conosco, você recebe toda a proteção de uma empresa devidamente licenciada pela Prefeitura e por órgãos de gestão ambiental. Todo o resíduo (portas antigas, telhas, gesso, concreto e terra) recolhido no Gopoúva é levado para usinas de reciclagem. O entulho ganha destino sustentável e você recebe em mãos o documento oficial (CTR - Controle de Transporte de Resíduos), provando que sua obra é ecologicamente responsável.
+Portas, telhas, gesso, concreto e terra podem exigir separação e condições diferentes de recebimento. Informe os materiais antes da locação; a equipe orienta sobre a destinação compatível e o CTR quando aplicável.
 
 ## Regras Para Um Descarte Sem Problemas
 

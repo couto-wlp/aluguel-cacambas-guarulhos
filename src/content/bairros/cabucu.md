@@ -1,7 +1,7 @@
 ---
 name: "Cabuçu"
 title: "Aluguel de Caçambas Cabuçu Guarulhos - Locação Rápida"
-description: "Remoção de entulho no Cabuçu com segurança. Proteja a natureza do bairro alugando caçambas com empresa 100% legalizada."
+description: "Remoção de entulho no Cabuçu, Guarulhos. Consulte materiais aceitos, condições de acesso e documentação aplicável ao transporte."
 ---
 
 ## Referência em Locação de Caçamba no Bairro Cabuçu em Guarulhos
@@ -18,7 +18,7 @@ Nossa empresa dispõe de caçambas estacionárias fabricadas em aço de alta res
 
 Áreas mais afastadas do grande centro comercial ou com características de transição rural-urbana costumam, infelizmente, ser o alvo preferido de "caçambeiros" clandestinos. Essas empresas cobram valores irrisórios porque despejam o lixo e o entulho da sua obra diretamente em córregos, matagais ou encostas do próprio bairro Cabuçu. Esse crime ambiental gera contaminação do solo, enchentes e multas gravíssimas para o dono da obra, que é considerado corresponsável pela lei.
 
-Ao escolher nossa empresa, você atua diretamente na proteção da natureza do Cabuçu. Trabalhamos exclusivamente dentro da legalidade. Somos certificados pelos órgãos ambientais e pela prefeitura. Garantimos que 100% do material recolhido será direcionado para Estações de Transbordo, onde haverá a separação dos resíduos inertes para reciclagem (transformando concreto em brita) e o descarte em aterros licenciados. Toda essa cadeia de responsabilidade é comprovada através da emissão do CTR entregue a você.
+No Cabuçu, a separação dos materiais é especialmente importante. Os resíduos aceitos são encaminhados conforme sua classificação a unidades de triagem, reciclagem ou destinação. A equipe informa quando o CTR ou outro registro é aplicável ao serviço.
 
 ## Regras Simples para a Utilização Eficiente da Caçamba
 

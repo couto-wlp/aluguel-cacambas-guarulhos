@@ -27,11 +27,11 @@ Se o seu projeto envolve demolições intensas, limpeza completa de terrenos ou 
 > **💡 Estimativa de Capacidade na Prática:**
 > Para simplificar a gestão da sua equipe, o volume desta caçamba comporta o equivalente a impressionantes **140 carrinhos de mão** ou **380 latas de resíduos**.
 
-## Logística Inteligente e Descarte 100% Legalizado
+## Logística e Orientação de Descarte
 
-Operar grandes obras em Guarulhos exige responsabilidade ambiental e respeito ao trânsito. Nossa frota moderna assegura agilidade na entrega e retirada, posicionando a caçamba com total segurança.
+Operar grandes obras em Guarulhos exige planejamento de acesso, posicionamento, sinalização e separação dos materiais.
 
-Garantimos que todo o material recolhido seja destinado a aterros homologados. Emitimos o Manifesto de Transporte de Resíduos (MTR), blindando sua empresa contra multas e garantindo a conformidade total com a legislação ambiental vigente no município.
+Os resíduos aceitos são encaminhados a unidades compatíveis com sua classificação. A equipe orienta sobre MTR e outros registros quando forem aplicáveis à operação, sem substituir as obrigações do gerador.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: "Água Azul"
 title: "Aluguel de Caçamba Água Azul Guarulhos: Preço Justo"
-description: "Alugue caçamba no bairro Água Azul em Guarulhos com segurança. Descarte de entulho rápido, legalizado e com o melhor preço."
+description: "Alugue caçamba no bairro Água Azul, em Guarulhos. Consulte tamanhos, materiais aceitos, disponibilidade e condições de acesso."
 ---
 
 ## Aluguel de Caçamba no Água Azul Guarulhos - SP
@@ -12,7 +12,7 @@ O bairro Água Azul, em Guarulhos, é conhecido por suas áreas mais verdes, ch�
 
 Trabalhar com construção civil em áreas com maior proximidade à natureza exige uma responsabilidade redobrada. O descarte irregular de entulho em terrenos baldios ou áreas de preservação é um crime ambiental grave, sujeito a multas altíssimas pela Prefeitura de Guarulhos.
 
-Nossa empresa possui a expertise necessária para atuar na região do Água Azul, oferecendo um serviço de remoção de entulho que segue rigorosamente todas as normas municipais. Quando você contrata nosso aluguel de caçambas, tem a garantia de que 100% do material recolhido — seja terra, restos de alvenaria, madeira ou podas de árvores — será direcionado para aterros sanitários e usinas de reciclagem licenciadas.
+No Água Azul, as condições de acesso e o tipo de material devem ser informados antes da entrega. Os resíduos aceitos são encaminhados conforme sua classificação a unidades de triagem, reciclagem ou destinação compatíveis.
 
 ## O Que Pode (e o Que Não Pode) ir na Caçamba?
 

@@ -18,7 +18,7 @@ Nossas caçambas estacionárias proporcionam o confinamento perfeito para o seu 
 
 A tranquilidade de quem reforma no Torres Tibagy passa pela certeza de estar atuando dentro da lei. A contratação de prestadores clandestinos para o transporte de entulho traz um risco gigantesco de autuações e danos ao meio ambiente, pois esses operadores costumam despejar materiais em locais inapropriados de Guarulhos.
 
-Ao optar pelo nosso serviço, sua segurança é total. Somos uma transportadora devidamente credenciada junto à Prefeitura de Guarulhos e aos órgãos ambientais estaduais. Todo o entulho recolhido na sua reforma é destinado a centrais de reciclagem de resíduos da construção civil e aterros industriais licenciados. Para assegurar a idoneidade do processo, emitimos o Controle de Transporte de Resíduos (CTR), fornecendo o comprovante de descarte sustentável exigido pelos órgãos de fiscalização.
+Antes da locação, informe os materiais e confirme a documentação aplicável ao transporte. Os resíduos aceitos são encaminhados conforme sua classificação, e o CTR registra a movimentação quando previsto para a operação.
 
 ## Regras para um Descarte Organizado e Limpo
 

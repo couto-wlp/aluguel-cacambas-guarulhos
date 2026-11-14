@@ -1,7 +1,7 @@
 ---
 name: "Itaim"
 title: "Aluguel Caçamba Jardim Itaim Guarulhos - Orçamentos"
-description: "Locação de caçamba no Jardim Itaim em Guarulhos. Retirada de entulho com agilidade, frota própria e destinação certa."
+description: "Locação de caçamba no Jardim Itaim, em Guarulhos. Consulte disponibilidade, materiais aceitos e condições de acesso."
 ---
 
 ## Força e Preço Baixo: Aluguel de Caçamba no Jardim Itaim em Guarulhos
@@ -18,7 +18,7 @@ Nossa equipe está altamente preparada para atender as ruas do Itaim. Sabemos qu
 
 Áreas populosas e limítrofes como o Jardim Itaim frequentemente sofrem com descartes ilegais em terrenos e barrancos por parte de transportadores piratas. Contratar essas empresas sem placa e sem nome pode render multas severas aplicadas diretamente ao dono da obra por crime ambiental.
 
-Nós atuamos no lado certo da lei. Somos uma transportadora de resíduos totalmente licenciada, com alvará da Prefeitura de Guarulhos e credenciada nos órgãos ambientais estaduais. Ao escolher o nosso serviço, nós lhe entregamos o documento de Controle de Transporte de Resíduos (CTR). Esse laudo atesta que o barro e os tijolos que saíram da sua casa foram encaminhados para áreas de transbordo oficiais, onde viram material reciclado ou são enterrados com segurança ambiental.
+Barro, tijolos e outros resíduos devem ser informados antes da locação para confirmar o recebimento e a separação necessária. O CTR pode registrar o transporte quando aplicável, mas não substitui as demais responsabilidades do gerador.
 
 ## Dicas Para Uma Obra Mais Barata e Rápida
 

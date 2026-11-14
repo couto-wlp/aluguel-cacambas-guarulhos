@@ -1,7 +1,7 @@
 ---
 name: "Tanque Grande"
 title: "Aluguel Caçamba Tanque Grande Guarulhos - Ligue Agora"
-description: "Locação de caçamba no Tanque Grande em Guarulhos. Solução para terraplenagem e limpeza de terrenos com transporte 100% legalizado."
+description: "Locação de caçamba no Tanque Grande, em Guarulhos, para terraplenagem e limpeza de terrenos. Consulte acesso e materiais aceitos."
 ---
 
 ## Potência e Agilidade no Aluguel de Caçamba no Tanque Grande
@@ -36,4 +36,4 @@ O [Observatório municipal](https://observatorio.guarulhos.sp.gov.br/content/gua
 
 ## O Melhor Custo-Benefício para Sua Chácara ou Lote
 
-Se você precisa escoar a terra de uma escavação ou limpar o terreno para iniciar a fundação da sua casa no Tanque Grande, nós temos a estrutura perfeita para lhe atender. Oferecemos preços acessíveis, prazos flexíveis e atendimento humanizado. Envie uma mensagem pelo WhatsApp agora mesmo e garanta sua caçamba com pontualidade total!
+Se você precisa retirar terra de uma escavação ou limpar o terreno no Tanque Grande, envie uma mensagem pelo WhatsApp. Informe o volume, o material e as condições de acesso para verificarmos o equipamento e a disponibilidade.

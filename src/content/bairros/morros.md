@@ -1,7 +1,7 @@
 ---
 name: "Morros"
 title: "Aluguel de Caçamba Morros Guarulhos - Preço Reduzido"
-description: "Locação de caçamba no bairro Morros em Guarulhos. Caminhões novos, pontualidade e destinação de entulho 100% legalizada."
+description: "Locação de caçamba no bairro Morros, em Guarulhos. Consulte acesso, disponibilidade, materiais aceitos e documentação aplicável."
 ---
 
 ## Pontualidade e Organização no Aluguel de Caçamba no Bairro Morros
@@ -14,15 +14,15 @@ A execução de serviços de caçamba em bairros montanhosos e adensados requer 
 
 É aqui que o nosso profissionalismo se destaca. Nossa equipe de logística domina a região. Temos caminhões poli-guindastes com freios revisados e suspensão adequada para lidar com as ladeiras do Morros. Nossos motoristas estacionam a caçamba estacionária de forma milimétrica nas vagas rente à calçada, assegurando que ela permaneça firme, segura, sinalizada e sem obstruir o escoamento de águas pluviais ou o portão da vizinhança.
 
-## Blindagem Jurídica Através de Descarte Certificado
+## Documentação e Destinação dos Resíduos
 
 Muitas obras sofrem paralisações por autuações inesperadas de fiscais da prefeitura. E em Guarulhos, a regra é clara: não se pode contratar qualquer serviço informal para se livrar do entulho, pois o despejo irregular rende multas pesadíssimas ao CPF de quem gerou o lixo.
 
-A nossa empresa é o porto seguro da sua construção. Trabalhamos exclusivamente dentro da lei, com alvará e licenças das secretarias de obras e meio ambiente. Toda a cerâmica velha, madeira, concreto e gesso retirados da sua casa no Morros ganham um destino nobre: são encaminhados a usinas de triagem licenciadas para serem transformados em brita reciclada ou aterrados ecologicamente. Entregamos a você o CTR (Controle de Transporte de Resíduos), documento que comprova legalmente a sua responsabilidade e o nosso compromisso ambiental.
+Cerâmica, madeira, concreto e gesso podem exigir separação e destinos distintos. Informe a composição da carga antes da entrega; a equipe confirma o recebimento e a documentação aplicável, incluindo CTR quando previsto.
 
 ## Cuidados Básicos Para Evitar Atrasos na Retirada
 
-Para garantir que a operação nas subidas e descidas do bairro Morros seja 100% segura, preste atenção nestas três regras operacionais:
+Para reduzir riscos na operação em subidas e descidas do bairro Morros, preste atenção nestas três regras operacionais:
 
 **Não ultrapasse a borda (Sem Morrinhos):** O limite da caçamba existe por um motivo de segurança. O entulho carregado acima das bordas rola imediatamente para as ruas e carros de trás quando o nosso caminhão inicia a subida de uma ladeira íngreme.
 

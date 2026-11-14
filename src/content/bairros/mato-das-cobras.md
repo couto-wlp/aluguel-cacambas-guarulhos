@@ -18,7 +18,7 @@ Nós fornecemos a robustez que esse tipo de empreitada exige. Nossas caçambas e
 
 Por ser um bairro com características mais afastadas e grandes áreas vazias, o Mato das Cobras infelizmente é vítima frequente de crimes ambientais cometidos por prestadores clandestinos que despejam entulho na calada da noite. O dono da obra que contrata esse tipo de serviço falso torna-se cúmplice perante a lei, correndo o risco de embargos e multas gigantescas da Secretaria do Meio Ambiente.
 
-Ao alugar nossas caçambas, a segurança da sua empresa ou loteamento é inquestionável. Somos operadores legalizados no município de Guarulhos. A terra e os resíduos coletados da sua obra são direcionados para locais licenciados, como aterros de inertes. Para sua segurança financeira e legal, emitimos o CTR (Controle de Transporte de Resíduos) em todas as viagens, atestando a destinação legal e limpa dos seus detritos.
+Informe a presença de terra e outros resíduos antes da contratação, pois volume, peso e classificação influenciam a operação. Os materiais aceitos são encaminhados a unidades compatíveis, e a equipe orienta sobre o CTR quando aplicável.
 
 ## Cuidados Críticos no Carregamento de Terra
 
