@@ -8,6 +8,7 @@ specs:
   largura: "1,80 m"
   comprimento: "3,00 m"
   volume: "6m³"
+  quantidade: "≈ 120 carrinhos ou 330 latas de 18 L"
 ---
 
 Seu projeto exige mais espaço? A caçamba estacionária de 6m³ pode ser avaliada para reformas, demolições e canteiros de obras em Guarulhos. O volume adicional é útil em operações com maior geração, respeitando a densidade e o limite operacional do equipamento disponível.

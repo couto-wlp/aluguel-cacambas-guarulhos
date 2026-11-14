@@ -8,6 +8,7 @@ specs:
   largura: "2,40 m"
   comprimento: "6,00 m"
   volume: "15 a 30 m³"
+  quantidade: "≈ 300 a 600 carrinhos ou 830 a 1.660 latas de 18 L"
 ---
 
 A gestão de resíduos em grande escala exige planejamento de equipamento, acesso e destinação. O sistema roll-on roll-off pode atender indústrias, centros comerciais e canteiros de obras com geração recorrente na região de Guarulhos.

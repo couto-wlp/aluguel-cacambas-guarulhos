@@ -8,6 +8,7 @@ specs:
   largura: "1,75 m"
   comprimento: "2,70 m"
   volume: "5m³"
+  quantidade: "≈ 100 carrinhos ou 275 latas de 18 L"
 ---
 
 O modelo de 5m³ oferece capacidade intermediária para reformas residenciais, comerciais e manutenções em condomínios de Guarulhos. A escolha depende do material, do peso estimado e do espaço disponível para posicionamento.

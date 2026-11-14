@@ -8,6 +8,7 @@ specs:
   largura: "1,80 m"
   comprimento: "3,30 m"
   volume: "7m³"
+  quantidade: "≈ 140 carrinhos ou 385 latas de 18 L"
 ---
 
 Quando a empreitada é robusta, sua obra precisa de equipamentos à altura. A caçamba estacionária de 7m³ é a solução de máxima capacidade projetada para atender construtoras, galpões industriais e grandes polos comerciais em Guarulhos, SP.

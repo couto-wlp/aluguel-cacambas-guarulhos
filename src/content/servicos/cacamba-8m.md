@@ -8,6 +8,7 @@ specs:
   largura: "1,85 m"
   comprimento: "3,40 m"
   volume: "8m³"
+  quantidade: "≈ 160 carrinhos ou 440 latas de 18 L"
 ---
 
 Quando o projeto exige espaço máximo para o descarte de resíduos, a caçamba estacionária de 8m³ é a escolha definitiva. Atendendo construtoras, indústrias e grandes canteiros de demolição em Guarulhos, este equipamento foi projetado para suportar operações intensas e contínuas.

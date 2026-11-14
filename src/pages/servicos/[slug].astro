@@ -111,11 +111,14 @@ const pageTitle = servico.data.seoTitle || `Aluguel de ${servico.data.title} em 
 
                   {servico.data.specs.quantidade && (
                     <div>
-                      <span class="text-[11px] md:text-[12px] font-semibold text-gray-400 uppercase tracking-widest block mb-1">Quantidade</span>
+                      <span class="text-[11px] md:text-[12px] font-semibold text-gray-400 uppercase tracking-widest block mb-1">Capacidade aproximada</span>
                       <span class="text-lg sm:text-xl font-bold text-gray-900">{servico.data.specs.quantidade}</span>
                     </div>
                   )}
                 </div>
+                <p class="mt-6 text-xs text-gray-500 leading-relaxed">
+                  As equivalências são estimativas volumétricas. A quantidade real varia conforme as dimensões do carrinho, o nível de enchimento, a acomodação e o tipo de material. Resíduos densos podem atingir o limite operacional antes de preencher todo o volume.
+                </p>
               </div>
             </div>
           )}

@@ -8,6 +8,7 @@ specs:
   largura: "1,75 m"
   comprimento: "2,60 m"
   volume: "4m³"
+  quantidade: "≈ 80 carrinhos ou 220 latas de 18 L"
 ---
 
 A caçamba de 4m³ é uma opção compacta para pequenas e médias obras, reparos residenciais e descarte de entulhos em **Guarulhos**.
