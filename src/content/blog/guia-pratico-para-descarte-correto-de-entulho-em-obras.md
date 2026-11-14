@@ -2,6 +2,7 @@
 title: "Guia Prático para Descarte Correto de Entulho em Obras"
 description: "Aprenda a separar, acondicionar, transportar e destinar resíduos da construção civil de forma segura, com orientações específicas para obras em Guarulhos."
 publishDate: 2026-10-04
+updatedDate: 2026-11-14
 image: "/images/aluguel-cacamba-entulho-guarulhos-solucao.webp"
 canonical: "https://www.centraldacacamba.com.br/guia-pratico-para-descarte-correto-de-entulho-em-obras"
 ---

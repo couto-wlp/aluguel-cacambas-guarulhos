@@ -2,6 +2,7 @@
 title: "Locação de Caçamba para Madeira e MDF em Guarulhos - SP"
 description: "Alugue caçamba em Guarulhos para madeira, MDF e móveis desmontados. Consulte materiais aceitos, separação e disponibilidade de atendimento."
 publishDate: 2026-09-20
+updatedDate: 2026-11-14
 image: "/images/cacamba-madeira-mdf.webp"
 ---
 

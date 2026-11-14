@@ -1,0 +1,33 @@
+---
+interface Props {
+  posts: any[];
+}
+
+const { posts } = Astro.props;
+const getPostPath = (slug: string) => slug === 'guia-pratico-para-descarte-correto-de-entulho-em-obras'
+  ? `/${slug}`
+  : `/blog/${slug}`;
+---
+
+{posts.length > 0 && (
+  <section class="mt-16" aria-labelledby="related-posts-title">
+    <h2 id="related-posts-title" class="text-2xl md:text-3xl font-black text-gray-900 mb-8">
+      Conteúdos relacionados
+    </h2>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      {posts.map(post => (
+        <a href={getPostPath(post.slug)} class="group bg-white rounded-2xl border border-gray-200 overflow-hidden hover:border-primary hover:-translate-y-1 transition-all shadow-sm">
+          {post.data.image && (
+            <img src={post.data.image} alt="" width="400" height="220" loading="lazy" decoding="async" class="w-full h-36 object-cover" />
+          )}
+          <div class="p-6">
+            <h3 class="font-black text-gray-900 group-hover:text-yellow-600 transition-colors leading-tight">
+              {post.data.title}
+            </h3>
+            <span class="inline-block mt-4 text-sm font-bold text-yellow-600">Ler conteúdo →</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
+)}

@@ -6,6 +6,7 @@ const blogCollection = defineCollection({
     title: z.string(),
     description: z.string(),
     publishDate: z.date(),
+    updatedDate: z.date().optional(),
     image: z.string().optional(),
     canonical: z.string().optional(),
   }),
@@ -43,5 +44,4 @@ export const collections = {
   'servicos': servicosCollection,
   'bairros': bairrosCollection,
 };
-
 

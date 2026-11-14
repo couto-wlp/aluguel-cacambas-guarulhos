@@ -2,6 +2,7 @@
 title: "Aluguel de Caçamba para Gesso e Drywall em Guarulhos SP"
 description: "Aluguel de caçamba para gesso e drywall em Guarulhos, SP. Veja como separar o material, evitar contaminação e verificar a documentação aplicável."
 publishDate: 2026-09-20
+updatedDate: 2026-11-14
 image: "/images/cacamba-gesso-drywall.webp"
 ---
 

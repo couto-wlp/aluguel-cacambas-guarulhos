@@ -2,6 +2,7 @@
 title: "Locação de Caçamba para Resíduo Industrial em Guarulhos"
 description: "Alugue caçambas para materiais comerciais, recicláveis e resíduos industriais não perigosos em Guarulhos. Consulte materiais aceitos e documentação."
 publishDate: 2026-09-20
+updatedDate: 2026-11-14
 image: "/images/cacamba-residuo-industrial.webp"
 ---
 

@@ -2,6 +2,7 @@
 title: "Caçamba para Entulho de Jardinagem e Podas em Guarulhos"
 description: "Caçamba para galhos, folhas e restos de poda em Guarulhos. Consulte materiais aceitos, separação necessária e disponibilidade."
 publishDate: 2026-09-20
+updatedDate: 2026-11-14
 image: "/images/cacamba-jardinagem-podas.webp"
 ---
 

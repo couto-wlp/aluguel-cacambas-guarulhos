@@ -22,6 +22,8 @@ export const SITE_CONFIG = {
   
   email: 'contato@centraldacacamba.com.br',
 
+  authorName: 'Equipe Central da Caçamba',
+
   openingHours: '24 horas, 7 dias por semana',
   
   // Redes Sociais (se houver)

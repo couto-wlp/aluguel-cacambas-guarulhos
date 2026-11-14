@@ -1,6 +1,9 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import BlogPostSchema from '../../components/BlogPostSchema.astro';
+import RelatedBlogPosts from '../../components/RelatedBlogPosts.astro';
+import { SITE_CONFIG } from '../../data/config';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -16,19 +19,46 @@ export const prerender = true;
 
 const { post } = Astro.props;
 const { Content } = await post.render();
+const postPath = `/blog/${post.slug}`;
+const relatedPosts = (await getCollection('blog'))
+  .filter(item => item.slug !== post.slug)
+  .sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime())
+  .slice(0, 3);
+const formatDate = (date: Date) => date.toLocaleDateString('pt-BR', { timeZone: 'UTC' });
 
 ---
 
 <Layout title={post.data.title} description={post.data.description} canonicalUrl={post.data.canonical}>
+  <BlogPostSchema
+    title={post.data.title}
+    description={post.data.description}
+    path={postPath}
+    image={post.data.image}
+    publishDate={post.data.publishDate}
+    updatedDate={post.data.updatedDate}
+  />
   
   <section class="py-24 md:py-32 bg-gray-50 min-h-screen">
     <div class="container mx-auto px-6 md:px-12 max-w-7xl">
+      <nav aria-label="Breadcrumb" class="mb-10 text-sm text-gray-600">
+        <ol class="flex flex-wrap items-center gap-2">
+          <li><a href="/" class="hover:text-yellow-600">Início</a></li>
+          <li aria-hidden="true">/</li>
+          <li><a href="/blog" class="hover:text-yellow-600">Blog</a></li>
+          <li aria-hidden="true">/</li>
+          <li class="text-gray-900 font-semibold" aria-current="page">{post.data.title}</li>
+        </ol>
+      </nav>
       
       <!-- Cabeçalho do Post -->
       <header class="mb-16 text-center max-w-4xl mx-auto">
-        <p class="text-secondary font-black mb-4 uppercase tracking-wider text-sm hover:scale-105 transition-transform inline-block">
-          {post.data.publishDate.toLocaleDateString('pt-BR', { year: 'numeric', month: 'long', day: 'numeric' })}
-        </p>
+        <div class="text-secondary font-bold mb-4 text-sm flex flex-wrap justify-center gap-x-3 gap-y-1">
+          <span>Por {SITE_CONFIG.authorName}</span>
+          <span aria-hidden="true">•</span>
+          <time datetime={post.data.publishDate.toISOString()}>Publicado em {formatDate(post.data.publishDate)}</time>
+          {post.data.updatedDate && <span aria-hidden="true">•</span>}
+          {post.data.updatedDate && <time datetime={post.data.updatedDate.toISOString()}>Atualizado em {formatDate(post.data.updatedDate)}</time>}
+        </div>
         <h1 class="text-4xl sm:text-5xl md:text-6xl font-black text-gray-900 mb-6 tracking-tighter leading-tight">
           {post.data.title}
         </h1>
@@ -87,6 +117,7 @@ const { Content } = await post.render();
         </aside>
 
       </div>
+      <RelatedBlogPosts posts={relatedPosts} />
     </div>
   </section>
 </Layout>

@@ -2,6 +2,7 @@
 title: "Caçamba para Entulho de Obras e Alvenaria em Guarulhos"
 description: "Coleta de entulho de alvenaria em Guarulhos. Consulte caçambas, separação de materiais, disponibilidade e documentação aplicável."
 publishDate: 2026-09-20
+updatedDate: 2026-11-14
 image: "/images/cacamba-entulho-alvenaria.webp"
 ---
 

@@ -5,6 +5,12 @@ import { getCollection } from 'astro:content';
 const posts = await getCollection('blog');
 // Ordenar por data mais recente
 posts.sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime());
+const formatLongDate = (date: Date) => date.toLocaleDateString('pt-BR', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+  timeZone: 'UTC',
+});
 ---
 
 <Layout
@@ -36,7 +42,7 @@ posts.sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime()
                   </div>
                 )}
                 <span class="text-sm font-bold text-primary mb-4">
-                  {post.data.publishDate.toLocaleDateString('pt-BR', { year: 'numeric', month: 'long', day: 'numeric' })}
+                  {formatLongDate(post.data.publishDate)}
                 </span>
                 <h2 class="text-2xl font-black text-gray-900 mb-4 group-hover:text-secondary transition-colors">
                   {post.data.title}
