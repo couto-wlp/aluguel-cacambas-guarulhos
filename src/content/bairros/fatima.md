@@ -16,7 +16,7 @@ Ao locar uma de nossas caçambas, você confina toda a sujeira em uma caixa esta
 
 ## Serviço Legalizado: A Garantia do Seu Sossego
 
-Reformar a casa deve ser motivo de alegria, não de preocupação jurídica. A prefeitura de Guarulhos é muito rigorosa quanto à destinação de Resíduos da Construção Civil (RCC). Contratar carroceiros ou empresas clandestinas de caçamba para retirar seu entulho pode resultar no descarte do material em terrenos baldios próximos à rodovia, o que invariavelmente gerará multas aplicadas no seu IPTU.
+Reformar a casa deve ser motivo de alegria, não de preocupação com a destinação dos resíduos. Contratar transportadores sem identificação ou documentação aumenta o risco de descarte irregular. Por isso, confirme previamente quais materiais serão aceitos, como será feito o transporte e qual comprovante de destinação será fornecido.
 
 Conosco, a sua segurança é garantida. Atuamos de forma 100% legalizada e credenciada. Todo o entulho retirado da sua casa na Vila Fátima ganha um destino ecológico e responsável. Levamos os detritos para estações de reciclagem licenciadas, onde restos de construção viram insumos para novas obras. Comprovamos essa destinação limpa entregando em suas mãos o CTR (Controle de Transporte de Resíduos).
 

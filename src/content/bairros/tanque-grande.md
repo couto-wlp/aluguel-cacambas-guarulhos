@@ -18,7 +18,7 @@ Nossa empresa disponibiliza caçambas estacionárias feitas de chapas de aço re
 
 Por ter áreas abertas e menor densidade de moradias por metro quadrado, o Tanque Grande atrai frequentemente transportadores clandestinos que tentam descartar entulho em encostas e matagais. Essa ação predatória causa erosão no solo, polui nascentes e gera pesadas multas para os proprietários que contratam serviços piratas, uma vez que a responsabilidade sobre o resíduo é compartilhada pela legislação ambiental.
 
-Ao contratar nossa locação, você ajuda a preservar o ecossistema do Tanque Grande. Somos uma empresa homologada pelas autoridades municipais e ambientais. Todo o entulho retirado do seu lote é encaminhado exclusivamente para usinas de triagem e aterros de inertes credenciados, onde o material é reciclado em agregados ecológicos. Entregamos a você o laudo oficial CTR (Controle de Transporte de Resíduos), documento que comprova o cumprimento de todas as obrigações ecológicas da sua obra.
+Ao contratar a locação, informe o tipo de material e as condições de acesso ao lote. Os resíduos aceitos são encaminhados a unidades licenciadas de triagem, reciclagem ou destinação, conforme sua classificação. A documentação aplicável ao transporte ajuda a manter a rastreabilidade da retirada.
 
 ## Recomendações Essenciais para o Carregamento
 
@@ -29,6 +29,10 @@ Para garantir um transporte seguro nas estradas sinuosas do Tanque Grande, solic
 **Sem Carga Excessiva:** O material mineral não pode ultrapassar o nível das laterais da caixa. A terra carregada acima da borda cai durante as subidas e curvas das estradas rurais, criando poeira excessiva e riscos aos veículos locais.
 
 **Proibição de Tóxicos:** Não descarte latas de pesticidas, restos de óleo queimado, carcaças de bateria ou lixo doméstico. Nossas caçambas são reservadas exclusivamente para inertes e resíduos vegetais limpos.
+
+## Planejamento de Rota para o Tanque Grande
+
+O [Observatório municipal](https://observatorio.guarulhos.sp.gov.br/content/guarulhos) registra 149 moradores no Tanque Grande, uma das menores populações entre as regiões administrativas de Guarulhos. Para reduzir erros de rota, envie a localização compartilhada, um ponto de referência e fotos do acesso. A equipe precisa saber se há trecho de terra, subida acentuada, ponte estreita, vegetação baixa sobre a via ou espaço insuficiente para manobra. Depois de chuva forte, confirme novamente as condições da estrada antes da entrega.
 
 ## O Melhor Custo-Benefício para Sua Chácara ou Lote
 

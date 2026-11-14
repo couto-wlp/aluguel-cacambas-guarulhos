@@ -16,9 +16,9 @@ Nós possuímos caçambas estacionárias extremamente reforçadas, perfeitas par
 
 ## Protegendo a Natureza Local e Evitando Multas
 
-O Jardim Fortaleza possui o privilégio de estar próximo a belas reservas naturais. Infelizmente, empresas clandestinas se aproveitam de locais mais afastados para realizar o crime do descarte irregular. Se você alugar uma caçamba pirata e o seu entulho for jogado na beira de um córrego do bairro, a polícia ambiental multará diretamente o proprietário da obra.
+O Jardim Fortaleza está próximo de áreas verdes, o que torna ainda mais importante evitar o descarte irregular em terrenos, margens de córregos e vias afastadas. Antes de contratar, verifique a identificação do transportador e solicite a documentação aplicável ao transporte e à destinação dos resíduos.
 
-Com os nossos serviços, você tem proteção total. Somos uma empresa certificada pelos órgãos de zeladoria de Guarulhos. Garantimos que 100% da terra e do entulho que sai do seu terreno no Jardim Fortaleza será direcionado para aterros sanitários legalizados e áreas de transbordo registradas. Fornecemos o Controle de Transporte de Resíduos (CTR) para cada caçamba retirada, garantindo que o seu loteamento cresça com responsabilidade ambiental e dentro da lei.
+Nosso atendimento é planejado para encaminhar os materiais aceitos a unidades licenciadas de triagem, reciclagem ou destinação. Para cada retirada, fornecemos a documentação aplicável ao serviço, permitindo acompanhar a origem, o transporte e o destino informado dos resíduos.
 
 ## Como Encher Sua Caçamba com Segurança
 

@@ -18,7 +18,7 @@ Nossa equipe domina essa operação. Planejamos a entrega do equipamento no hor�
 
 Hoje em dia, a grande maioria dos condomínios residenciais e comerciais do Macedo não permite que reformas comecem sem que o prestador de descarte de entulho apresente documentação regular. Isso ocorre porque o condomínio é corresponsável pelo lixo gerado em suas dependências.
 
-Nós solucionamos toda a burocracia para você. Somos homologados pela Prefeitura Municipal de Guarulhos e licenciados nos órgãos estaduais. Ao contratar o nosso aluguel, fornecemos o Controle de Transporte de Resíduos (CTR) em seu nome ou no da sua empresa. Esse laudo prova à administração do seu prédio que o entulho — sejam canos velhos, porcelanatos ou argamassa — foi encaminhado para estações de reciclagem ou aterros sanitários autorizados, livre de passivos ambientais.
+Orientamos o cliente sobre a documentação aplicável ao serviço e fornecemos o Controle de Transporte de Resíduos (CTR), quando previsto para a operação. Esse registro ajuda a demonstrar à administração do prédio o transporte e o destino informado do entulho. Consulte o condomínio antes da entrega, pois autorizações e horários variam entre edifícios.
 
 ## Regras Para Uso em Vias de Alto Fluxo
 

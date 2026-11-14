@@ -58,7 +58,9 @@ const description = "Entregamos sua caçamba rapidamente em todos os bairros de 
                 <span class="text-xs font-bold text-gray-400 uppercase tracking-wider mb-3">Atendimento em Guarulhos</span>
                 
                 <h3 class="text-[18px] md:text-[22px] font-bold text-gray-900 leading-tight mb-4">
-                  Aluguel de Caçamba no {bairro.data.name} | Guarulhos - SP
+                  <a href={`/bairros/${bairro.slug}`} class="hover:text-yellow-500 transition-colors">
+                    Aluguel de Caçamba no {bairro.data.name} | Guarulhos - SP
+                  </a>
                 </h3>
 
                 {bairro.data.description && (

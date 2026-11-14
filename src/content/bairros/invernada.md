@@ -18,7 +18,7 @@ Nossas caçambas estacionárias fornecem o isolamento perfeito para os resíduos
 
 Gerir resíduos de forma responsável é um dever de todos. Se você entregar o entulho da sua casa a carroceiros ou empresas sem licenciamento, o risco desse material ser despejado em margens de rodovias ou áreas verdes periféricas é enorme. Esse ato gera multas altas e dores de cabeça judiciais para quem contratou o serviço irregular.
 
-Conosco, a segurança é absoluta. Somos uma empresa homologada pelas autoridades ambientais. Todo o entulho retirado do bairro Invernada é categorizado e transportado para áreas de triagem autorizadas. Materiais inertes (como pedaços de tijolo e concreto) são moídos para se transformarem em brita reciclada. E para atestar a legalidade da sua obra perante a prefeitura, fornecemos o CTR (Controle de Transporte de Resíduos) de forma automática.
+No atendimento ao Invernada, orientamos a separação dos materiais e encaminhamos os resíduos aceitos a unidades licenciadas de triagem ou destinação. O CTR (Controle de Transporte de Resíduos), quando aplicável ao serviço, registra a movimentação e ajuda o cliente a manter o histórico documental da obra.
 
 ## Instruções Importantes de Uso da Caçamba
 

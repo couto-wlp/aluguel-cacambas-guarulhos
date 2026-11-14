@@ -18,7 +18,7 @@ Nossa empresa está estruturada para atender essas duas pontas com máxima efici
 
 Devido ao alto volume de resíduos gerados diariamente no Bonsucesso, o gerenciamento ambiental precisa ser impecável. O descarte clandestino de restos de construção em vias isoladas, terrenos baldios próximos à rodovia ou em áreas verdes do distrito é um crime ambiental severo. A fiscalização municipal é ativa e as multas recaem diretamente sobre o proprietário do imóvel ou da empresa que gerou o lixo.
 
-Temos orgulho de ser uma prestadora de serviços integralmente regularizada perante a Prefeitura Municipal de Guarulhos e os órgãos ambientais estaduais (como a Cetesb). Todo o entulho coletado pelas nossas caçambas — seja asfalto, concreto, madeira, ferragens ou terra de escavação — é transportado, sob rígido protocolo de segurança, para usinas de reciclagem de inertes ou aterros sanitários autorizados. Para sua total segurança jurídica, emitimos o CTR (Controle de Transporte de Resíduos), documento que isenta sua obra de qualquer passivo ambiental.
+Temos orgulho de atuar de forma regularizada perante os órgãos competentes. Os resíduos aceitos em cada locação são encaminhados a unidades de triagem, reciclagem ou destinação licenciadas, conforme o tipo de material. O CTR (Controle de Transporte de Resíduos) registra o transporte e contribui para a rastreabilidade da destinação, mas não substitui as demais obrigações do gerador da obra.
 
 ## Cuidados e Regras de Utilização da Caçamba
 

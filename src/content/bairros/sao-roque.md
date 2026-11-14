@@ -18,7 +18,7 @@ Nossa empresa conta com caçambas estacionárias estruturadas em aço espesso re
 
 Por ser uma região próxima a zonas verdes e mananciais, o descarte clandestino de entulho no São Roque é uma infração grave fiscalizada de perto pelos órgãos ambientais de Guarulhos. Contratar empresas sem alvará ou carroceiros informais coloca o proprietário do imóvel na rota de multas severas, pois a legislação municipal responsabiliza o gerador do resíduo de forma solidária.
 
-Conosco, a sua tranquilidade é garantida. Operamos com cadastro ativo e licenciamento formal junto às autoridades ambientais. Todo o material inerte recolhido na sua propriedade é destinado a Áreas de Transbordo e Triagem (ATT) e aterros homologados. Nesses centros, o concreto e os blocos são moídos para reciclagem, transformando-se em agregados para novas obras. Para formalizar essa destinação ecológica, emitimos o Controle de Transporte de Resíduos (CTR), o laudo oficial que comprova a total lisura da sua construção perante a prefeitura.
+Antes da entrega, avaliamos o tipo de material e as condições de acesso ao imóvel. Os resíduos aceitos são encaminhados a unidades licenciadas de triagem, reciclagem ou destinação. O CTR registra a movimentação e ajuda a manter o histórico documental da obra.
 
 ## Diretrizes para o Uso Seguro da Caçamba
 

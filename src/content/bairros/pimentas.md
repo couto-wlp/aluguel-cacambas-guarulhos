@@ -18,7 +18,7 @@ Nossa empresa tem a estrutura necessária para dar vazão a todo esse volume. No
 
 Devido ao tamanho da região, os Pimentas sofrem constantemente com a ação de "caçambeiros piratas". Eles cobram pouco, mas cometem crimes ambientais despejando restos de obras em estradas de terra e áreas descampadas. O proprietário da obra, ao contratar esse serviço, torna-se judicialmente responsável pelo crime ambiental caso o lixo seja rastreado.
 
-Com os nossos serviços, você está 100% blindado. Atuamos com licenciamento pleno em Guarulhos. A terra e os blocos que tiramos do seu loteamento recebem tratamento responsável, sendo destinados a aterros credenciados ou usinas de reciclagem. Fornecemos a você o comprovante dessa operação: o laudo CTR (Controle de Transporte de Resíduos). Sua obra fica limpa, legalizada e livre de pesadelos com fiscais.
+Atuamos com a documentação aplicável ao transporte e encaminhamos os materiais aceitos a unidades licenciadas, conforme a classificação dos resíduos. O CTR (Controle de Transporte de Resíduos) registra a movimentação e ajuda o cliente a organizar a documentação da obra.
 
 ## Instruções Essenciais Para o Uso Seguro
 

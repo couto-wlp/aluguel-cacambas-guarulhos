@@ -18,7 +18,7 @@ Nossa equipe está amplamente familiarizada com as regras de trânsito e o fluxo
 
 A fiscalização de resíduos sólidos em bairros comerciais de Guarulhos é permanente. Contratar soluções baratas de transportadores clandestinos representa um risco jurídico imenso. Quando o entulho de uma loja ou sobrado é descarregado ilegalmente nas margens de córregos da cidade, a fiscalização rastreia a nota ou recibos da obra e penaliza o proprietário do estabelecimento.
 
-Nossa empresa elimina qualquer risco legal. Possuímos alvará e todas as licenças dos órgãos ambientais de Guarulhos e do Estado. Todo o resíduo mineral retirado da sua reforma no Taboão é transportado com segurança para aterros e usinas de reciclagem licenciadas pela Cetesb. Emitimos em todas as locações o CTR (Controle de Transporte de Resíduos), documento indispensável para comprovar a destinação sustentável dos materiais inertes da sua construção.
+Nossa equipe orienta o cliente sobre materiais aceitos, limite de carga e documentação aplicável. Os resíduos minerais retirados são encaminhados a unidades licenciadas de triagem, reciclagem ou destinação. O CTR registra o transporte e ajuda a documentar a operação.
 
 ## Regras Práticas para uma Locação Sem Imprevistos
 

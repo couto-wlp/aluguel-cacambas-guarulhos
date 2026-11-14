@@ -18,7 +18,7 @@ Nossa frota de caminhões poli-guindastes é operada por motoristas experientes,
 
 Ao contratar um serviço de remoção de entulho, a responsabilidade ambiental é solidária. Isso significa que, se um transportador irregular jogar o lixo da sua casa em uma praça ou terreno baldio, a multa aplicada pelas autoridades recairá sobre você.
 
-Nós oferecemos total paz de espírito. Somos uma empresa rigorosamente licenciada e homologada pelos órgãos ambientais e de fiscalização de Guarulhos. A madeira, o gesso e a alvenaria retirados da sua residência no Paraventi são levados diretamente para usinas de reciclagem e aterros licenciados. Para oficializar esse descarte limpo, entregamos a você o Controle de Transporte de Resíduos (CTR). Esse laudo atesta que a sua obra é amiga do meio ambiente.
+Orientamos a separação dos materiais antes da retirada, pois madeira, gesso e alvenaria podem exigir tratamentos diferentes. Os resíduos aceitos são encaminhados a unidades licenciadas de triagem ou destinação. O CTR registra o transporte e contribui para a rastreabilidade do serviço.
 
 ## Cuidados Para Uma Remoção Sem Atrasos
 

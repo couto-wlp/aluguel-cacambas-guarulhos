@@ -30,6 +30,10 @@ Para garantir que a operação de retirada do entulho ocorra sem contratempos, o
 
 **Triagem no Local:** Utilize a caçamba apenas para materiais da construção (madeira de demolição, tijolos, cimento, poda). É proibido misturar lixo orgânico doméstico aos resíduos da obra.
 
+## Confirmação de Rota e Condições de Acesso
+
+O [Observatório de Políticas Públicas de Guarulhos](https://observatorio.guarulhos.sp.gov.br/content/guarulhos) lista o Cabuçu entre as regiões mais populosas do município, com 78.035 moradores na tabela divulgada. Em uma área extensa, o nome do bairro sozinho não é suficiente para planejar a entrega. Envie o endereço completo, um ponto de referência e informações sobre pavimentação, largura da rua, inclinação e espaço para o caminhão manobrar. Para terra e materiais muito pesados, informe também a origem e o volume estimado antes de escolher a caçamba.
+
 ## Agende Sua Caçamba com Segurança e Rapidez
 
 Construir sua casa ou chácara no Cabuçu é um grande projeto de vida. Não deixe que o acúmulo de sujeira e resíduos atrapalhe o andamento desse sonho. Oferecemos um atendimento rápido, frota vistoriada, motoristas cordiais e o melhor custo-benefício de toda a região de Guarulhos.

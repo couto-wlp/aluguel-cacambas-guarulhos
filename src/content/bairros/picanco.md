@@ -18,7 +18,7 @@ Nós somos especialistas nesse tipo de operação. Para os clientes de condomín
 
 Em áreas de alto padrão, a exigência de compliance (estar de acordo com as leis) é rigorosa. Praticamente todas as administradoras de condomínios do Picanço exigem que o morador apresente documentação de empresas legalizadas antes de iniciar uma demolição.
 
-Nós fornecemos exatamente essa garantia. Somos homologados pela prefeitura de Guarulhos e licenciados nos órgãos estaduais. Ao realizar o recolhimento do seu entulho, geramos e entregamos o CTR (Controle de Transporte de Resíduos). Com ele, você prova à administração do seu prédio e aos órgãos de fiscalização que seus pisos velhos e paredes de gesso foram enviados para reciclagem e aterros licenciados, livrando-se de qualquer risco de autuação.
+Ao realizar o recolhimento, fornecemos a documentação aplicável ao transporte, incluindo o CTR quando previsto para a operação. Esse registro ajuda a administração do prédio e o responsável pela obra a acompanhar o destino informado dos materiais. Pisos, gesso e outros resíduos devem ser declarados antes da contratação para receberem a orientação correta.
 
 ## Regras Simples Para Garantir a Eficiência
 

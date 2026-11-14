@@ -18,7 +18,7 @@ Nossas caçambas de aço são severamente reforçadas para não empenarem ao rec
 
 Indústrias multinacionais e grandes transportadoras que atuam em Guarulhos respondem a auditorias rigorosas e metas de sustentabilidade (como a ISO 14001). Todo resíduo gerado deve ser mapeado, desde a sua remoção até o seu destino final. A contratação de transportadores informais é impossível nesse cenário.
 
-Nossa empresa é o parceiro B2B ideal. Atendemos integralmente a legislação municipal e estadual (Cetesb) para o transporte de resíduos sólidos classe A, B e C. O entulho recolhido da sua planta industrial no Sadokim é direcionado para aterros de triagem homologados. Para resguardar juridicamente o seu CNPJ, entregamos pontualmente o documento CTR (Controle de Transporte de Resíduos), garantindo a rastreabilidade e a transparência total que o seu departamento ambiental exige.
+Para demandas empresariais no Sadokim, identificamos previamente a classe, o volume e as restrições do material. Resíduos industriais ou perigosos não devem ser colocados em uma caçamba comum sem avaliação. Para as cargas aceitas, fornecemos a documentação aplicável ao transporte, contribuindo para a rastreabilidade e os controles internos do cliente.
 
 ## Restrições Críticas Para o Descarte Industrial
 

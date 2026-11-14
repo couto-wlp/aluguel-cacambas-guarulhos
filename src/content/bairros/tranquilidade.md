@@ -18,7 +18,7 @@ A locação de nossas caçambas estacionárias elimina esses problemas no mesmo 
 
 A prefeitura de Guarulhos mantém equipes ativas fiscalizando o transporte e a destinação de Resíduos da Construção Civil (RCC). Alugar caçambas com empresas que não possuem alvará ou autorização ambiental é arriscado, pois o proprietário da casa é legalmente responsabilizado pelo entulho caso ele seja encontrado em lixões clandestinos.
 
-Conosco, você conta com proteção e conformidade legal de ponta a ponta. Nossa frota é totalmente cadastrada e regulamentada. O material descartado na sua residência no Tranquilidade é transportado para unidades de triagem e reciclagem credenciadas pela Cetesb, onde tijolos e concreto são convertidos em agregados reciclados. Para certificar todo o processo, entregamos ao final o Controle de Transporte de Resíduos (CTR), laudo que isenta sua obra de quaisquer penalidades ambientais.
+Nossa equipe orienta a separação e o carregamento dos materiais aceitos. Após a retirada, os resíduos são encaminhados a unidades licenciadas de triagem, reciclagem ou destinação. O CTR registra a movimentação e ajuda a documentar o serviço, sem substituir as demais responsabilidades do gerador da obra.
 
 ## Dicas para Encher a Caçamba Corretamente
 

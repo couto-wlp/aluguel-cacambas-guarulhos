@@ -32,6 +32,6 @@ Para garantir que o fluxo de descarte ocorra sem nenhuma notificação ou multa 
 
 ## Garanta Sua Locação e Cumpra o Prazo da Reforma
 
-Reformas em apartamentos sempre lidam com prazos curtíssimos para evitar conflitos prolongados com vizinhos. Não permita que a falta de um local para escoar o entulho paralise o trabalho dos seus profissionais. Conte com uma empresa que já atende o Parque CECAP com pontualidade suíça, caminhões limpos e motoristas treinados.
+Reformas em apartamentos costumam seguir horários e prazos definidos pelo condomínio. Não permita que a falta de um local para escoar o entulho paralise o trabalho dos profissionais. Antes da entrega, informe o acesso, a vaga autorizada e os horários do condomínio para planejarmos a operação com segurança.
 
 Faça o planejamento completo da sua reforma! Ligue para nossa central de atendimento ou envie uma mensagem agora mesmo, agende a chegada da sua caçamba e garanta que sua obra flua com organização e total respeito às leis do seu condomínio.

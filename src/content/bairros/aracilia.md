@@ -16,7 +16,7 @@ Temos capacidade estrutural para atender desde pequenas manutenções em pátios
 
 ## A Segurança Jurídica do Descarte Correto
 
-A confiabilidade é um dos pilares do conceito E-E-A-T estabelecido pelo Google, e no mundo real, ela se traduz em licenças e documentações em dia. Empresas instaladas no Aracília frequentemente passam por auditorias rigorosas (ISO 14001, por exemplo).
+A confiabilidade de um fornecedor de gestão de resíduos se demonstra com licenças válidas, documentação de transporte e destinação rastreável. Para empresas instaladas no Aracília, esses registros também ajudam na organização de auditorias e controles ambientais internos.
 
 Ao alugar uma caçamba conosco, sua empresa tem a garantia de estar trabalhando com um fornecedor 100% regularizado pela Prefeitura de Guarulhos e órgãos ambientais (como a Cetesb, no âmbito estadual, no controle de áreas de descarte). Fornecemos os comprovantes de destinação final ecológica (CTR), atestando que os resíduos classe A, B ou C foram encaminhados para reciclagem de inertes ou aterros autorizados, livrando sua empresa de passivos ambientais.
 

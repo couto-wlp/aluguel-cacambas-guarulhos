@@ -16,9 +16,9 @@ A nossa frota foi dimensionada para agir exatamente nesse cenário. Possuímos m
 
 ## Responsabilidade e o Documento de Descarte (CTR)
 
-Uma obra econômica não significa uma obra ilegal. É comum surgirem ofertas tentadoras de pessoas não habilitadas cobrando centavos para retirar o seu entulho no Jardim São João. O problema é que esse lixo será jogado em rios, encostas de morros ou terrenos próximos, e a Polícia Ambiental irá responsabilizar e multar o proprietário da casa em reforma.
+Uma obra econômica também precisa manter a destinação dos resíduos sob controle. Ofertas sem identificação do transportador, descrição do serviço ou comprovante de destinação merecem atenção, pois o descarte irregular pode trazer impactos ambientais e responsabilidades ao gerador.
 
-Ao escolher a nossa locação, você não corre nenhum risco legal. Trabalhamos exclusivamente dentro das normas da Prefeitura de Guarulhos. As tábuas velhas, o ferro e o cimento retirados do seu imóvel são depositados em locais ecologicamente legalizados de reciclagem. Como prova da nossa seriedade, você recebe o CTR (Controle de Transporte de Resíduos) impresso, que é a segurança definitiva contra autuações ambientais.
+Ao escolher a nossa locação, você recebe orientação sobre materiais aceitos, limite de carga e documentação aplicável. Os resíduos são encaminhados a unidades licenciadas de triagem ou destinação. O CTR registra o transporte e deve ser guardado junto aos demais documentos da obra.
 
 ## Regras Simples Para Uma Locação Bem Sucedida
 

@@ -18,7 +18,7 @@ Do outro lado, atendemos as exigências residenciais e dos rígidos condomínios
 
 O intenso desenvolvimento da área ao redor da Dutra é vigiado de perto pelas secretarias de obras e meio ambiente. Contratar terceiros não regularizados para transportar entulho comercial ou residencial é assumir o risco de ter a obra embargada e sofrer sanções financeiras brutais.
 
-Nossa empresa blindará você contra esses problemas. Atuamos com licenciamento municipal completo e alvarás sempre em dia. Ao locar uma caçamba conosco, você tem a garantia assinada de que as portas velhas, restos de telhado, argamassa e gesso estão indo para áreas licenciadas de transbordo e reciclagem. A emissão do laudo CTR (Controle de Transporte de Resíduos) é automática e serve como a sua certidão de conformidade ambiental.
+Antes da locação, informe se haverá portas, restos de telhado, argamassa, gesso ou outros materiais que exijam separação. Os resíduos aceitos são encaminhados a unidades licenciadas de triagem ou destinação. O CTR, quando aplicável, registra o transporte e ajuda o cliente a acompanhar a operação.
 
 ## Regras Para Um Descarte Sem Problemas
 

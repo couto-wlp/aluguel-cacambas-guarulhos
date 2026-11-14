@@ -18,7 +18,7 @@ Nossa equipe está acostumada a atuar em regiões de ladeiras e vias residenciai
 
 Ao reformar a sua casa, a última coisa que você precisa é de uma notificação da prefeitura por descarte irregular. Contratar transportadores que despejam entulho nas redondezas por um preço muito baixo é crime. A lei municipal responsabiliza diretamente o dono da residência que gerou o resíduo.
 
-A nossa locação oferece proteção completa. Operamos com alvarás e somos homologados pelos órgãos ambientais. As portas antigas, as telhas quebradas, a areia e o concreto que retirarmos da sua casa no Monte Carmelo serão levados para usinas de reciclagem registradas, onde grande parte vira brita sustentável para novas construções. Para comprovar essa ação ecológica, nós entregamos a você o CTR (Controle de Transporte de Resíduos), garantindo a total legalidade da sua obra.
+Nossa locação inclui orientação sobre os materiais aceitos e o limite seguro de carga. Os resíduos são encaminhados, conforme sua classificação, a unidades licenciadas de triagem, reciclagem ou destinação. O CTR (Controle de Transporte de Resíduos) registra a movimentação e ajuda o cliente a manter a documentação da obra organizada.
 
 ## Três Regras Para Uma Retirada Rápida
 

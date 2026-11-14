@@ -12,13 +12,13 @@ A Vila Rio de Janeiro (ou simplesmente Vila Rio) é um dos maiores vetores de ex
 
 Gerenciar o lixo de uma obra na Vila Rio requer inteligência. A maioria das reformas ocorre dentro de condomínios verticais com regulamentos bastante rigorosos. O zelador permite que o entulho desça apenas em horários específicos, e a caçamba tem data e hora certa para chegar e ir embora, ocupando vagas limitadas para prestadores de serviço.
 
-Nós dominamos essa rotina. Atendemos diariamente os edifícios e casas da região com pontualidade suíça. Nossos motoristas estacionam as caçambas estacionárias nas vias com intenso movimento ou nas vagas demarcadas pelos síndicos de forma extremamente cautelosa, garantindo a segurança dos carros vizinhos e a não obstrução das vias arteriais do bairro.
+Para planejar o atendimento em edifícios e casas da região, pedimos que o cliente informe antecipadamente a vaga disponível, os horários do condomínio e eventuais restrições de acesso. Com esses dados, a equipe organiza a entrega e a retirada com menor impacto para moradores, pedestres e veículos.
 
 ## Descarte Certificado (CTR) e Proteção Contra Multas
 
 As administradoras de condomínios da Vila Rio de Janeiro exigem comprovação legal antes de autorizar qualquer quebra-quebra. Isso acontece porque a lei responsabiliza o proprietário do imóvel (e solidariamente o condomínio) pelo destino final do entulho da construção civil.
 
-Esqueça as dores de cabeça com documentação. Nós resolvemos isso para você. Operamos de forma estritamente legalizada, com alvará da prefeitura e credenciamento na Cetesb. Todo o entulho retirado do seu apartamento ou casa é levado para estações de reciclagem e áreas de transbordo ambientalmente seguras. Emitimos no ato a documentação exigida (Controle de Transporte de Resíduos - CTR), garantindo que a sua reforma respeita a ecologia de Guarulhos e atende a todas as exigências do seu síndico.
+Orientamos o cliente sobre os materiais aceitos e fornecemos a documentação aplicável ao transporte. Os resíduos retirados são encaminhados a unidades licenciadas de triagem, reciclagem ou destinação. Consulte também o regulamento do condomínio, pois cada administração pode exigir horários, autorizações e comprovantes específicos.
 
 ## Orientações Para Uso Rápido e Seguro
 

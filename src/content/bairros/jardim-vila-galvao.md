@@ -18,7 +18,7 @@ Ao alugar uma caçamba estacionária conosco, você elimina todos esses riscos. 
 
 A preservação das áreas verdes próximas ao Jardim Vila Galvão depende do descarte correto de resíduos. Existem "caçambeiros" piratas que recolhem o material a preços irrisórios e os jogam nas encostas ou rios da cidade. Ao ser pego, o dono da residência arca com as multas.
 
-Não corra esse risco. Somos uma transportadora de resíduos homologada pela prefeitura e pelas secretarias de meio ambiente. Todo o tijolo, reboco e madeira que sair da sua reforma será levado para unidades de triagem licenciadas. Ao nos contratar, você garante que sua obra contribui para a reciclagem na construção civil. Como prova do nosso trabalho correto, emitimos o CTR (Controle de Transporte de Resíduos), documento oficial que garante a lisura da sua reforma perante qualquer fiscalização municipal.
+Antes de contratar, confirme a identificação do transportador e a documentação oferecida. Os materiais aceitos na locação são encaminhados a unidades licenciadas de triagem, reciclagem ou destinação. O CTR (Controle de Transporte de Resíduos) registra o serviço e contribui para a rastreabilidade dos resíduos retirados da reforma.
 
 ## Como Encher a Caçamba da Forma Correta
 

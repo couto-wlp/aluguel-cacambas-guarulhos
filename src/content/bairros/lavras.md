@@ -16,9 +16,9 @@ Nossa empresa está amplamente capacitada para esse cenário. Utilizamos caçamb
 
 ## Descarte Legal: Protegendo Você e o Meio Ambiente
 
-A tentação de contratar um serviço não regulamentado pode ser grande, mas as consequências são desastrosas. O despejo clandestino de restos de construção e terra em terrenos baldios ou áreas de vegetação gera graves problemas de enchente e deslizamentos na periferia. Além disso, quando a polícia ambiental flagra a origem do material irregular, a multa chega ao proprietário da obra, atrasando a construção do seu sonho.
+Contratar um serviço sem identificação e documentação aumenta o risco de descarte clandestino de restos de construção e terra em terrenos baldios ou áreas de vegetação. O gerador deve acompanhar a destinação dos resíduos e guardar os comprovantes relacionados à contratação e ao transporte.
 
-Com a nossa locação, você dorme com a consciência tranquila. Operamos estritamente dentro da lei. Possuímos cadastro ativo nos órgãos de controle urbano de Guarulhos. Toda a terra, madeira, ferro e cimento coletados na sua obra no Lavras são levados para transbordos e aterros certificados pela Cetesb. A comprovação disso chega até você através do CTR (Controle de Transporte de Resíduos), garantindo proteção total contra autuações da prefeitura.
+Operamos com a documentação aplicável ao transporte e orientamos o cliente sobre os materiais aceitos. Os resíduos são encaminhados conforme sua classificação a unidades licenciadas de triagem ou destinação. O CTR ajuda a registrar o percurso do material, mas deve fazer parte de um conjunto de boas práticas da obra.
 
 ## Orientações Para Escavações e Grandes Obras
 

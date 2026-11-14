@@ -35,6 +35,10 @@ A experiência do cliente é a nossa prioridade. Sabemos que o cronograma de uma
 
 A entrega é programada de acordo com a sua necessidade. A caçamba deve ser posicionada em local seguro, respeitando o fluxo de veículos nas ruas do bairro e garantindo que o caminhão tenha espaço para manobra na hora da retirada. Em média, a caçamba pode ficar estacionada no local por até 3 a 7 dias, conforme a legislação de trânsito local.
 
+## Como Preparar a Entrega no Água Azul
+
+O [Observatório de Políticas Públicas de Guarulhos](https://observatorio.guarulhos.sp.gov.br/content/guarulhos) inclui o Água Azul na divisão administrativa do município e registra 2.200 moradores na tabela demográfica divulgada. Como os endereços podem ter acessos e características diferentes, envie a localização exata e, se possível, uma foto da rua e do ponto onde a caçamba deverá ficar. Informe também se há portão estreito, fiação baixa, trecho sem pavimentação ou espaço limitado para manobra. Esses dados permitem avaliar o acesso do caminhão antes da saída e evitam promessas de entrega incompatíveis com o local.
+
 ## Autoridade e Confiança para a sua Obra
 
 No mercado de aluguel de caçambas em Guarulhos, a confiança é construída com pontualidade e transparência. Somos uma empresa devidamente registrada e autorizada pelos órgãos competentes de limpeza urbana e meio ambiente. Emitimos o Controle de Transporte de Resíduos (CTR), um documento que comprova que você, como gerador do entulho, deu a destinação legal e ecológica ao material.

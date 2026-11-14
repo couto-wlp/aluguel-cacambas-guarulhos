@@ -18,7 +18,7 @@ A utilização de nossas caçambas estacionárias elimina o caos da sua obra ins
 
 Ao decidir locar uma caçamba, desconfie de preços muito abaixo da média de mercado. O descarte clandestino de lixo na periferia de Guarulhos é um problema sério, e a lei responsabiliza o contratante do serviço pirata pelas multas ambientais.
 
-Escolhendo a nossa empresa, você atua dentro da mais rigorosa lei. Somos homologados e credenciados pelos órgãos de fiscalização de resíduos. Todo o tijolo, barro, madeira de escoramento e telhas retirados da sua residência no Presidente Dutra serão levados para aterros ecológicos de transbordo e reciclagem de inertes. Como comprovante do nosso compromisso ecológico, fornecemos o CTR (Controle de Transporte de Resíduos), atestando a sua regularidade.
+Na contratação, informe se a carga terá tijolo, barro, madeira, telhas ou materiais misturados. Essa identificação permite orientar a separação e escolher a destinação compatível. A documentação aplicável ao transporte, como o CTR, ajuda a registrar a retirada e o destino informado dos resíduos.
 
 ## Cuidados Importantes no Carregamento
 

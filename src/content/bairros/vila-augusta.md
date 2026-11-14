@@ -14,7 +14,7 @@ Fazer uma reforma em um bairro nobre traz exigências rigorosas. Se você está 
 
 Além disso, as administradoras dos condomínios da região possuem horários estritos para a chegada de caçambas e para o transporte do entulho pelos elevadores de serviço. Nós somos especialistas em atuar sob essas regras. Nossos caminhões chegam no horário agendado com o seu zelador ou engenheiro. Posicionamos a caçamba estacionária com máxima suavidade, garantindo que o asfalto, o paisagismo do prédio e os veículos vizinhos fiquem totalmente protegidos.
 
-## Garantia Jurídica e Emissão de CTR Para Sua Obra
+## Documentação de Transporte e Destinação do Entulho
 
 Em bairros de alto padrão, a exigência pela legalidade é inegociável. Contratar "caçambeiros" irregulares é um risco financeiro e jurídico altíssimo. Se o entulho da sua obra for despejado de forma ilegal pela cidade, a prefeitura rastreará o material e a multa ambiental será aplicada diretamente ao dono do imóvel ou ao condomínio.
 

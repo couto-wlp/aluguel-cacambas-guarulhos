@@ -18,7 +18,7 @@ Nossas caçambas resolvem o problema de imediato, funcionando como caixas de con
 
 A fiscalização sobre geradores de lixo da construção em Guarulhos é extremamente rigorosa. Se o seu entulho for entregue a operadores informais, as chances desse material ser descartado ilegalmente nas margens da Dutra ou do Rio Tietê são enormes, gerando pesados processos ambientais contra o seu nome ou sua empresa.
 
-Trabalhando conosco, a segurança da sua obra é prioridade. Nós somos uma prestadora de transporte homologada e legalmente licenciada. O concreto, o ferro e o asfalto extraídos do seu projeto serão levados diretamente para estações de reciclagem e aterros de inertes. Para sua total tranquilidade e prestação de contas, emitimos sempre o CTR (Controle de Transporte de Resíduos), documento oficial exigido pelas autoridades ambientais.
+Na contratação, identifique previamente concreto, ferro, asfalto e outros materiais, pois cada classe pode exigir separação e destinação próprias. Os resíduos aceitos são encaminhados a unidades licenciadas, e a documentação aplicável ao transporte ajuda a manter a rastreabilidade e a prestação de contas da obra.
 
 ## Dicas Valiosas Para a Locação Perfeita
 

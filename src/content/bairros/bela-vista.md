@@ -28,6 +28,10 @@ Para que a locação seja um sucesso e você evite dores de cabeça com a fiscal
 * **Nível Máximo:** O entulho deve respeitar a borda da caixa metálica. Encher além do limite causa derramamento nas ruas do bairro durante o transporte, gerando risco de acidentes e multas.
 * **Conteúdo:** Restrinja-se a descartar resíduos inertes de construção. É expressamente proibido descartar lixo orgânico doméstico, lixo hospitalar, pneus e produtos químicos inflamáveis.
 
+## Planejamento de Vaga e Acesso no Bela Vista
+
+O [Observatório municipal](https://observatorio.guarulhos.sp.gov.br/content/guarulhos) registra 19.248 moradores no Bela Vista, reforçando o perfil residencial e a necessidade de organizar a ocupação da via. Antes da entrega, confirme se existe uma vaga livre, se o condomínio exige autorização e se o caminhão consegue se posicionar sem bloquear garagem, ponto de ônibus ou esquina. Enviar uma foto do local pelo WhatsApp ajuda a equipe a avaliar o espaço e orientar a posição mais segura para a caçamba.
+
 ## Chame os Especialistas em Remoção de Entulho
 
 Sua reforma no Bela Vista merece fluir sem estresse. Com o nosso serviço de aluguel de caçambas, você tem a certeza de um atendimento atencioso, preços competitivos e total respeito ao meio ambiente e à legislação da sua cidade.

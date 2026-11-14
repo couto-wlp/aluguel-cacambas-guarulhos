@@ -18,7 +18,7 @@ Por outro lado, para os moradores das ruas residenciais do Itapegica, nosso foco
 
 Contratar empresas irregulares para economizar alguns reais é um erro que custa muito caro. A fiscalização de Guarulhos é implacável com descartes ilegais, especialmente em áreas industriais e beiras de rodovia. A responsabilidade legal pelo lixo recai sobre quem o gerou.
 
-Nós oferecemos total segurança jurídica para a sua obra no Itapegica. Atuamos com todas as licenças municipais e ambientais vigentes. Todo o entulho recolhido é transportado diretamente para Estações de Transbordo e Triagem. Lá, os resíduos inertes (tijolo, cimento, cerâmica) são reciclados e transformados em insumos sustentáveis para pavimentação. Para formalizar esse processo, entregamos ao cliente o CTR (Controle de Transporte de Resíduos), laudo que isenta sua empresa ou residência de qualquer multa ou passivo ambiental.
+Atuamos com a documentação exigida para o transporte dos resíduos aceitos. O material recolhido é encaminhado a unidades licenciadas de triagem, reciclagem ou destinação, conforme sua classificação. O CTR registra essa movimentação e ajuda empresas e moradores a documentar a contratação, sem substituir as responsabilidades próprias do gerador da obra.
 
 ## Regras Para Um Descarte Rápido e Seguro
 

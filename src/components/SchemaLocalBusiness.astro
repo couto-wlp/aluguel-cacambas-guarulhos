@@ -8,7 +8,7 @@ const schema = {
   "image": `${SITE_CONFIG.siteUrl}/og-image.jpg`,
   "@id": SITE_CONFIG.siteUrl,
   "url": SITE_CONFIG.siteUrl,
-  "telephone": SITE_CONFIG.phones.landline,
+  "telephone": `+${SITE_CONFIG.phones.whatsapp}`,
   "address": {
     "@type": "PostalAddress",
     "streetAddress": SITE_CONFIG.address.streetAddress,
@@ -17,11 +17,11 @@ const schema = {
     "postalCode": SITE_CONFIG.address.postalCode,
     "addressCountry": SITE_CONFIG.address.addressCountry
   },
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": -23.472, // Exemplo genérico para Guarulhos Central
-    "longitude": -46.527
+  "areaServed": {
+    "@type": "City",
+    "name": "Guarulhos"
   },
+  "sameAs": [SITE_CONFIG.social.facebook],
   "openingHoursSpecification": {
     "@type": "OpeningHoursSpecification",
     "dayOfWeek": [

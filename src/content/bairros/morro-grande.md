@@ -18,7 +18,7 @@ Trabalhamos com caçambas estacionárias altamente resistentes, desenhadas para 
 
 Em bairros próximos à mata, a atuação de transportadores clandestinos é, lamentavelmente, uma praga urbana. Eles recolhem o entulho e o despejam impunemente em encostas, bloqueando nascentes e contaminando o solo do Morro Grande. A fiscalização da Polícia Militar Ambiental é severa na região, e quem contrata serviços irregulares responde diretamente pelo crime de contaminação.
 
-Conosco, a pureza da sua obra está assegurada. Somos uma transportadora autorizada e licenciada pelo município. Garantimos que 100% da terra e das pedras extraídas do seu terreno serão transportadas para aterros de inertes licenciados, fora de áreas de preservação. Emitimos o obrigatório Controle de Transporte de Resíduos (CTR) em nome do cliente. Essa documentação é o seu escudo contra qualquer autuação ambiental.
+Antes da contratação, avaliamos o tipo e o volume do material para definir a caçamba e a destinação compatíveis. Terra, pedras e resíduos de construção não devem ser misturados com lixo doméstico ou produtos perigosos. A documentação do transporte ajuda a manter a rastreabilidade, mas o cliente também deve respeitar as regras de separação e carregamento.
 
 ## Regras Para o Acondicionamento Seguro
 
@@ -29,6 +29,10 @@ Para que possamos realizar o transporte em vias acidentadas sem causar incidente
 **Equilíbrio de Carga:** Ao carregar troncos grossos ou grandes pedras, distribua-os pela caixa para manter o centro de gravidade equilibrado.
 
 **Respeito aos Resíduos:** A caixa deve conter apenas restos limpos de construção, galhos ou terra. Produtos inflamáveis, tóxicos ou lixo comum não são aceitos pelas normas dos aterros.
+
+## Entrega em Chácaras e Vias de Acesso Restrito
+
+O [Observatório de Políticas Públicas de Guarulhos](https://observatorio.guarulhos.sp.gov.br/content/guarulhos) identifica o Morro Grande como uma das regiões de menor população do município, com 335 moradores na tabela divulgada. Por isso, a localização compartilhada e um ponto de referência são especialmente úteis para planejar a rota. Informe se a estrada é pavimentada, se há aclive, ponte estreita, galhos baixos ou terreno instável. Em dias de chuva, as condições do acesso também podem alterar a possibilidade de entrada segura do caminhão.
 
 ## O Melhor Atendimento Para Chácaras e Terrenos
 

@@ -18,7 +18,7 @@ Com as nossas caçambas, esse risco deixa de existir. Nossos motoristas de camin
 
 Realizar obras de alto padrão exige garantias sólidas. A contratação de prestadores clandestinos não é uma opção na Vila Galvão. O despejo irregular de entulho suja a cidade e gera processos rigorosos contra o proprietário do imóvel, já que a origem do material pode ser facilmente rastreada.
 
-Ao locar conosco, a sua reforma está coberta juridicamente. Somos uma empresa homologada pelas autoridades ambientais e municipais de Guarulhos. Toda a madeira, concreto, gesso e cerâmica extraídos da sua demolição serão transportados para aterros e usinas de reciclagem licenciadas. E para que você tenha a prova física dessa destinação sustentável, nós emitimos e assinamos o seu Controle de Transporte de Resíduos (CTR) em cada locação.
+Ao solicitar a locação, informe se haverá madeira, concreto, gesso, cerâmica ou materiais misturados. Essa identificação ajuda a orientar a separação e a destinação compatível. A documentação aplicável ao transporte, incluindo o CTR quando previsto, registra a retirada e contribui para a rastreabilidade do serviço.
 
 ## Como Garantir o Recolhimento Ágil e Seguro
 

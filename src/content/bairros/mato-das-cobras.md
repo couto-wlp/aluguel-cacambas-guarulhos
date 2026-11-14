@@ -30,6 +30,10 @@ O transporte de material pesado requer atenção redobrada à segurança viária
 
 **Proibição Absoluta de Contaminantes:** A destinação de aterro limpo proíbe qualquer mistura com lixo residencial orgânico, óleos industriais ou resíduos tóxicos.
 
+## Avaliação do Acesso Antes da Entrega
+
+O [Observatório municipal de Guarulhos](https://observatorio.guarulhos.sp.gov.br/content/guarulhos) registra 12.355 moradores no Mato das Cobras. Para programar uma entrega nessa região, pedimos o endereço completo, localização compartilhada e fotos do acesso. Trechos com aclive, solo sem pavimentação, portões estreitos ou ausência de área para giro precisam ser avaliados antes do deslocamento. Em serviços com terra, pedras ou demolição pesada, o peso do material é mais importante que o volume aparente; descreva a carga para receber a indicação correta.
+
 ## Orçamento Para Grandes Volumes
 
 Se o seu projeto no Mato das Cobras envolve movimentação pesada, nós somos o parceiro logístico que garantirá o ritmo do seu canteiro de obras. Temos planos flexíveis para aluguéis de múltiplos equipamentos. Entre em contato agora, descreva a sua demanda de remoção e feche um orçamento com quem garante a produtividade da sua obra.

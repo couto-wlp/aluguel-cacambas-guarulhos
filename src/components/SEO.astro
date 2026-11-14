@@ -12,8 +12,19 @@ const {
   title = SITE_CONFIG.siteTitle,
   description = SITE_CONFIG.siteDescription,
   image = `${SITE_CONFIG.siteUrl}/og-image.jpg`,
-  canonicalUrl = new URL(Astro.url.pathname, Astro.site || SITE_CONFIG.siteUrl).href,
+  canonicalUrl: canonicalUrlProp,
 } = Astro.props;
+
+const canonical = new URL(
+  canonicalUrlProp || Astro.url.pathname,
+  Astro.site || SITE_CONFIG.siteUrl,
+);
+
+if (canonical.pathname !== '/') {
+  canonical.pathname = canonical.pathname.replace(/\/+$/, '');
+}
+
+const canonicalUrl = canonical.href;
 ---
 
 <!-- SEO Principal -->
@@ -29,6 +40,10 @@ const {
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
 <meta property="og:image" content={image} />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:alt" content="Caçamba para obras e reformas em Guarulhos" />
 <meta property="og:site_name" content={SITE_CONFIG.siteName} />
 <meta property="og:locale" content="pt_BR" />
 
@@ -38,3 +53,4 @@ const {
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={image} />
+<meta property="twitter:image:alt" content="Caçamba para obras e reformas em Guarulhos" />
