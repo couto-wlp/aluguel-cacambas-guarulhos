@@ -36,6 +36,14 @@ A triagem fica mais simples quando começa durante a execução da obra. Reserve
 
 Antes de contratar a retirada, informe ao transportador quais materiais serão descartados. Madeira, gesso, podas, resíduos industriais e materiais perigosos podem exigir equipamentos, documentação ou destinos diferentes.
 
+Para aprofundar a separação de cada carga, consulte também:
+
+* [entulho de obras e alvenaria](/blog/coleta-de-entulho-alvenaria-guarulhos);
+* [gesso e drywall](/blog/aluguel-cacamba-gesso-drywall-guarulhos);
+* [madeira, MDF e móveis desmontados](/blog/locacao-cacamba-madeira-mdf-guarulhos);
+* [galhos, jardinagem e podas](/blog/coleta-de-entulho-jardinagem-podas-guarulhos);
+* [materiais comerciais e resíduos industriais](/blog/locacao-cacamba-residuo-industrial-guarulhos).
+
 ## 3. Estime o volume e escolha a caçamba adequada
 
 O tamanho não deve ser escolhido apenas pelo espaço disponível na rua. Também é necessário considerar o peso e a densidade do material. Terra, concreto e pedras atingem cargas elevadas mais rapidamente do que madeira ou materiais leves.

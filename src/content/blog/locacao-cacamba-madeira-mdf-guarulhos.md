@@ -5,33 +5,79 @@ publishDate: 2026-09-20
 image: "/images/cacamba-madeira-mdf.webp"
 ---
 
-O descarte de restos de madeira e painéis de marcenaria exige separação adequada. Atendemos construtoras, oficinas de móveis e moradores de Guarulhos com orientação sobre os resíduos lenhosos aceitos.
+Restos de madeira, MDF, pallets e móveis desmontados não devem ser tratados automaticamente como uma única carga. A composição, o acabamento e a contaminação do material influenciam a forma de recebimento e a destinação disponível.
+
+Antes de alugar uma caçamba em Guarulhos, informe se a carga vem de uma obra, marcenaria, loja, galpão ou residência. Madeira natural sem tratamento, painéis industrializados e peças pintadas podem exigir separação.
 
 ![Caçamba com resíduos de madeira e MDF em Guarulhos SP](/images/cacamba-madeira-mdf.webp)
 
-## O Que Pode Ser Descartado Nesta Categoria?
+## Quais materiais podem ser avaliados?
 
-Fornecemos equipamentos dedicados exclusivamente para materiais de base lenhosa, incluindo:
+Entre os resíduos que podem ser avaliados para coleta estão:
 
-* **Madeiramento de Obra:** Tábuas de caixaria, pontaletes, sarrafos e escoras utilizadas na fase estrutural.
-* **Painéis de Marcenaria:** Retalhos e sobras limpas de MDF, MDP, aglomerados e compensados.
-* **Estruturas Logísticas:** Pallets de transporte de mercadorias que estejam danificados ou sem utilidade.
-* **Mobiliário Antigo:** Móveis residenciais, armários ou prateleiras velhas, desde que estejam totalmente desmontados para otimizar o espaço.
+* **Madeiramento de obra:** tábuas de caixaria, pontaletes, sarrafos e escoras;
+* **Madeira natural:** recortes, ripas, caibros e peças sem contaminação aparente;
+* **Painéis de marcenaria:** MDF, MDP, compensados e aglomerados, identificados separadamente;
+* **Pallets e embalagens:** desde que não tenham contato com produtos perigosos;
+* **Mobiliário desmontado:** armários, estantes e prateleiras sem vidro, espelhos, eletrônicos ou outros componentes incompatíveis.
 
-## Reciclagem e Geração de Energia Limpa
+A [Resolução CONAMA nº 431/2011](https://conama.mma.gov.br/?id=630&option=com_sisconama&task=arquivo.download), que atualizou a classificação dos resíduos da construção civil, inclui a madeira entre os resíduos Classe B, recicláveis para outras destinações. Isso não significa, porém, que qualquer peça de madeira ou MDF possa ser recebida misturada ou reciclada da mesma maneira.
 
-O destino da madeira depende do tratamento, da contaminação e da composição da carga. Os materiais aceitos são encaminhados a unidades compatíveis com sua classificação.
+## Madeira natural, MDF e madeira tratada são diferentes
 
-Em algumas operações, madeira sem contaminação pode ser triada e aproveitada como cavaco ou biomassa. Confirme previamente as condições de recebimento.
+Madeira natural limpa pode ter possibilidade de triagem e reaproveitamento. MDF, MDP e aglomerados são painéis industrializados produzidos com fibras ou partículas, resinas e revestimentos; por isso, devem ser identificados ao solicitar a coleta.
 
-## Principais Vantagens Para o Seu Projeto
+Peças pintadas, envernizadas, impregnadas com óleo, preservantes ou produtos químicos também precisam de avaliação específica. Nunca misture embalagens de solvente, tinta líquida, óleo, materiais de saúde ou resíduos químicos à carga.
 
-* **Segurança no Canteiro:** Evita o acúmulo de materiais altamente inflamáveis e previne acidentes de trabalho.
-* **Atendimento Integrado:** Solução sob medida para marcenarias, reformas residenciais e polos industriais de Guarulhos.
-* **Responsabilidade Ambiental:** Descarte correto que protege o meio ambiente e mantém sua obra em conformidade com as leis do município.
+Em pequenas quantidades e para entrega voluntária por moradores, consulte as condições dos [Ecopontos de Guarulhos](https://www.guarulhos.sp.gov.br/ecoponto). Para marcenarias, empresas ou grandes volumes, informe a origem e a frequência de geração para avaliar a modalidade adequada.
+
+## Como preparar móveis e peças volumosas
+
+Desmonte móveis sempre que possível para aproveitar o espaço da caçamba. Retire ou informe previamente:
+
+* portas e tampos de vidro;
+* espelhos;
+* eletroeletrônicos;
+* espuma, tecido e estofamento;
+* pedras e tampos de mármore;
+* ferragens grandes ou peças que possam ficar projetadas para fora.
+
+Pregos e parafusos presentes em tábuas devem ser informados e mantidos sem pontas expostas que ofereçam risco durante o carregamento. Nenhuma peça pode ultrapassar a borda superior da caçamba.
+
+## Qual pode ser a destinação?
+
+O destino depende do tratamento, da contaminação e da composição da carga. Madeira limpa pode ser triada para reutilização, processamento ou aproveitamento energético quando existir uma unidade apta a recebê-la. Painéis industrializados e peças tratadas podem seguir fluxos diferentes.
+
+Por isso, não é correto prometer que toda madeira será transformada em cavaco ou biomassa. A unidade de destino e a documentação aplicável devem ser confirmadas conforme a carga efetivamente entregue.
+
+## Como escolher a caçamba
+
+Madeira costuma ocupar muito espaço antes de atingir um peso elevado, mas móveis inteiros e peças compridas reduzem o aproveitamento do equipamento. Para receber uma indicação, envie fotos, dimensões aproximadas, endereço e informações sobre pintura, tratamento e materiais misturados.
+
+Uma [caçamba de 5m³](/servicos/aluguel-cacamba-5m3-guarulhos) pode ser uma referência inicial para reformas e marcenarias, mas o modelo correto depende do volume, do acesso e das condições da carga. Consulte também o [guia de descarte correto](/guia-pratico-para-descarte-correto-de-entulho-em-obras) antes de misturar madeira com resíduos minerais.
+
+## Cuidados para empresas e marcenarias
+
+Empresas devem identificar a origem e a classificação do material, manter os resíduos separados e verificar os registros exigidos para a movimentação. A necessidade de MTR ou certificado de destinação depende do enquadramento da operação e das responsabilidades do gerador.
+
+Trocas programadas podem ser avaliadas quando a geração é contínua. Antes de definir a frequência, considere a área de manobra, os horários do estabelecimento e o risco de misturar resíduos durante o período em que a caçamba permanecer no local.
+
+## Perguntas frequentes
+
+### Posso colocar sofá e colchão junto com MDF?
+
+Não sem avaliação prévia. Espuma, tecido e outros componentes mudam a composição da carga e podem exigir outro fluxo de recebimento.
+
+### Pallets contaminados podem ser recolhidos?
+
+Pallets que tiveram contato com óleo, produtos químicos ou materiais perigosos precisam de análise específica. Informe a origem antes da contratação.
+
+### Madeira pode ser misturada com concreto e terra?
+
+A separação é recomendada. Madeira e resíduos minerais pertencem a fluxos diferentes e a mistura pode reduzir as possibilidades de triagem e reaproveitamento.
 
 ---
 
-**Peça Seu Orçamento Gratuito**
+**Peça uma avaliação da carga**
 
-Libere espaço na sua obra ou oficina. Consulte a equipe sobre disponibilidade, acesso do caminhão e programação de entrega e retirada.
+Envie fotos dos materiais e informe o endereço, a origem e o volume aproximado. A equipe confirma os itens aceitos, o tamanho indicado e a disponibilidade para entrega e retirada em Guarulhos.

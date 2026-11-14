@@ -5,35 +5,76 @@ publishDate: 2026-09-20
 image: "/images/cacamba-gesso-drywall.webp"
 ---
 
-O gesso é tecnicamente classificado como um resíduo especial e, por determinação legal, não pode ser misturado ao entulho comum de alvenaria. Misturar essas caçambas em Guarulhos pode resultar em contaminação do solo e gerar autuações ambientais rigorosas para o proprietário da obra.
+Resíduos de gesso e drywall precisam ser identificados e separados dos materiais minerais da obra para preservar as possibilidades de triagem e evitar a contaminação da carga. Pela [Resolução CONAMA nº 431/2011](https://conama.mma.gov.br/?id=630&option=com_sisconama&task=arquivo.download), o gesso integra a Classe B dos resíduos da construção civil, ao lado de outros materiais recicláveis para diferentes destinações.
 
-Nossa equipe orienta a separação do gesso e do drywall para reduzir a contaminação com cimento, terra e outros materiais da reforma.
+Isso não significa que qualquer carga de gesso será automaticamente reciclada. O recebimento depende da limpeza, da composição e das condições exigidas pela unidade de destino. Por isso, informe o material antes de reservar uma caçamba em Guarulhos.
 
 ![Caçamba com resíduos de gesso e drywall em Guarulhos SP](/images/cacamba-gesso-drywall.webp)
 
-## O Que Pode Ser Descartado Nesta Categoria?
+## Quais resíduos de gesso podem ser avaliados?
 
-Para preservar as possibilidades de aproveitamento do resíduo e evitar a recusa da carga, confirme previamente quais itens podem ser recolhidos:
+Confirme previamente os itens que serão carregados. Entre os materiais que podem ser avaliados estão:
 
-* **Drywall (Gesso Acartonado):** Placas utilizadas em forros, divisórias de ambientes e projetos de isolamento acústico.
-* **Placas Convencionais:** Gesso liso em placas padrão ou peças decorativas danificadas durante a reforma.
-* **Elementos de Acabamento:** Sobras de molduras, blocos maciços, sancas e adornos de teto.
-* **Resíduos de Acabamento (Pó):** Restos gerados pelo lixamento das paredes e forros, que devem estar devidamente ensacados.
+* **Drywall ou gesso acartonado:** recortes e placas utilizadas em forros e divisórias;
+* **Placas convencionais:** peças de gesso liso e placas de forro removidas da obra;
+* **Elementos de acabamento:** molduras, sancas e peças decorativas sem materiais incompatíveis aderidos;
+* **Sobras de aplicação:** gesso endurecido e limpo, separado das embalagens;
+* **Pó de lixamento:** somente após confirmação e devidamente acondicionado para evitar dispersão.
 
-## Segurança Jurídica e Normas do CONAMA
+Perfis metálicos, parafusos, papelão e outros componentes do sistema drywall devem ser separados sempre que possível. Essa triagem facilita a identificação de cada material e evita que objetos cortantes fiquem escondidos no gesso.
 
-A destinação incorreta do gesso em aterros comuns libera gases tóxicos (como o gás sulfídrico) no meio ambiente. Atuamos em conformidade absoluta com as diretrizes do CONAMA (Conselho Nacional do Meio Ambiente) e a legislação municipal de Guarulhos.
+## O que não deve ser misturado ao gesso?
 
-O destino depende da qualidade, da contaminação e da classificação da carga. A equipe informa a unidade compatível e se MTR ou outro registro é aplicável ao transporte, sem substituir as obrigações do gerador da obra.
+Não coloque na carga lixo doméstico, alimentos, tintas, solventes, óleo, telhas de amianto ou resíduos de saúde. Também precisam ser informados antes da contratação:
 
-## Vantagens do Nosso Serviço Especializado
+* lã de vidro, lã de rocha e outros isolantes;
+* embalagens de massa, selador, tinta ou produtos químicos;
+* placas molhadas, mofadas ou contaminadas;
+* cimento, concreto, terra, cerâmica e madeira;
+* estruturas metálicas, vidros e instalações elétricas ainda presas às placas.
 
-* **Separação Orientada:** O cliente recebe instruções para evitar a mistura com cimento, terra e outros resíduos.
-* **Logística Ágil:** Entregas e retiradas programadas para manter o seu projeto de interiores ou acabamento limpo e produtivo.
-* **Destinação Compatível:** O material aceito é encaminhado conforme sua classificação e as condições da carga.
+A mistura pode alterar a classificação e impedir o recebimento no destino inicialmente previsto. Para cargas com vários materiais de reforma, consulte o [guia prático de descarte](/guia-pratico-para-descarte-correto-de-entulho-em-obras).
+
+## Como separar e acondicionar na obra
+
+Reserve uma área seca para o gesso e evite contato com chuva, terra e resíduos de demolição. Placas grandes podem ser quebradas em partes manejáveis, desde que permaneçam abaixo da borda da caçamba e sem criar pontas perigosas.
+
+O pó deve ser ensacado ou acondicionado conforme a orientação recebida antes da coleta. Não queime, molhe ou compacte o material com máquinas sem autorização. Mantenha o acesso livre para a entrega e para a retirada do equipamento.
+
+## Destinação e documentação
+
+O destino depende da qualidade, da contaminação e da classificação da carga. Gesso limpo e separado pode ter possibilidade de triagem e reciclagem quando existir uma unidade apta a recebê-lo. Material misturado ou contaminado pode exigir outro tratamento.
+
+A equipe informa a unidade compatível e se MTR, CTR ou outro registro é aplicável ao transporte. Esses documentos ajudam na rastreabilidade, mas não substituem as responsabilidades do gerador da obra.
+
+Em condomínios e estabelecimentos comerciais, consulte previamente o responsável pela obra sobre horários, elevadores de serviço e documentos exigidos pela administração.
+
+## Como escolher o tamanho da caçamba
+
+Placas de drywall ocupam bastante volume, mas a quantidade e o peso variam conforme o sistema removido. Informe a metragem aproximada da reforma, o número de ambientes e se o material está inteiro, quebrado ou misturado.
+
+Uma [caçamba de 4m³](/servicos/aluguel-cacamba-4m3-guarulhos) pode ser uma referência para pequenas reformas, enquanto volumes maiores exigem outro dimensionamento. A confirmação considera material, peso, espaço de manobra e acesso ao endereço.
+
+## Perguntas frequentes
+
+### Gesso pode ser misturado com concreto e tijolos?
+
+A separação é recomendada porque os materiais possuem fluxos diferentes. Confirme a composição da carga antes da locação para evitar recusa ou mudança na destinação.
+
+### Perfis metálicos do drywall podem ficar presos às placas?
+
+Remova e separe os perfis sempre que possível. Grandes peças metálicas ou pontas expostas podem dificultar o carregamento e oferecer risco.
+
+### Toda carga de gesso será reciclada?
+
+Não é possível garantir. A reciclagem depende da limpeza do material e da disponibilidade de uma unidade apta a recebê-lo.
+
+### Tinta e massa corrida podem ir na mesma caçamba?
+
+Embalagens, líquidos e sobras de produtos químicos precisam de avaliação própria e não devem ser misturados automaticamente ao gesso.
 
 ---
 
-**Agende Sua Coleta de Gesso Hoje Mesmo**
+**Solicite uma avaliação da carga de gesso**
 
-Mantenha a etapa de acabamento da sua obra limpa e dentro da lei. Nossa equipe está à disposição para dimensionar a quantidade de caçambas necessárias para o seu projeto.
+Envie fotos, o endereço e uma descrição dos materiais. A equipe confirma os itens aceitos, orienta a separação e verifica o equipamento e a disponibilidade para atendimento em Guarulhos.
