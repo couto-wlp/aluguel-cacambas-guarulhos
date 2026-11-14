@@ -4,9 +4,9 @@ seoTitle: "Aluguel de Caçamba de 4m³ em Guarulhos"
 description: "Aluguel de caçamba de 4m³ em Guarulhos para pequenas reformas. Consulte materiais aceitos, acesso, carga e disponibilidade."
 image: "/images/cacamba-4m.webp"
 specs:
-  altura: "1.20m"
-  largura: "1.40m"
-  comprimento: "2.50m"
+  altura: "1,20 m"
+  largura: "1,75 m"
+  comprimento: "2,60 m"
   volume: "4m³"
 ---
 

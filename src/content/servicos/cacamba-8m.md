@@ -4,9 +4,9 @@ seoTitle: "Aluguel de Caçamba de 8m³ em Guarulhos"
 description: "Aluguel de caçamba de 8m³ em Guarulhos para resíduos volumosos de obras. Consulte classificação, acesso, carga e disponibilidade."
 image: "/images/cacamba-8m.webp"
 specs:
-  altura: "1.70m"
-  largura: "1.90m"
-  comprimento: "3.40m"
+  altura: "1,65 m"
+  largura: "1,85 m"
+  comprimento: "3,40 m"
   volume: "8m³"
 ---
 

@@ -4,9 +4,9 @@ seoTitle: "Aluguel de Caçamba de 7m³ em Guarulhos"
 description: "Locação de caçamba de 7m³ em Guarulhos para obras com maior geração de resíduos. Consulte materiais, acesso e disponibilidade."
 image: "/images/cacamba-7m.webp"
 specs:
-  altura: "1.60m"
-  largura: "1.80m"
-  comprimento: "3.20m"
+  altura: "1,50 m"
+  largura: "1,80 m"
+  comprimento: "3,30 m"
   volume: "7m³"
 ---
 

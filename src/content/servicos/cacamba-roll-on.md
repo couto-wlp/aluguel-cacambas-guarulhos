@@ -4,10 +4,10 @@ seoTitle: "Aluguel de Caçamba Roll-on em Guarulhos"
 description: "Locação de caçamba roll-on roll-off em Guarulhos para operações de maior volume. Consulte resíduos, acesso, documentação e disponibilidade."
 image: "/images/cacamba-roll-on.webp"
 specs:
-  altura: "1.80m"
-  largura: "2.40m"
-  comprimento: "6.00m"
-  volume: "15m³ a 30m³"
+  altura: "1,10 a 2,15 m"
+  largura: "2,40 m"
+  comprimento: "6,00 m"
+  volume: "15 a 30 m³"
 ---
 
 A gestão de resíduos em grande escala exige planejamento de equipamento, acesso e destinação. O sistema roll-on roll-off pode atender indústrias, centros comerciais e canteiros de obras com geração recorrente na região de Guarulhos.

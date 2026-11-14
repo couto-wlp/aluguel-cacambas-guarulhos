@@ -4,9 +4,9 @@ seoTitle: "Aluguel de Caçamba de 6m³ em Guarulhos"
 description: "Aluguel de caçamba de 6m³ em Guarulhos para reformas e obras. Consulte acesso, materiais aceitos, separação e disponibilidade."
 image: "/images/cacamba-6m.webp"
 specs:
-  altura: "1.50m"
-  largura: "1.70m"
-  comprimento: "3.00m"
+  altura: "1,45 m"
+  largura: "1,80 m"
+  comprimento: "3,00 m"
   volume: "6m³"
 ---
 
