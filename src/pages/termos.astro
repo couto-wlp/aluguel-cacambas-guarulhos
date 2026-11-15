@@ -3,188 +3,149 @@ import Layout from '../layouts/Layout.astro';
 import { SITE_CONFIG } from '../data/config';
 ---
 
-<Layout 
-  title="Termos de Uso e Serviço | Central da Caçamba"
-  description="Leia os Termos de Uso e Serviço da Central da Caçamba. Saiba mais sobre licença de uso, limitações de responsabilidade e regras de atendimento."
+<Layout
+  title="Termos de Uso e Locação | Central da Caçamba"
+  description="Consulte as condições de uso do site, solicitação de orçamento, entrega, retirada e responsabilidades na locação de caçambas em Guarulhos."
 >
-  <!-- Hero Section -->
   <section class="pt-[130px] pb-12 bg-white border-b border-gray-100">
     <div class="container mx-auto px-6 md:px-12 max-w-4xl text-center">
-
       <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-secondary/10 border border-secondary/20 text-secondary text-xs font-bold uppercase tracking-wider mb-5">
-        <svg class="w-4 h-4 text-secondary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
-        </svg>
-        Condições Gerais de Serviço
+        Condições do site e do atendimento
       </div>
-
       <h1 class="text-3xl sm:text-4xl md:text-5xl font-black text-gray-900 tracking-tight mb-4">
-        Termos de <span class="text-secondary">Uso</span>
+        Termos de <span class="text-secondary">Uso e Locação</span>
       </h1>
       <p class="text-base sm:text-lg text-gray-600 max-w-2xl mx-auto">
-        Conheça as regras, condições e diretrizes de utilização dos canais digitais e serviços da Central da Caçamba.
+        Estas condições explicam como funcionam os canais digitais, os orçamentos e os principais cuidados na locação de caçambas da Central da Caçamba.
       </p>
     </div>
   </section>
 
-  <!-- Content Section -->
   <section class="py-16 md:py-20 bg-gray-50">
     <div class="container mx-auto px-6 md:px-12 max-w-4xl">
-      <div class="bg-white p-8 sm:p-12 md:p-16 rounded-2xl shadow-xl shadow-gray-200/50 border border-gray-100 space-y-12">
-        
-        <!-- 1. Termos -->
-        <div>
-          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">
-            1. Termos
-          </h2>
-          <div class="space-y-4 text-gray-700 leading-relaxed text-[16px]">
-            <p>
-              Ao acessar o site <strong>Central da Caçamba</strong>, você concorda em cumprir estes termos de serviço e os regulamentos aplicáveis. Se não concordar com algum desses termos, não deverá usar ou acessar este site. Os materiais aqui publicados são protegidos pelas leis de direitos autorais e marcas comerciais aplicáveis.
-            </p>
+      <div class="bg-white p-8 sm:p-12 md:p-16 rounded-2xl shadow-xl shadow-gray-200/50 border border-gray-100 space-y-12 text-gray-700 leading-relaxed text-[16px]">
+        <section>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">1. Identificação e alcance</h2>
+          <div class="space-y-4">
+            <p>Estes termos regulam o uso do site <strong>{SITE_CONFIG.siteName}</strong> e apresentam as condições gerais dos canais de atendimento e da locação de caçambas. O atendimento ocorre em Guarulhos, conforme endereço, rota, acesso, equipamento e disponibilidade.</p>
+            <p>Condições específicas informadas na proposta ou na confirmação da contratação prevalecem para aquela operação, desde que respeitada a legislação aplicável.</p>
           </div>
-        </div>
+        </section>
 
         <hr class="border-gray-100" />
 
-        <!-- 2. Uso de Licença -->
-        <div>
-          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">
-            2. Uso de Licença
-          </h2>
-          <div class="space-y-4 text-gray-700 leading-relaxed text-[16px]">
-            <p>
-              É concedida permissão para baixar temporariamente uma cópia dos materiais (informações ou software) no site <strong>Central da Caçamba</strong>, apenas para visualização transitória pessoal e não comercial. Esta é a concessão de uma licença, não uma transferência de título e, sob esta licença, você não pode:
-            </p>
-            
-            <ul class="space-y-2.5 my-4 pl-2">
-              <li class="flex items-start gap-3">
-                <span class="w-1.5 h-1.5 rounded-full bg-primary mt-2.5 flex-shrink-0"></span>
-                <span>Modificar ou copiar os materiais;</span>
-              </li>
-              <li class="flex items-start gap-3">
-                <span class="w-1.5 h-1.5 rounded-full bg-primary mt-2.5 flex-shrink-0"></span>
-                <span>Usar os materiais para qualquer finalidade comercial ou para exibição pública (comercial ou não comercial);</span>
-              </li>
-              <li class="flex items-start gap-3">
-                <span class="w-1.5 h-1.5 rounded-full bg-primary mt-2.5 flex-shrink-0"></span>
-                <span>Tentar descompilar ou fazer engenharia reversa de qualquer software contido no site Central da Caçamba;</span>
-              </li>
-              <li class="flex items-start gap-3">
-                <span class="w-1.5 h-1.5 rounded-full bg-primary mt-2.5 flex-shrink-0"></span>
-                <span>Remover quaisquer direitos autorais ou outras notações de propriedade dos materiais; ou</span>
-              </li>
-              <li class="flex items-start gap-3">
-                <span class="w-1.5 h-1.5 rounded-full bg-primary mt-2.5 flex-shrink-0"></span>
-                <span>Transferir os materiais para outra pessoa ou 'espelhar' os materiais em qualquer outro servidor.</span>
-              </li>
-            </ul>
-
-            <div class="p-4 rounded-xl bg-amber-50/70 border border-amber-200/80 text-amber-950 text-sm leading-relaxed">
-              Esta licença será automaticamente rescindida se você violar alguma dessas restrições e poderá ser rescindida pela <strong>Central da Caçamba</strong> a qualquer momento. Ao encerrar a visualização desses materiais ou após o término desta licença, você deve apagar os materiais baixados em sua posse, seja em formato eletrônico ou impresso.
-            </div>
+        <section>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">2. Informações do site e solicitação de orçamento</h2>
+          <div class="space-y-4">
+            <p>As páginas, medidas, capacidades aproximadas, artigos e orientações do site têm caráter informativo. A indicação do equipamento depende do tipo, peso e volume do material, além das condições reais de acesso e carregamento.</p>
+            <p>O envio de formulário, mensagem ou pedido de orçamento não confirma automaticamente preço, reserva, entrega ou contratação. A contratação ocorre após a apresentação das condições e a confirmação entre as partes.</p>
           </div>
-        </div>
+        </section>
 
         <hr class="border-gray-100" />
 
-        <!-- 3. Isenção de responsabilidade -->
-        <div>
-          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">
-            3. Isenção de Responsabilidade
-          </h2>
-          <div class="space-y-4 text-gray-700 leading-relaxed text-[16px]">
-            <p>
-              Os materiais no site da <strong>Central da Caçamba</strong> são fornecidos “como estão”. A Central da Caçamba não oferece garantias, expressas ou implícitas, sobre conteúdos meramente informativos, salvo quando exigido pela legislação aplicável.
-            </p>
-            <p>
-              Além disso, a <strong>Central da Caçamba</strong> não garante resultados específicos decorrentes do uso dos materiais informativos publicados no site ou em sites externos vinculados.
-            </p>
+        <section>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">3. Informações fornecidas pelo cliente</h2>
+          <div class="space-y-4">
+            <p>Para avaliar o atendimento, o cliente deve informar corretamente o endereço, o tipo de resíduo, o volume aproximado, o período desejado e as condições de acesso. Quando solicitado, deve enviar fotos do portão, da via, do piso, da fiação, da inclinação e da área de manobra.</p>
+            <p>Alterações relevantes no material ou no local devem ser comunicadas antes da entrega. Informações incompletas podem exigir nova avaliação, mudança de equipamento ou reagendamento.</p>
           </div>
-        </div>
+        </section>
 
         <hr class="border-gray-100" />
 
-        <!-- 4. Limitações -->
-        <div>
-          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">
-            4. Limitações
-          </h2>
-          <div class="space-y-4 text-gray-700 leading-relaxed text-[16px]">
-            <p>
-              Na extensão permitida pela legislação aplicável, a <strong>Central da Caçamba</strong> e seus fornecedores não serão responsáveis por danos decorrentes do uso ou da incapacidade de usar os materiais informativos deste site. Limitações que não sejam permitidas pela legislação do consumidor não se aplicam.
-            </p>
+        <section>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">4. Materiais aceitos e separação</h2>
+          <div class="space-y-4">
+            <p>Os materiais aceitos são definidos conforme sua classificação, o equipamento contratado e a destinação disponível. Concreto, tijolos, argamassa, solo, madeira, gesso, poda, metais e materiais misturados podem exigir separação, limite de carga, documentação ou destinação específica.</p>
+            <p>Resíduos perigosos, hospitalares, químicos, inflamáveis, explosivos, radioativos, materiais com amianto, óleo, baterias, pneus, lixo orgânico e outros materiais sujeitos a tratamento especial não devem ser colocados na caçamba sem avaliação e autorização expressa.</p>
+            <p>A presença de material diferente do informado pode impedir a retirada até que a carga seja regularizada ou exigir solução operacional compatível, com condições previamente comunicadas ao cliente.</p>
           </div>
-        </div>
+        </section>
 
         <hr class="border-gray-100" />
 
-        <!-- 5. Precisão dos materiais -->
-        <div>
-          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">
-            5. Precisão dos Materiais
-          </h2>
-          <div class="space-y-4 text-gray-700 leading-relaxed text-[16px]">
-            <p>
-              Os materiais exibidos no site da <strong>Central da Caçamba</strong> podem incluir erros técnicos, tipográficos ou fotográficos. A Central da Caçamba pode atualizar os materiais a qualquer momento, sem aviso prévio.
-            </p>
+        <section>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">5. Volume, peso e carregamento</h2>
+          <div class="space-y-4">
+            <p>O material deve permanecer abaixo da borda da caçamba e ser distribuído de forma estável. O volume nominal não substitui o limite operacional de peso: cargas densas, como terra, concreto e pedras, podem atingir o limite antes de preencher toda a caixa.</p>
+            <p>Não é permitido movimentar, arrastar, elevar, queimar, perfurar ou alterar a caçamba. O cliente deve impedir o uso por terceiros e comunicar qualquer dano ou ocorrência relevante.</p>
           </div>
-        </div>
+        </section>
 
         <hr class="border-gray-100" />
 
-        <!-- 6. Links -->
-        <div>
-          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">
-            6. Links
-          </h2>
-          <div class="space-y-4 text-gray-700 leading-relaxed text-[16px]">
-            <p>
-              A <strong>Central da Caçamba</strong> não controla todos os sites externos vinculados e não é responsável por seus conteúdos. A inclusão de um link não implica endosso ao site externo.
-            </p>
+        <section>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">6. Acesso, posicionamento e autorizações</h2>
+          <div class="space-y-4">
+            <p>O cliente deve disponibilizar acesso e área compatíveis com o caminhão e a caçamba, mantendo livres portões, vagas, guias, redes aéreas, árvores e a área necessária para manobra e retirada.</p>
+            <p>Autorizações de condomínio, reserva de vaga, restrições de horário e permissões exigidas para uso de área particular ou pública devem ser verificadas pelo responsável pelo endereço, salvo quando houver disposição diferente na proposta.</p>
+            <p>O motorista pode recusar o posicionamento ou a retirada quando identificar risco relevante para pessoas, equipamentos, imóveis, redes, pavimento ou circulação. Nesse caso, as partes poderão avaliar local ou data alternativos.</p>
           </div>
-        </div>
+        </section>
 
         <hr class="border-gray-100" />
 
-        <!-- 7. Modificações e Lei Aplicável -->
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-          <div>
-            <h3 class="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">
-              <span class="w-2 h-2 rounded-full bg-primary"></span>
-              Modificações dos Termos
-            </h3>
-            <p class="text-gray-700 text-[15px] leading-relaxed">
-              A Central da Caçamba pode revisar estes termos de serviço a qualquer momento. Ao usar o site, você concorda com a versão vigente destes termos.
-            </p>
+        <section>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">7. Entrega, permanência, retirada e alterações</h2>
+          <div class="space-y-4">
+            <p>Datas e períodos são confirmados conforme rota, disponibilidade, acesso e condições operacionais. O cliente deve solicitar alterações com antecedência razoável.</p>
+            <p>Reagendamento, extensão do período, troca de equipamento, viagem adicional, espera, tentativa sem acesso ou necessidade de regularização da carga podem alterar prazo e valor. Qualquer condição adicional deve ser informada antes de sua confirmação.</p>
+            <p>Fatores fora do controle razoável, como interdição, acidente, condição climática severa, falha de acesso ou determinação de autoridade, podem exigir ajuste da programação.</p>
           </div>
+        </section>
 
-          <div>
-            <h3 class="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">
-              <span class="w-2 h-2 rounded-full bg-secondary"></span>
-              Lei Aplicável & Foro
-            </h3>
-            <p class="text-gray-700 text-[15px] leading-relaxed">
-              Estes termos e condições são regidos pelas leis brasileiras. Eventuais conflitos serão tratados conforme a legislação aplicável e as regras de competência territorial.
-            </p>
+        <hr class="border-gray-100" />
+
+        <section>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">8. Preço e pagamento</h2>
+          <div class="space-y-4">
+            <p>Preço, forma de pagamento, período, equipamento e serviços incluídos são informados na proposta ou confirmação do atendimento. O valor pode considerar endereço, distância, capacidade, tipo de resíduo, peso, destinação, prazo e condições de acesso.</p>
+            <p>Nenhuma cobrança adicional deve ser presumida: quando uma alteração operacional gerar novo custo, a condição deve ser apresentada ao cliente para avaliação, respeitados os direitos previstos na legislação.</p>
           </div>
-        </div>
+        </section>
 
-        <!-- Bloco de Dúvidas / Contato -->
+        <hr class="border-gray-100" />
+
+        <section>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">9. Responsabilidades e legislação do consumidor</h2>
+          <div class="space-y-4">
+            <p>A Central da Caçamba responde por suas obrigações na forma da legislação aplicável. Estes termos não excluem garantia legal, direito de reparação ou qualquer proteção obrigatória do consumidor.</p>
+            <p>O cliente responde pelas informações que fornece, pela carga colocada no equipamento, pelas autorizações sob sua responsabilidade e por danos decorrentes de uso indevido comprovado, observadas as circunstâncias e a legislação.</p>
+            <p>Conteúdos educativos não substituem avaliação técnica, ambiental ou jurídica específica da obra.</p>
+          </div>
+        </section>
+
+        <hr class="border-gray-100" />
+
+        <section>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">10. Propriedade intelectual e links externos</h2>
+          <div class="space-y-4">
+            <p>Textos, identidade visual, fotografias e demais materiais próprios do site são protegidos pela legislação aplicável. É permitido consultar e compartilhar links das páginas, mas a reprodução comercial ou apresentação do conteúdo como próprio depende de autorização.</p>
+            <p>Links para mapas, redes sociais, fontes oficiais e outros serviços são fornecidos para conveniência. Cada serviço externo possui seus próprios termos e políticas.</p>
+          </div>
+        </section>
+
+        <hr class="border-gray-100" />
+
+        <section>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">11. Privacidade, alterações e solução de dúvidas</h2>
+          <div class="space-y-4">
+            <p>O tratamento de dados pessoais é explicado na <a class="font-bold text-yellow-700 hover:underline" href="/privacidade">Política de Privacidade</a>.</p>
+            <p>Estes termos podem ser atualizados para refletir mudanças operacionais ou legais. A versão vigente será publicada nesta página. As relações são regidas pelas leis brasileiras, e eventuais conflitos observarão as regras legais de competência territorial.</p>
+            <p class="p-4 rounded-xl bg-gray-50 border border-gray-200"><strong>Última atualização:</strong> 14 de novembro de 2026.</p>
+          </div>
+        </section>
+
         <div class="bg-gray-50 border border-gray-200 rounded-2xl p-6 sm:p-8 flex flex-col sm:flex-row items-center justify-between gap-6">
           <div>
-            <h3 class="text-lg font-bold text-gray-900 mb-1">Precisa de esclarecimentos sobre as condições de locação?</h3>
-            <p class="text-sm text-gray-600">Nossa equipe de atendimento está pronta para tirar todas as dúvidas para a sua obra.</p>
+            <h2 class="text-lg font-bold text-gray-900 mb-1">Dúvidas sobre a locação?</h2>
+            <p class="text-sm text-gray-600">Solicite as condições específicas do atendimento antes de confirmar o serviço.</p>
           </div>
-          <a 
-            href={`https://wa.me/${SITE_CONFIG.phones.whatsapp}?text=Olá,%20gostaria%20de%20esclarecer%20uma%20dúvida%20sobre%20os%20termos%20de%20uso`}
-            target="_blank"
-            rel="noopener noreferrer"
-            class="whitespace-nowrap inline-flex items-center gap-2 bg-primary hover:bg-yellow-400 text-gray-900 font-extrabold px-6 py-3 rounded-xl transition-all shadow-md hover:shadow-lg active:scale-95 text-sm"
-          >
-            Falar Conosco
+          <a href={`https://wa.me/${SITE_CONFIG.phones.whatsapp}?text=Olá,%20gostaria%20de%20esclarecer%20uma%20dúvida%20sobre%20os%20termos%20de%20locação`} target="_blank" rel="noopener noreferrer" class="whitespace-nowrap inline-flex items-center gap-2 bg-primary hover:bg-yellow-400 text-gray-900 font-extrabold px-6 py-3 rounded-xl transition-all shadow-md text-sm">
+            Falar no WhatsApp
           </a>
         </div>
-
       </div>
     </div>
   </section>

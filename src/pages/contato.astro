@@ -71,30 +71,34 @@ import { SITE_CONFIG } from '../data/config';
         <!-- Coluna de Formulário -->
         <div class="bg-white p-12 rounded-2xl shadow-xl shadow-gray-200/50 border border-gray-100 hover:-translate-y-1 transition-all cursor-default">
           <h2 class="text-3xl font-black text-gray-900 mb-8 tracking-tight">Envie uma Mensagem</h2>
-          <form class="space-y-6" action="#" method="POST">
+          <form id="orcamento-form" class="space-y-6" data-whatsapp={SITE_CONFIG.phones.whatsapp}>
             <div>
               <label for="nome" class="block text-sm font-bold text-gray-900 mb-2">Nome / Empresa</label>
-              <input type="text" id="nome" class="w-full p-4 rounded-lg bg-gray-50 border border-gray-200 focus:outline-none focus:border-secondary focus:ring-2 focus:ring-secondary/20 transition-all hover:border-gray-300" placeholder="Seu nome completo ou razão social" required />
+              <input type="text" id="nome" name="nome" autocomplete="name" class="w-full p-4 rounded-lg bg-gray-50 border border-gray-200 focus:outline-none focus:border-secondary focus:ring-2 focus:ring-secondary/20 transition-all hover:border-gray-300" placeholder="Seu nome completo ou razão social" required />
             </div>
             
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
               <div>
                 <label for="telefone" class="block text-sm font-bold text-gray-900 mb-2">Telefone (WhatsApp)</label>
-                <input type="tel" id="telefone" class="w-full p-4 rounded-lg bg-gray-50 border border-gray-200 focus:outline-none focus:border-secondary focus:ring-2 focus:ring-secondary/20 transition-all hover:border-gray-300" placeholder="(11) 94375-8880" required />
+                <input type="tel" id="telefone" name="telefone" autocomplete="tel" inputmode="tel" class="w-full p-4 rounded-lg bg-gray-50 border border-gray-200 focus:outline-none focus:border-secondary focus:ring-2 focus:ring-secondary/20 transition-all hover:border-gray-300" placeholder="(11) 94375-8880" required />
               </div>
               <div>
                 <label for="cep" class="block text-sm font-bold text-gray-900 mb-2">CEP da Obra</label>
-                <input type="text" id="cep" class="w-full p-4 rounded-lg bg-gray-50 border border-gray-200 focus:outline-none focus:border-secondary focus:ring-2 focus:ring-secondary/20 transition-all hover:border-gray-300" placeholder="00000-000" />
+                <input type="text" id="cep" name="cep" autocomplete="postal-code" inputmode="numeric" class="w-full p-4 rounded-lg bg-gray-50 border border-gray-200 focus:outline-none focus:border-secondary focus:ring-2 focus:ring-secondary/20 transition-all hover:border-gray-300" placeholder="00000-000" />
               </div>
             </div>
 
             <div>
               <label for="mensagem" class="block text-sm font-bold text-gray-900 mb-2">Como podemos ajudar?</label>
-              <textarea id="mensagem" rows="4" class="w-full p-4 rounded-lg bg-gray-50 border border-gray-200 focus:outline-none focus:border-secondary focus:ring-2 focus:ring-secondary/20 transition-all resize-none hover:border-gray-300" placeholder="Detalhes da sua necessidade..." required></textarea>
+              <textarea id="mensagem" name="mensagem" rows="4" class="w-full p-4 rounded-lg bg-gray-50 border border-gray-200 focus:outline-none focus:border-secondary focus:ring-2 focus:ring-secondary/20 transition-all resize-none hover:border-gray-300" placeholder="Detalhes da sua necessidade..." required></textarea>
             </div>
+
+            <p class="text-xs text-gray-500 leading-relaxed">
+              Ao continuar, os dados serão enviados ao WhatsApp para atendimento, conforme nossa <a href="/privacidade" class="font-bold text-yellow-700 hover:underline">Política de Privacidade</a>.
+            </p>
             
             <button type="submit" class="w-full p-6 rounded-xl bg-primary hover:bg-yellow-400 text-gray-900 font-black text-lg transition-all shadow-lg mt-4 hover:scale-105 active:scale-95">
-              Enviar Solicitação de Orçamento
+              Continuar no WhatsApp
             </button>
           </form>
         </div>
@@ -133,7 +137,7 @@ import { SITE_CONFIG } from '../data/config';
     <div class="container mx-auto px-6 md:px-12 relative z-10 text-center">
       <h2 class="text-4xl md:text-5xl font-black text-gray-900 mb-8 tracking-tighter leading-tight">Ainda com <span class="text-primary">dúvidas?</span></h2>
       <p class="text-base text-gray-700 mb-12 max-w-2xl mx-auto">
-        Nossa equipe de especialistas responde em poucos minutos no WhatsApp. Clique abaixo e resolva agora mesmo!
+        Envie os dados da sua necessidade pelo WhatsApp. A equipe responderá conforme a disponibilidade do atendimento.
       </p>
       <div class="flex flex-col sm:flex-row items-center justify-center gap-6">
         <a href="https://wa.me/5511943758880" target="_blank" rel="noopener noreferrer" class="w-full sm:w-auto px-10 py-5 rounded-xl bg-primary hover:bg-yellow-400 text-gray-900 font-black text-base transition-all shadow-lg text-center hover:scale-105 active:scale-95">
@@ -145,4 +149,31 @@ import { SITE_CONFIG } from '../data/config';
       </div>
     </div>
   </section>
+
+  <script>
+    const form = document.querySelector<HTMLFormElement>('#orcamento-form');
+
+    form?.addEventListener('submit', (event) => {
+      event.preventDefault();
+
+      const data = new FormData(form);
+      const nome = String(data.get('nome') || '').trim();
+      const telefone = String(data.get('telefone') || '').trim();
+      const cep = String(data.get('cep') || '').trim();
+      const mensagem = String(data.get('mensagem') || '').trim();
+      const whatsapp = form.dataset.whatsapp;
+
+      if (!whatsapp) return;
+
+      const texto = [
+        'Olá, gostaria de solicitar um orçamento.',
+        `Nome / empresa: ${nome}`,
+        `Telefone: ${telefone}`,
+        cep ? `CEP da obra: ${cep}` : '',
+        `Necessidade: ${mensagem}`,
+      ].filter(Boolean).join('\n');
+
+      window.open(`https://wa.me/${whatsapp}?text=${encodeURIComponent(texto)}`, '_blank', 'noopener,noreferrer');
+    });
+  </script>
 </Layout>

@@ -3,168 +3,145 @@ import Layout from '../layouts/Layout.astro';
 import { SITE_CONFIG } from '../data/config';
 ---
 
-<Layout 
-  title="Política de Privacidade | Central da Caçamba"
-  description="Conheça a Política de Privacidade da Central da Caçamba e saiba como utilizamos e protegemos as informações enviadas pelo site."
+<Layout
+  title="Política de Privacidade e LGPD | Central da Caçamba"
+  description="Saiba quais dados a Central da Caçamba utiliza, para quais finalidades, com quem podem ser compartilhados e como exercer seus direitos pela LGPD."
 >
-  <!-- Hero Section -->
   <section class="pt-[130px] pb-12 bg-white border-b border-gray-100">
     <div class="container mx-auto px-6 md:px-12 max-w-4xl text-center">
-
       <div class="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-primary/10 border border-primary/20 text-gray-900 text-xs font-bold uppercase tracking-wider mb-5">
-        <svg class="w-4 h-4 text-gray-900" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
-        </svg>
-        Transparência & Proteção de Dados
+        Privacidade e proteção de dados
       </div>
-
       <h1 class="text-3xl sm:text-4xl md:text-5xl font-black text-gray-900 tracking-tight mb-4">
         Política de <span class="text-secondary">Privacidade</span>
       </h1>
       <p class="text-base sm:text-lg text-gray-600 max-w-2xl mx-auto">
-        Entenda nosso compromisso com a privacidade e a proteção das informações dos clientes e visitantes da Central da Caçamba.
+        Este aviso explica como a Central da Caçamba trata dados pessoais durante o atendimento, a elaboração de orçamentos e a navegação no site.
       </p>
     </div>
   </section>
 
-  <!-- Content Section -->
   <section class="py-16 md:py-20 bg-gray-50">
     <div class="container mx-auto px-6 md:px-12 max-w-4xl">
-      <div class="bg-white p-8 sm:p-12 md:p-16 rounded-2xl shadow-xl shadow-gray-200/50 border border-gray-100 space-y-12">
-        
-        <!-- Bloco 1: Introdução Geral -->
-        <div>
-          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">
-            1. Informações Gerais e Compromisso
-          </h2>
-          <div class="space-y-4 text-gray-700 leading-relaxed text-[16px]">
-            <p>
-              Sua privacidade é importante para nós. É política da <strong>Central da Caçamba</strong> respeitar sua privacidade em relação às informações que possamos coletar neste site.
-            </p>
-            <p>
-              Solicitamos informações pessoais apenas quando realmente precisamos delas para lhe fornecer um serviço. Fazemo-lo por meios justos e legais, com o seu conhecimento e consentimento. Também informamos por que estamos coletando e como será usado.
-            </p>
-            <p>
-              Apenas retemos as informações coletadas pelo tempo necessário para fornecer o serviço solicitado. Quando armazenamos dados, protegemos dentro de meios comercialmente aceitáveis para evitar perdas e roubos, bem como acesso, divulgação, cópia, uso ou modificação não autorizados.
-            </p>
-            <p>
-              Não compartilhamos informações de identificação pessoal publicamente ou com terceiros, exceto quando exigido por lei.
-            </p>
-            <p>
-              O nosso site pode ter links para sites externos que não são operados por nós. Esteja ciente de que não temos controle sobre o conteúdo e práticas desses sites e não podemos aceitar responsabilidade por suas respectivas políticas de privacidade.
-            </p>
-            <p>
-              Você é livre para recusar a nossa solicitação de informações pessoais, entendendo que talvez não possamos fornecer alguns dos serviços desejados.
-            </p>
-            <p>
-              O uso continuado de nosso site será considerado como aceitação de nossas práticas em torno de privacidade e informações pessoais. Se você tiver alguma dúvida sobre como lidamos com dados do usuário e informações pessoais, entre em contacto connosco.
-            </p>
+      <div class="bg-white p-8 sm:p-12 md:p-16 rounded-2xl shadow-xl shadow-gray-200/50 border border-gray-100 space-y-12 text-gray-700 leading-relaxed text-[16px]">
+        <section>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">1. Controlador e canais de contato</h2>
+          <div class="space-y-4">
+            <p>A <strong>Central da Caçamba</strong> é responsável pelas decisões relativas ao tratamento dos dados pessoais utilizados em seus canais de atendimento.</p>
+            <ul class="list-disc pl-6 space-y-2">
+              <li><strong>Endereço:</strong> {SITE_CONFIG.address.streetAddress}, {SITE_CONFIG.address.addressLocality} - {SITE_CONFIG.address.addressRegion}, CEP {SITE_CONFIG.address.postalCode}.</li>
+              <li><strong>E-mail:</strong> <a class="font-bold text-yellow-700 hover:underline" href={`mailto:${SITE_CONFIG.email}`}>{SITE_CONFIG.email}</a></li>
+              <li><strong>WhatsApp e telefone:</strong> <a class="font-bold text-yellow-700 hover:underline" href={`https://wa.me/${SITE_CONFIG.phones.whatsapp}`} target="_blank" rel="noopener noreferrer">{SITE_CONFIG.phones.whatsappDisplay}</a></li>
+            </ul>
+            <p>Esses canais também podem ser usados para solicitações relacionadas à Lei Geral de Proteção de Dados Pessoais — LGPD.</p>
           </div>
-        </div>
+        </section>
 
         <hr class="border-gray-100" />
 
-        <!-- Bloco 2: Google AdSense e Cookies -->
-        <div>
-          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">
-            2. Publicidade, Cookies e Google AdSense
-          </h2>
-          <div class="space-y-4 text-gray-700 leading-relaxed text-[16px]">
-            <div class="bg-amber-50/60 border border-amber-200/80 rounded-xl p-5 mb-5 text-gray-800">
-              <p class="font-semibold text-gray-900 mb-2">Google AdSense e Cookies de Terceiros</p>
-              <p>
-                O serviço Google AdSense que usamos para veicular publicidade usa um cookie DoubleClick para veicular anúncios mais relevantes em toda a Web e limitar o número de vezes que um determinado anúncio é exibido para você.
-              </p>
-              <p class="mt-2 text-sm text-gray-600">
-                Para mais informações sobre o Google AdSense, consulte as FAQs oficiais sobre privacidade do Google AdSense.
-              </p>
+        <section>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">2. Dados que podem ser tratados</h2>
+          <div class="space-y-4">
+            <p>Conforme a forma de contato e o serviço solicitado, podemos tratar:</p>
+            <ul class="list-disc pl-6 space-y-2">
+              <li>nome, empresa, telefone e informações fornecidas na mensagem;</li>
+              <li>CEP, endereço da obra e dados necessários para avaliar rota, acesso e posicionamento;</li>
+              <li>tipo e volume aproximado dos resíduos, datas pretendidas e fotos enviadas voluntariamente pelo cliente;</li>
+              <li>registros da conversa, proposta, contratação, entrega, retirada e documentação aplicável ao serviço;</li>
+              <li>dados técnicos de acesso, como endereço IP, data, horário, navegador e registros de segurança disponibilizados pela infraestrutura de hospedagem.</li>
+            </ul>
+            <div class="p-5 rounded-xl bg-amber-50 border border-amber-200 text-gray-800">
+              <strong>Formulário de contato:</strong> os campos da página de contato são usados no próprio navegador para montar uma mensagem. O site não salva esse formulário em banco de dados. Os dados são enviados à plataforma WhatsApp somente quando o usuário decide continuar o atendimento por esse canal.
             </div>
-            
-            <p>
-              Utilizamos anúncios para compensar os custos de funcionamento deste site e fornecer financiamento para futuros desenvolvimentos. Os cookies de publicidade comportamental usados por este site foram projetados para garantir que você forneça os anúncios mais relevantes sempre que possível, rastreando anonimamente seus interesses e apresentando coisas semelhantes que possam ser do seu interesse.
-            </p>
-            <p>
-              Vários parceiros anunciam em nosso nome e os cookies de rastreamento de afiliados simplesmente nos permitem ver se nossos clientes acessaram o site através de um dos sites de nossos parceiros, para que possamos creditá-los adequadamente e, quando aplicável, permitir que nossos parceiros afiliados ofereçam qualquer promoção que pode fornecê-lo para fazer uma compra.
-            </p>
           </div>
-        </div>
+        </section>
 
         <hr class="border-gray-100" />
 
-        <!-- Bloco 3: Compromisso do Usuário -->
-        <div>
-          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">
-            3. Compromisso do Usuário
-          </h2>
-          <p class="text-gray-700 text-[16px] mb-5">
-            O usuário se compromete a fazer uso adequado dos conteúdos e das informações que a <strong>Central da Caçamba</strong> oferece no site, incluindo:
-          </p>
-
-          <div class="grid gap-4">
-            <div class="flex items-start gap-4 p-4 rounded-xl bg-gray-50 border border-gray-100">
-              <span class="flex-shrink-0 w-8 h-8 rounded-lg bg-primary font-black text-gray-900 flex items-center justify-center text-sm">
-                A
-              </span>
-              <p class="text-gray-700 text-[15px] pt-1 leading-relaxed">
-                Não se envolver em atividades que sejam ilegais ou contrárias à boa fé e à ordem pública;
-              </p>
-            </div>
-
-            <div class="flex items-start gap-4 p-4 rounded-xl bg-gray-50 border border-gray-100">
-              <span class="flex-shrink-0 w-8 h-8 rounded-lg bg-primary font-black text-gray-900 flex items-center justify-center text-sm">
-                B
-              </span>
-              <p class="text-gray-700 text-[15px] pt-1 leading-relaxed">
-                Não difundir propaganda ou conteúdo de natureza racista, xenofóbica, jogos de sorte ou azar, qualquer tipo de pornografia ilegal, de apologia ao terrorismo ou contra os direitos humanos;
-              </p>
-            </div>
-
-            <div class="flex items-start gap-4 p-4 rounded-xl bg-gray-50 border border-gray-100">
-              <span class="flex-shrink-0 w-8 h-8 rounded-lg bg-primary font-black text-gray-900 flex items-center justify-center text-sm">
-                C
-              </span>
-              <p class="text-gray-700 text-[15px] pt-1 leading-relaxed">
-                Não causar danos aos sistemas físicos ou lógicos da Central da Caçamba, de seus fornecedores ou de terceiros, nem introduzir ou disseminar códigos maliciosos.
-              </p>
-            </div>
+        <section>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">3. Finalidades e bases legais</h2>
+          <div class="space-y-4">
+            <p>Os dados podem ser utilizados para:</p>
+            <ul class="list-disc pl-6 space-y-2">
+              <li>responder dúvidas, verificar disponibilidade e preparar orçamento ou proposta;</li>
+              <li>realizar procedimentos solicitados antes da contratação e executar o serviço contratado;</li>
+              <li>organizar entrega, retirada, pagamento, atendimento e documentação da operação;</li>
+              <li>cumprir obrigações legais ou regulatórias e exercer direitos em processos administrativos, judiciais ou arbitrais;</li>
+              <li>prevenir fraude, abuso, incidentes de segurança e uso indevido dos canais;</li>
+              <li>atender consentimento específico, quando essa for a base adequada.</li>
+            </ul>
+            <p>As bases legais são definidas conforme a situação e podem incluir procedimentos preliminares e execução de contrato, cumprimento de obrigação legal ou regulatória, exercício regular de direitos, legítimo interesse e consentimento.</p>
           </div>
-        </div>
+        </section>
 
         <hr class="border-gray-100" />
 
-        <!-- Bloco 4: Mais Informações e Vigência -->
-        <div>
-          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">
-            4. Mais Informações
-          </h2>
-          <div class="space-y-4 text-gray-700 leading-relaxed text-[16px]">
-            <p>
-              Esperamos que esteja esclarecido e, como mencionado anteriormente, se houver algo que você não tem certeza se precisa ou não, geralmente é mais seguro deixar os cookies ativados, caso interaja com um dos recursos que você usa em nosso site.
-            </p>
-            
-            <div class="mt-6 p-4 rounded-xl bg-gray-50 border border-gray-200 text-sm text-gray-600 flex items-center justify-between flex-wrap gap-2">
-              <span><strong>Efetividade:</strong> Esta política é efetiva a partir de <strong>11 de Outubro de 2026 às 13:12</strong>.</span>
-              <span class="text-xs bg-green-100 text-green-800 font-bold px-2.5 py-1 rounded-full">Vigente</span>
-            </div>
+        <section>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">4. Compartilhamento e serviços de terceiros</h2>
+          <div class="space-y-4">
+            <p>Os dados podem ser compartilhados somente na medida necessária com fornecedores de hospedagem e tecnologia, WhatsApp/Meta quando o usuário escolhe esse atendimento, prestadores envolvidos na operação, unidades receptoras, assessores profissionais e autoridades públicas quando houver obrigação ou solicitação válida.</p>
+            <p>O site também utiliza recursos externos, como Google Fonts e Google Maps. Ao abrir mapas, rotas, redes sociais ou WhatsApp, o usuário passa a utilizar serviços sujeitos às políticas dos respectivos fornecedores.</p>
+            <p>Não vendemos dados pessoais. Também não utilizamos atualmente Google AdSense, publicidade comportamental ou programa de afiliados neste site.</p>
           </div>
-        </div>
+        </section>
 
-        <!-- Bloco de Dúvidas / Contato -->
+        <hr class="border-gray-100" />
+
+        <section>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">5. Cookies e dados de navegação</h2>
+          <div class="space-y-4">
+            <p>O site não instala atualmente cookies próprios de publicidade comportamental. Recursos externos e a infraestrutura de hospedagem podem processar dados técnicos necessários para entrega de conteúdo, segurança e funcionamento dos serviços.</p>
+            <p>Se forem adicionados cookies não essenciais, ferramentas de publicidade ou medição que exijam consentimento, este aviso e os controles de escolha serão atualizados antes da utilização.</p>
+          </div>
+        </section>
+
+        <hr class="border-gray-100" />
+
+        <section>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">6. Retenção e segurança</h2>
+          <div class="space-y-4">
+            <p>Os dados são mantidos pelo período necessário para atendimento, contratação, execução do serviço, cumprimento de obrigações legais e exercício regular de direitos. Depois desse período, podem ser eliminados ou anonimizados, salvo quando a conservação for permitida ou exigida por lei.</p>
+            <p>Adotamos medidas administrativas e técnicas compatíveis com o porte e a natureza da operação. Nenhum ambiente conectado à internet, contudo, pode ser declarado totalmente livre de riscos.</p>
+          </div>
+        </section>
+
+        <hr class="border-gray-100" />
+
+        <section>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">7. Direitos do titular</h2>
+          <div class="space-y-4">
+            <p>Nos termos da LGPD e conforme aplicável ao caso, o titular pode solicitar:</p>
+            <ul class="list-disc pl-6 space-y-2">
+              <li>confirmação da existência de tratamento e acesso aos dados;</li>
+              <li>correção de dados incompletos, inexatos ou desatualizados;</li>
+              <li>anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade;</li>
+              <li>informações sobre compartilhamento e sobre a possibilidade de não fornecer consentimento;</li>
+              <li>eliminação de dados tratados com consentimento e revogação do consentimento, quando cabível;</li>
+              <li>oposição a tratamento realizado em desconformidade e revisão de decisão automatizada, se houver.</li>
+            </ul>
+            <p>Para proteger o próprio titular, poderemos solicitar informações razoáveis para confirmar sua identidade. A solicitação pode ser enviada para <a class="font-bold text-yellow-700 hover:underline" href={`mailto:${SITE_CONFIG.email}`}>{SITE_CONFIG.email}</a>.</p>
+          </div>
+        </section>
+
+        <hr class="border-gray-100" />
+
+        <section>
+          <h2 class="text-xl sm:text-2xl font-black text-gray-900 tracking-tight mb-5 border-l-4 border-primary pl-4">8. Atualizações deste aviso</h2>
+          <div class="space-y-4">
+            <p>Esta política pode ser atualizada para refletir alterações legais, operacionais ou tecnológicas. A versão vigente será mantida nesta página com a data de atualização.</p>
+            <p class="p-4 rounded-xl bg-gray-50 border border-gray-200"><strong>Última atualização:</strong> 14 de novembro de 2026.</p>
+          </div>
+        </section>
+
         <div class="bg-secondary/5 border border-secondary/20 rounded-2xl p-6 sm:p-8 flex flex-col sm:flex-row items-center justify-between gap-6">
           <div>
-            <h3 class="text-lg font-bold text-gray-900 mb-1">Dúvidas sobre a nossa privacidade?</h3>
-            <p class="text-sm text-gray-600">Nossa equipe está à disposição para esclarecer qualquer questão relacionada aos seus dados.</p>
+            <h2 class="text-lg font-bold text-gray-900 mb-1">Solicitação sobre dados pessoais</h2>
+            <p class="text-sm text-gray-600">Use o e-mail informado para exercer seus direitos ou esclarecer dúvidas sobre esta política.</p>
           </div>
-          <a 
-            href={`https://wa.me/${SITE_CONFIG.phones.whatsapp}?text=Olá,%20gostaria%20de%20esclarecer%20uma%20dúvida%20sobre%20a%20política%20de%20privacidade`}
-            target="_blank"
-            rel="noopener noreferrer"
-            class="whitespace-nowrap inline-flex items-center gap-2 bg-primary hover:bg-yellow-400 text-gray-900 font-extrabold px-6 py-3 rounded-xl transition-all shadow-md hover:shadow-lg active:scale-95 text-sm"
-          >
-            Falar Conosco
+          <a href={`mailto:${SITE_CONFIG.email}?subject=Solicitação%20sobre%20dados%20pessoais`} class="whitespace-nowrap inline-flex items-center gap-2 bg-primary hover:bg-yellow-400 text-gray-900 font-extrabold px-6 py-3 rounded-xl transition-all shadow-md text-sm">
+            Enviar por e-mail
           </a>
         </div>
-
       </div>
     </div>
   </section>
