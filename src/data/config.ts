@@ -13,11 +13,11 @@ export const SITE_CONFIG = {
     postalCode: '07140-010',
     addressCountry: 'BR'
   },
+  mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Av.%20Lauro%20de%20Gusm%C3%A3o%20Silveira%2C%201500%2C%20Guarulhos%20-%20SP%2C%2007140-010',
   
   phones: {
     whatsapp: '5511943758880',
     whatsappDisplay: '(11) 94375-8880',
-    landline: '(11) 94375-8880',
   },
   
   email: 'contato@centraldacacamba.com.br',

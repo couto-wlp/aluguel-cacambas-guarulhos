@@ -1,5 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import { SITE_CONFIG } from '../data/config';
 ---
 
 <Layout
@@ -45,6 +46,16 @@ import Layout from '../layouts/Layout.astro';
           </div>
 
           <div>
+            <h3 class="text-[22px] font-black text-gray-900 uppercase tracking-tight mb-5 border-l-[5px] border-primary pl-5 py-1 leading-none">Pátio Operacional</h3>
+            <p class="text-gray-600 leading-relaxed text-[16px] mb-4">
+              Nosso endereço é {SITE_CONFIG.address.streetAddress}, {SITE_CONFIG.address.addressLocality} - {SITE_CONFIG.address.addressRegion}, CEP {SITE_CONFIG.address.postalCode}.
+            </p>
+            <a href={SITE_CONFIG.mapsUrl} target="_blank" rel="noopener noreferrer" class="font-bold text-yellow-600 hover:text-yellow-700 transition-colors">
+              Ver localização no Google Maps →
+            </a>
+          </div>
+
+          <div>
             <h3 class="text-[22px] font-black text-gray-900 uppercase tracking-tight mb-5 border-l-[5px] border-primary pl-5 py-1 leading-none">Quem Faz Acontecer (Nossa Equipe)</h3>
             <p class="text-gray-600 leading-relaxed text-[16px]">
               A operação depende de atendimento claro e planejamento. Por isso, pedimos informações sobre endereço, vaga, inclinação, fiação, portões e restrições do local antes da entrega. Esses dados ajudam motoristas e equipe de atendimento a organizar o serviço com mais segurança.
@@ -69,8 +80,8 @@ import Layout from '../layouts/Layout.astro';
           <div class="relative w-full mb-10">
             <img src="/images/sobre_nos.webp" width="600" height="450" alt="Nossa Frota" loading="lazy" decoding="async" class="w-full h-auto rounded-[32px] object-cover shadow-2xl shadow-gray-200/60 aspect-[4/3]" />
             <div class="absolute -bottom-6 -right-4 bg-primary rounded-3xl p-5 shadow-xl shadow-primary/20 w-[140px] text-center transform hover:-translate-y-1 hover:rotate-2 transition-all">
-              <span class="block text-4xl font-black text-gray-900 leading-none mb-1.5">20+</span>
-              <span class="block text-[11px] font-black text-gray-900 uppercase tracking-widest leading-tight">Anos de<br/>Experiência</span>
+              <span class="block text-2xl font-black text-gray-900 leading-none mb-1.5">Pátio</span>
+              <span class="block text-[11px] font-black text-gray-900 uppercase tracking-widest leading-tight">Operacional em<br/>Guarulhos</span>
             </div>
           </div>
 

@@ -170,10 +170,10 @@ const { title, description, canonicalUrl, transparentHeader = false } = Astro.pr
             <h4 class="font-black text-primary mb-6 uppercase tracking-wider text-sm">Operação & Meio Ambiente</h4>
             <div class="flex items-start gap-4 mb-8">
               <svg class="w-5 h-5 text-primary shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
-              <p class="text-sm text-gray-600 leading-relaxed">
+              <a href={SITE_CONFIG.mapsUrl} target="_blank" rel="noopener noreferrer" class="text-sm text-gray-600 leading-relaxed hover:text-primary transition-colors">
                 {SITE_CONFIG.address.streetAddress}<br/>
                 {SITE_CONFIG.address.addressLocality} - {SITE_CONFIG.address.addressRegion}, {SITE_CONFIG.address.postalCode}
-              </p>
+              </a>
             </div>
             
             <div class="flex flex-col gap-4 text-sm ml-9">
