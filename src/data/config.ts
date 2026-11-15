@@ -4,6 +4,7 @@ export const SITE_CONFIG = {
   siteName: 'Central da Caçamba',
   siteTitle: 'Central da Caçamba | Aluguel de Caçamba em Guarulhos',
   siteDescription: 'Aluguel de caçambas estacionárias em Guarulhos para obras residenciais, comerciais e industriais. Atendimento 24 horas, todos os dias.',
+  foundingDate: '2006',
   
   // Contato (NAP)
   address: {
