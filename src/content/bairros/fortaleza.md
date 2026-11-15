@@ -26,7 +26,7 @@ O transporte de terra e pedras exige cuidados especiais para evitar acidentes:
 
 **Distribua o peso:** Não acumule toda a terra pesada de um lado só da caçamba. O equilíbrio é essencial para que o caminhão consiga içar a caixa sem forçar o sistema hidráulico.
 
-**Nunca ultrapasse a borda:** Terra com excesso na borda fatalmente escorrega para o asfalto ou atinge carros de trás durante as subidas do bairro. Limite o volume à marca superior da caixa.
+**Nunca ultrapasse a borda:** Terra acima do limite pode escorregar para o asfalto durante a movimentação e aumentar o risco para outros veículos. Mantenha o volume abaixo da borda da caixa.
 
 **Sem lixo orgânico:** Nossa licença é para resíduos da construção civil (RCC). Lixo doméstico e produtos químicos inflamáveis não são aceitos.
 

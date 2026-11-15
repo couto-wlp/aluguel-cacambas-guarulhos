@@ -1,12 +1,12 @@
 ---
 name: "Água Azul"
-title: "Aluguel de Caçamba Água Azul Guarulhos: Preço Justo"
+title: "Aluguel de Caçamba Água Azul Guarulhos: Orçamento"
 description: "Alugue caçamba no bairro Água Azul, em Guarulhos. Consulte tamanhos, materiais aceitos, disponibilidade e condições de acesso."
 ---
 
 ## Aluguel de Caçamba no Água Azul Guarulhos - SP
 
-O bairro Água Azul, em Guarulhos, é conhecido por suas áreas mais verdes, chácaras e residências que frequentemente passam por expansões, reformas e manutenções paisagísticas. Seja para construir uma nova área de lazer, reformar a fachada ou realizar a limpeza de um grande terreno, o acúmulo de resíduos é inevitável. É exatamente nesse momento que o aluguel de caçamba no Água Azul se torna um serviço indispensável para garantir que sua obra não pare e que o meio ambiente seja respeitado.
+O bairro Água Azul possui áreas verdes, chácaras e residências que podem passar por expansões, reformas e manutenção de terrenos. Nessas atividades, a caçamba ajuda a organizar os materiais aceitos e a programar sua retirada conforme o acesso e o volume gerado.
 
 ## Por que a Gestão de Resíduos é Crucial nesta Região?
 
@@ -31,7 +31,7 @@ Para garantir a segurança e a conformidade legal do descarte, orientamos nossos
 
 ## Como Funciona o Nosso Atendimento no Água Azul?
 
-A experiência do cliente é a nossa prioridade. Sabemos que o cronograma de uma obra é apertado, por isso nosso processo de locação é ágil e sem burocracia. Ao entrar em contato conosco, nossa equipe especializada ajudará você a dimensionar o tamanho ideal da caçamba (geralmente trabalhamos com volumes de [4m³](/servicos/aluguel-cacamba-4m3-guarulhos) ou [5m³](/servicos/aluguel-cacamba-5m3-guarulhos), dependendo da densidade do material).
+Ao entrar em contato, informe o tipo e o volume aproximado dos resíduos. Com esses dados, a equipe pode apresentar as opções disponíveis, como as caçambas de [4m³](/servicos/aluguel-cacamba-4m3-guarulhos) e [5m³](/servicos/aluguel-cacamba-5m3-guarulhos), considerando também a densidade do material e o acesso ao endereço.
 
 A entrega é programada conforme a rota, a disponibilidade e as condições do endereço. A caçamba deve ser posicionada em local seguro, respeitando o fluxo de veículos e o espaço necessário para a retirada. Em logradouro público, a Lei Municipal nº 7.572/2017 prevê, como regra geral, permanência máxima de cinco dias entre colocação e retirada; em determinadas vias, o limite pode ser menor.
 
@@ -41,6 +41,6 @@ O [Observatório de Políticas Públicas de Guarulhos](https://observatorio.guar
 
 ## Autoridade e Confiança para a sua Obra
 
-No mercado de aluguel de caçambas em Guarulhos, a confiança é construída com pontualidade e transparência. Somos uma empresa devidamente registrada e autorizada pelos órgãos competentes de limpeza urbana e meio ambiente. Emitimos o Controle de Transporte de Resíduos (CTR), um documento que comprova que você, como gerador do entulho, deu a destinação legal e ecológica ao material.
+No mercado de aluguel de caçambas em Guarulhos, a confiança depende de informações claras e documentação compatível com o serviço. A empresa informa no site a Licença SMMA L.O. nº 0387/24 e o Cadastro ATT-GR nº 092/24. Quando aplicável, o CTR registra dados do transporte e da destinação informada.
 
-Não deixe que o acúmulo de sujeira atrase o seu projeto no Água Azul. Conte com uma equipe profissional, frota moderna e um atendimento focado em resolver o seu problema com máxima eficiência. Entre em contato agora mesmo, solicite o seu orçamento sem compromisso e mantenha a sua obra limpa e dentro da lei!
+Para solicitar atendimento no Água Azul, envie o endereço, fotos do acesso, os materiais e a data desejada. A equipe verifica as condições da rota e apresenta a disponibilidade antes da confirmação.

@@ -10,7 +10,7 @@ O bairro do Bananal, situado nas proximidades do Aeroporto Internacional de Guar
 
 ## A Importância de Manter o Bairro Limpo
 
-Em bairros residenciais movimentados como o Bananal, o espaço nas calçadas é valioso. Amontoar restos de tijolos, areia, sacos de cimento rasgados ou azulejos velhos na frente de casa não apenas causa transtornos para os pedestres, como também atrai animais peçonhentos e entope bueiros em dias de chuva. Além disso, a fiscalização da Prefeitura de Guarulhos é ativa, e o descarte irregular na via pública gera multas severas ao dono do imóvel.
+Em bairros residenciais como o Bananal, resíduos soltos na calçada podem dificultar a passagem de pedestres e alcançar a drenagem em dias de chuva. O descarte irregular em área pública também pode gerar fiscalização e responsabilização conforme a situação e as regras aplicáveis.
 
 Ao contratar a locação de uma caçamba estacionária conosco, você centraliza todo o lixo da obra em um único recipiente seguro, mantendo a estética da rua, respeitando seus vizinhos e, principalmente, atuando dentro da lei.
 

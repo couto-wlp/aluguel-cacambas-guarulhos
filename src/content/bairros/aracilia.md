@@ -10,9 +10,9 @@ Localizado próximo à Rodovia Presidente Dutra, o bairro Aracília reúne empre
 
 ## Atendimento Especializado para o Setor Logístico e Comercial
 
-Entendemos que, para empresas e condomínios industriais, "tempo é dinheiro". Uma obra atrasada por falta de local para escoar o entulho significa prejuízo. Nossa especialidade é fornecer um fluxo contínuo de gestão de resíduos sólidos.
+Para empresas e condomínios industriais, a retirada de resíduos precisa acompanhar o cronograma da obra. A programação prévia ajuda a organizar entregas, trocas e retiradas conforme o volume gerado e a disponibilidade da operação.
 
-Temos capacidade estrutural para atender desde pequenas manutenções em pátios de manobra até grandes reformas de galpões. Nosso serviço de locação de caçamba estacionária permite programar entregas e retiradas fora do horário de pico comercial, evitando gargalos no trânsito interno das empresas do Aracília e nas vias de acesso à Dutra.
+O atendimento pode ser programado para pequenas manutenções ou reformas de galpões, conforme o volume, o acesso e a disponibilidade. Horários de entrega e retirada são combinados previamente para reduzir interferências na circulação interna e nas vias de acesso.
 
 ## A Segurança Jurídica do Descarte Correto
 
@@ -24,8 +24,8 @@ Antes da locação, identifique os resíduos e confirme a documentação aplicá
 
 Mesmo em ruas mais largas de polos industriais, a colocação da caçamba segue normas rígidas:
 
-* **Sinalização:** Todas as nossas caçambas possuem faixas refletivas, garantindo visibilidade noturna e evitando acidentes.
-* **Volume Máximo:** O entulho jamais deve ultrapassar a borda superior da caçamba. O excesso de peso compromete o sistema hidráulico do caminhão e, se o material cair na rodovia ou nas ruas do Aracília durante o transporte, a multa recai sobre o gerador e o transportador.
+* **Sinalização:** A caçamba deve manter a sinalização prevista para favorecer sua identificação, inclusive em períodos de baixa visibilidade.
+* **Volume Máximo:** O entulho não deve ultrapassar a borda superior da caçamba. Cargas acima do limite aumentam o risco de derramamento e podem impedir a retirada até que o material seja ajustado.
 * **Proibições:** Restos de óleos industriais, borras de tinta, solventes e lixo orgânico não podem ser descartados em caçambas comuns de construção civil.
 
 ## Compromisso com o Meio Ambiente

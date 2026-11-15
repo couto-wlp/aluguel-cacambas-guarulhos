@@ -16,7 +16,7 @@ Nossa equipe está altamente preparada para atender as ruas do Itaim. Sabemos qu
 
 ## Como Evitar o Descarte Irregular
 
-Áreas populosas e limítrofes como o Jardim Itaim frequentemente sofrem com descartes ilegais em terrenos e barrancos por parte de transportadores piratas. Contratar essas empresas sem placa e sem nome pode render multas severas aplicadas diretamente ao dono da obra por crime ambiental.
+O descarte irregular em terrenos e barrancos causa danos ao bairro e pode gerar responsabilização ambiental. Verifique a identificação e a regularidade do transportador, informe a composição da carga e guarde os documentos aplicáveis ao serviço.
 
 Barro, tijolos e outros resíduos devem ser informados antes da locação para confirmar o recebimento e a separação necessária. O CTR pode registrar o transporte quando aplicável, mas não substitui as demais responsabilidades do gerador.
 

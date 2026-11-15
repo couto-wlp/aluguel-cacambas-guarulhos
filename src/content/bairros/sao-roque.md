@@ -14,9 +14,9 @@ Diferente de reformas em áreas centrais e verticais, as obras no bairro São Ro
 
 Nossa empresa conta com caçambas estacionárias estruturadas em aço espesso reforçado, desenhadas especificamente para suportar o impacto de pedregulhos, torrões densos de terra e alvenaria pesada. Além disso, compreendemos os desafios de acesso no São Roque. Sabemos que várias ruas do bairro ainda possuem trechos de terra batida ou subidas acentuadas. Nossos motoristas de caminhão poli-guindaste são experientes nessas condições, posicionando a caçamba exatamente no ponto mais seguro e prático para o carregamento dos trabalhadores.
 
-## Responsabilidade com a Natureza e Emissão do Laudo CTR
+## Responsabilidade Ambiental e Documentação
 
-Por ser uma região próxima a zonas verdes e mananciais, o descarte clandestino de entulho no São Roque é uma infração grave fiscalizada de perto pelos órgãos ambientais de Guarulhos. Contratar empresas sem alvará ou carroceiros informais coloca o proprietário do imóvel na rota de multas severas, pois a legislação municipal responsabiliza o gerador do resíduo de forma solidária.
+Por estar próximo a áreas verdes, o São Roque exige atenção especial à destinação dos resíduos. O gerador deve verificar a regularidade do transporte, informar os materiais e guardar a documentação aplicável. O descarte irregular pode gerar responsabilização conforme as circunstâncias e a legislação vigente.
 
 Antes da entrega, avaliamos o tipo de material e as condições de acesso ao imóvel. Os resíduos aceitos são encaminhados a unidades licenciadas de triagem, reciclagem ou destinação. O CTR registra a movimentação e ajuda a manter o histórico documental da obra.
 

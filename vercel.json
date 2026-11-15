@@ -3,6 +3,16 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/politica-de-privacidade",
+      "destination": "/privacidade",
+      "permanent": true
+    },
+    {
+      "source": "/termos-de-uso",
+      "destination": "/termos",
+      "permanent": true
+    },
+    {
       "source": "/blog/aluguel-cacamba-entulho-guarulhos-solucao-definitiva",
       "destination": "/guia-pratico-para-descarte-correto-de-entulho-em-obras",
       "permanent": true

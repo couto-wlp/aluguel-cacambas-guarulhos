@@ -22,7 +22,7 @@ Atuamos com a documentação aplicável ao transporte e encaminhamos os materiai
 
 ## Instruções Essenciais Para o Uso Seguro
 
-O descarte seguro garante uma obra sem acidentes. Pedimos atenção a três normas de trânsito vitais:
+O acondicionamento correto reduz riscos durante o uso e a retirada da caçamba. Observe estas orientações:
 
 **Limite de Carga:** Ao descartar materiais pesados como terra ou concreto, não ultrapasse a altura das bordas da caçamba. Caminhões pesados em rodovias ou ladeiras não podem trafegar com cargas excedentes sob risco de tombamento.
 

@@ -1,7 +1,7 @@
 ---
 name: "Presidente Dutra"
 title: "Aluguel Caçamba Presidente Dutra Guarulhos - Preços"
-description: "Caçamba no Jardim Presidente Dutra, Guarulhos. Agilidade para sua reforma com destinação legalizada de materiais. Fale conosco!"
+description: "Caçamba no Jardim Presidente Dutra, Guarulhos. Consulte materiais aceitos, acesso, documentação aplicável e disponibilidade."
 ---
 
 ## Aluguel de Caçamba no Jardim Presidente Dutra: Obra Limpa

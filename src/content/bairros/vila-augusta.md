@@ -16,7 +16,7 @@ Condomínios podem definir horários para entrega e para o transporte do entulho
 
 ## Documentação de Transporte e Destinação do Entulho
 
-Em bairros de alto padrão, a exigência pela legalidade é inegociável. Contratar "caçambeiros" irregulares é um risco financeiro e jurídico altíssimo. Se o entulho da sua obra for despejado de forma ilegal pela cidade, a prefeitura rastreará o material e a multa ambiental será aplicada diretamente ao dono do imóvel ou ao condomínio.
+O gerador deve verificar a regularidade do transportador, informar corretamente os materiais e guardar a documentação aplicável. Caso ocorra descarte irregular, a responsabilização depende das circunstâncias e da legislação vigente.
 
 Madeira, gesso e cerâmica podem exigir separação e destinos diferentes. Informe esses materiais antes da locação para confirmarmos o recebimento e a documentação aplicável, incluindo CTR quando previsto para a operação.
 

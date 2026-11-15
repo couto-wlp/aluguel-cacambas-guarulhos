@@ -30,7 +30,7 @@ Uma das principais dúvidas dos nossos clientes é onde a caçamba pode ser colo
 
 ## O Que Não Colocar na Caçamba?
 
-Para mantermos a eficiência e a segurança, lembramos que a caçamba é destinada a entulhos de obras. Não permitimos o descarte de lixo hospitalar, produtos químicos, telhas de amianto (que requerem descarte especial), óleo lubrificante e lixo orgânico. O respeito a essas regras garante que a caçamba seja recolhida sem atrasos.
+Para manter a segurança da operação, a caçamba é destinada aos materiais aceitos na contratação. Lixo hospitalar, produtos químicos, materiais com amianto, óleo lubrificante e lixo orgânico exigem tratamento específico e não devem ser misturados à carga. A separação correta reduz o risco de recusa ou atraso na retirada.
 
 ## Como Funciona o Atendimento no Água Chata
 

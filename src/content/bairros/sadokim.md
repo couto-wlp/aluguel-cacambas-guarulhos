@@ -1,7 +1,7 @@
 ---
 name: "Sadokim"
 title: "Aluguel de Caçambas Sadokim Guarulhos - Orçamentos"
-description: "Aluguel de caçamba na área industrial do Sadokim. Logística de troca rápida, frota pesada e laudo CTR para CNPJ. Ligue!"
+description: "Aluguel de caçamba no Sadokim, Guarulhos. Consulte tamanhos, materiais aceitos, acesso, documentação aplicável e disponibilidade."
 ---
 
 ## Logística Pesada: Aluguel de Caçambas na Região do Sadokim
